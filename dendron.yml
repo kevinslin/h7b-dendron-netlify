@@ -1,5 +1,5 @@
 version: 4
-useFMTitle: true
+useFMTitle: false
 useNoteTitleForLink: true
 mermaid: true
 useKatex: true
@@ -16,7 +16,7 @@ site:
     logo: vault/assets/logo.png
     siteFaviconPath: vault/assets/favicon.ico
     siteUrl: 'https://h7b.netlify.app/'
-    siteLastModified: true
+    siteLastModified: false
     gh_edit_branch: main
     duplicateNoteBehavior:
         action: useVault
@@ -85,7 +85,7 @@ workspace:
     maxNoteLength: 204800
     dendronVersion: 0.70.0
 preview:
-    enableFMTitle: true
+    enableFMTitle: false
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true

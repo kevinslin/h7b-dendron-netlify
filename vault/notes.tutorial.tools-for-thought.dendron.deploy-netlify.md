@@ -2,10 +2,12 @@
 id: 3UHqQ5XkT3JvF1JE4jUdR
 title: Deploy Netlify
 desc: ''
-updated: 1640063047662
+updated: 1640066488163
 created: 1640060126202
 ---
-# Deploy my Dendron vault on Netlify
+# Publish my Dendron vault using Netlify
+
+Publish my Dendron vault by deploying on Netlify, with notes stored on private GitHub repo
 
 ref: [Dendron blog](https://blog.dendron.so/notes/7h7zZkjF4Yqz8XSrHS1je/)
 
@@ -46,9 +48,24 @@ DONE
             name: h7b-dendron-netlify
             sync: sync
     ```
+    ```yaml
+    preview:
+        enableFMTitle: false
+    ```
+    ```yaml
+    useFMTitle: false
+    ```
 
 3. Copy `vault` folder from old location to replace `vault` folder in new repo `h7b-dendron-netlify` folder location.
 
 4. Commit and push new contents to repo `h7b-dendron-netlify`
 
 DONE
+
+## Thoughts:
+
+With this Netlify workflow, I just need to use `Dendron: Workspace: Sync` to push updated contents. Then it's done on my part. The built process will be executed by Netlify. I don't have to use `Dendron CLI` to build manually and push output `docs` folder to GitHub Pages. 
+
+By deploying on Netlify, my website will be built after each commits to my GitHub repo.
+
+The free tier limit of Netlify is 300 minutes / month for `Build minutes` (The time it takes Netlify to build my site)
