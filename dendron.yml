@@ -11,8 +11,11 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron Netlify Template
-    description: Personal knowledge space
+    title: H7B
+    description: Mes belles lettres
+    logo: vault/assets/logo.png
+    siteFaviconPath: vault/assets/favicon.ico
+    siteUrl: 'https://h7b.netlify.app/'
     siteLastModified: true
     gh_edit_branch: main
     duplicateNoteBehavior:
@@ -38,6 +41,8 @@ workspace:
     vaults:
         -
             fsPath: vault
+            name: h7b-dendron-netlify
+            sync: sync
     journal:
         dailyDomain: daily
         name: journal

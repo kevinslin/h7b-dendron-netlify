@@ -1,10 +1,19 @@
 ---
-id: ik5Bi5OCTsmfKfq5JQtEB
-title: Root
+id: bK2oWh3nbKjoUhY34x9dy
+title: Welcome
 desc: ''
-updated: 1637610830605
-created: 1637610830605
+updated: 1639879171260
+created: 1625408489834
 ---
-# Welcome to Dendron
+# Hey 👋
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 
+This is my [digital garden](https://maggieappleton.com/garden-history). I use this as a frictionless way to 
+- learn in public 
+- share my thoughts without being constrained to long, polished blog posts
+- quickly reference my notes while I learn new things each day.
+
+> Gardens are imperfect by design. They don't hide their rough edges or claim to be a permanent source of truth. 
+
+So feel free to experiment, play and collaborate with me.
+
+Huy (he/him)
