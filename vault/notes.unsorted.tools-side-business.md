@@ -2,7 +2,7 @@
 id: yiWxICoo4iZjgeZQH4bty
 title: Tools Side Business
 desc: ''
-updated: 1637670939522
+updated: 1640117740864
 created: 1636496890368
 ---
 # If I open my own business, what tools I should look at?

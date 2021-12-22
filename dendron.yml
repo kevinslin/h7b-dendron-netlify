@@ -13,6 +13,7 @@ site:
     usePrettyRefs: true
     title: H7B
     description: Mes belles lettres
+    author: Huy
     logo: vault/assets/logo.png
     siteFaviconPath: vault/assets/favicon.ico
     siteUrl: 'https://h7b.netlify.app/'

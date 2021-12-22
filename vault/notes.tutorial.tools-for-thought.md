@@ -44,7 +44,7 @@ Thoughts: I currently use as a database, great gratis alternative of [Airtable](
 [Notion](https://www.notion.so/)  
 Difficulty to use: 1/5  
 [Pricing plan](https://www.notion.so/pricing), starting at USD 10/month per user. It has an unlimited free tier for individual use.  
-Publishing: share directly using Notion public link, or [[3rd-party service provider|notes.tutorial.tools-for-thought.notion.publish-with-notion]]
+Publishing: share directly using Notion public link, or [[3rd-party service provider|notes.tutorial.tools-for-thought.notion.publish-notion]]
 
 ## Things I know
 

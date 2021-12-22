@@ -2,7 +2,7 @@
 id: aIzdxkgBr2LmKOsw
 title: Publish Alternatives
 desc: ''
-updated: 1639957686805
+updated: 1640118459456
 created: 1628033267974
 ---
 ## Alternative methods to publish Obsidian vault
@@ -10,8 +10,8 @@ created: 1628033267974
 Obsidian is great but finding a way to publish my Obsidian vault without purchasing `Obsidian Publish` [subscription](https://obsidian.md/publish) is a fun experiment though.
 
 - [[Use MkDocs|notes.tutorial.tools-for-thought.mkdocs-publish]]
-    - Thoughts: has dark theme, built-in navigation bar, search feature, tags in notes not yet supported. My current favorite approach.
-- [MdToNotion](https://github.com/Layjoo/MdToNotion)script to publish notes to Notion page using Notion API
+    - Thoughts: has dark theme, built-in navigation bar, search feature. Tags in notes not yet supported. My current favorite approach.
+- [MdToNotion](https://github.com/Layjoo/MdToNotion) script to publish notes to Notion page using Notion API
     - Discussion in [Obsidian forum](https://forum.obsidian.md/t/publish-obsidian-note-using-notion/27227)
 - [Quartz](https://quartz.jzhao.xyz/)
     - Discussion in [reddit](https://www.reddit.com/r/ObsidianMD/comments/onflb9/quartz_create_and_publish_your_obsidian_vault_for/)
@@ -27,7 +27,7 @@ Obsidian is great but finding a way to publish my Obsidian vault without purchas
     - Thougths: minimalist style, not my type
 - [pubsidian](https://github.com/yoursamlan/pubsidian)
     - Discussion in [Obsidian forum](https://forum.obsidian.md/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825)
-    - Thoughts: has navigation bar, graph view, but the acknowledgement footer is intrusive.
+    - Thoughts: has navigation bar, graph view. But the acknowledgement footer for generator notice is quite intrusive, it should be a subtle `Made with Pubsidian`. Not interested enough to try.
 - [Yet Another Free Publish Alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative)
     - Discussion in [Obisidian forum](https://forum.obsidian.md/t/yet-another-free-publish-alternative-yafpa/23608)
     - Showcase: [Mara-Li blog](https://owlly-house.netlify.app/)

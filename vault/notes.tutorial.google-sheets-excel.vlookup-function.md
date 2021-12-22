@@ -35,6 +35,6 @@ Interestingly, there's a [clip](https://www.youtube.com/watch?v=qR3HVrhsoh4) tha
 
 Lastly, for large data set (more than 10k rows), do not use `VLOOKUP`, `INDEX MATCH` or even `QUERY`, please consider 
 - [[POWER QUERY merges|notes.tutorial.google-sheets-excel.power-query.merge-query]]
-- [[POWER PIVOT relationships|notes.tutorial.google-sheets-excel.power-pivot.relationship]]
+- [[POWER PIVOT relationships|notes.tutorial.google-sheets-excel.relationship-in-data-model]]
 - [Franchise | an open-source notebook for sql
 ](https://franchise.cloud/)

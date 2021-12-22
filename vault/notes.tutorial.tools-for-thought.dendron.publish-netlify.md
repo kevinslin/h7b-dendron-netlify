@@ -1,8 +1,8 @@
 ---
 id: 3UHqQ5XkT3JvF1JE4jUdR
-title: Deploy Netlify
+title: Publish Netlify
 desc: ''
-updated: 1640066488163
+updated: 1640109775143
 created: 1640060126202
 ---
 # Publish my Dendron vault using Netlify
@@ -36,6 +36,7 @@ DONE
     site:
         title: H7B
         description: Mes belles lettres
+        author: Huy
         logo: vault/assets/logo.png
         siteFaviconPath: vault/assets/favicon.ico
         siteUrl: 'https://h7b.netlify.app/'
@@ -68,4 +69,6 @@ With this Netlify workflow, I just need to use `Dendron: Workspace: Sync` to pus
 
 By deploying on Netlify, my website will be built after each commits to my GitHub repo.
 
-The free tier limit of Netlify is 300 minutes / month for `Build minutes` (The time it takes Netlify to build my site)
+The free tier limit of Netlify is 
+- 300 minutes / month for [Build minutes](https://www.netlify.com/pricing/faq/) (The time it takes Netlify to build my site)
+- 100 GB / month Bandwidth

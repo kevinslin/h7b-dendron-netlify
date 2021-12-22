@@ -2,8 +2,8 @@
 id: YGRq-qyhLAUHcozi0JCkN
 title: Tutorial
 desc: ''
-updated: 1638921229269
+updated: 1640116656039
 created: 1625963858697
 nav_order: 2
 ---
-tutorials that I searched
+Tutorials in which I have interest.

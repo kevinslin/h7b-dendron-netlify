@@ -1,6 +1,6 @@
 ---
 id: g6GdWOPn5kTGhW0ziK2oo
-title: Publish with Notion
+title: Publish Notion
 desc: ''
 updated: 1639960079584
 created: 1635966805057

@@ -2,10 +2,10 @@
 id: bh953lNw4PqewrPxW3pLj
 title: My Config Yaml
 desc: ''
-updated: 1640066016653
+updated: 1640110187270
 created: 1640065902749
 ---
-# The details of my dendron.yml
+# What did I configure in my dendron.yml
 
 Dendron use `dendron.yml` file to hold configurations of the workspace
 
