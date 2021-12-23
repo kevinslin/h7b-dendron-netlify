@@ -2,14 +2,14 @@
 id: 3UHqQ5XkT3JvF1JE4jUdR
 title: Publish Netlify
 desc: ''
-updated: 1640109775143
+updated: 1640241442614
 created: 1640060126202
 ---
 # Publish my Dendron vault using Netlify
 
 Publish my Dendron vault by deploying on Netlify, with notes stored on private GitHub repo
 
-ref: [Dendron blog](https://blog.dendron.so/notes/7h7zZkjF4Yqz8XSrHS1je/)
+ref: [Dendron blog](https://blog.dendron.so/notes/7h7zZkjF4Yqz8XSrHS1je/), [Dendron wiki](https://wiki.dendron.so/notes/yetuum6o9wZi6eVJQBbQb/)
 
 ## Getting started
 
@@ -72,3 +72,30 @@ By deploying on Netlify, my website will be built after each commits to my GitHu
 The free tier limit of Netlify is 
 - 300 minutes / month for [Build minutes](https://www.netlify.com/pricing/faq/) (The time it takes Netlify to build my site)
 - 100 GB / month Bandwidth
+
+## Assign my custom domain to Netlify site
+
+ref: [Netlify docs](https://docs.netlify.com/domains-https/custom-domains/)
+
+To assign a custom domain or domain alias to a site, go to `Site settings` › `Domain management`.
+
+To add a custom domain, select `Add custom domain` at the bottom of the `Custom domains` panel, and enter your domain name. Select `Verify`.
+
+If the domain is registered (already has an owner), you will be asked to confirm that you are the owner of the domain. If you are the owner, select Yes, add domain to assign the custom domain to the site.
+
+if the domain was registered elsewhere (my case is [porkbun](https://porkbun.com/)), and you want to continue using your current DNS provider, you will need to add DNS records on your provider to point your domain or subdomain to your site on Netlify
+
+## Configure external DNS for a custom domain
+
+ref: [Netlify docs](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/)
+
+DNS records in `porkbun` before change
+![dns-before](https://i.imgur.com/VfwRxR9.jpg){max-width: 300px, display: block, margin: 0 auto}
+
+In `porkbun` DNS control panel, 
+
+1. Add a `CNAME` record for `www` subdomain, pointing to my site on Netlify `https://h7b.netlify.app/`
+2. Add a `ALIAS` record for apex domain `kool.casa`, pointing to Netlify’s load balancer at: `apex-loadbalancer.netlify.com`
+
+DNS records in `porkbun` after change
+![dns-after](https://i.imgur.com/7Lo5EFF.jpg){max-width: 300px, display: block, margin: 0 auto}

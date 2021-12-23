@@ -2,7 +2,7 @@
 id: kMyz5gwL4xY8buPuxnEa1
 title: Merge Spreadsheets
 desc: ''
-updated: 1639886291121
+updated: 1640241166870
 created: 1639180793342
 ---
 # How to combine / consolidate multiple spreadsheets
@@ -86,10 +86,14 @@ Thoughts:
 - Currently Mito only works as a spreadsheet extension to the JupyterLab notebook
 - [[Installing Mito|notes.tutorial.mito]] is not complicated but it's quite daunting for users who may not be familiar with codings
 
-## Use custom Python script
+## Use Python script
 ref: [Love Spreadsheets | Medium](https://lovespreadsheets.medium.com/merging-spreadsheets-with-python-append-591d599d49da)
 
 Clone this [gist](https://gist.github.com/asharma327/b76258558f3a8394637ad4949321bf9b#file-append-py) to practice `Append`-type join.
+
+ref: [Python In Office](https://pythoninoffice.com/merge-multiple-excel-files-in-python/)
+
+Or Read this [tutorial](https://pythoninoffice.com/merge-multiple-excel-files-in-python/) to practice `Merge`
 
 ## My least favorite would be paid services
 

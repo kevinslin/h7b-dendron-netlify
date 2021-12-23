@@ -82,7 +82,7 @@ Difficulty to setup: 3/5
 Pricing: free  
 Thoughts: open source, static site generator, documents are markdown md files,
 
-[[Docusaurus|notes.tutorial.docusaurus]]  
+[[Docusaurus|notes.tutorial.tools-for-thought.docusaurus]]  
 Difficulty to setup: 4/5  
 Pricing: free  
 Thoughts: generate documents as a Single Page Application (SPA), dark mode, i18n integrated

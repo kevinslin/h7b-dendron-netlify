@@ -2,7 +2,7 @@
 id: p6DAGnvvh2NUL4A2zsAW6
 title: Image
 desc: ''
-updated: 1638738820874
+updated: 1640217151668
 created: 1631926358221
 ---
 # Resize and display image in Dendron
@@ -48,3 +48,21 @@ image:
 publish: true
 ---
 ```
+
+## Trick to update embedded image in multiple notes
+
+Instead of just using image links `![img](img.link)` throughout your docs, using note refs with a single image link allows me to embed it everywhere
+
+Trick:
+- Create a Dendron note that contains all of the images that need to be referenced, with a dedicated header for each image  
+  ```md
+  ![Tutorial Welcome Screen](https://org-dendron-public-assets.s3.amazonaws.com/images/tutorial-welcome-screen-2.png)
+  ```
+  Example notes with all of image links:
+[dendron-github-all-images](https://github.com/dendronhq/dendron-site/blob/master/vault/asset.preview.md#tutorial-dendron-layout-dark)
+- Then use Dendron note ref throughout docs for specific images
+  ```md
+  ![[dendron://dendron.dendron-site/asset.preview#tutorial-dendron-layout-dark,1:#*]]
+  ```
+  Example embedded image in other notes:
+[dendron-image-other-note](https://github.com/dendronhq/dendron-site/blob/a9373e4ae16c1dd00eca79d9328336c5f54277d3/vault/dendron.tutorial.user-interface.md?plain=1#L14)

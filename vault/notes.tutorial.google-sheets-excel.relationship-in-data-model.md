@@ -2,7 +2,7 @@
 id: 3AVFn8txpRewVX5DvaML2
 title: Relationship in Data Model
 desc: ''
-updated: 1640137045083
+updated: 1640236787501
 created: 1639887641096
 ---
 # What is a Relationship in data model of Microsoft 365 products (PowerPivot, Power BI)

@@ -16,7 +16,7 @@ site:
     author: Huy
     logo: vault/assets/logo.png
     siteFaviconPath: vault/assets/favicon.ico
-    siteUrl: 'https://h7b.netlify.app/'
+    siteUrl: 'https://kool.casa/'
     siteLastModified: false
     gh_edit_branch: main
     duplicateNoteBehavior:
