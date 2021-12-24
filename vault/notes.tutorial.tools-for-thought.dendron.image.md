@@ -2,10 +2,12 @@
 id: p6DAGnvvh2NUL4A2zsAW6
 title: Image
 desc: ''
-updated: 1640217151668
+updated: 1640305406513
 created: 1631926358221
 ---
-# Resize and display image in Dendron
+# Tips with image in Dendron
+
+## Resize image and display
 
 ref: [Images | Dendron Wiki](https://wiki.dendron.so/notes/a91fd8da-6895-49fe-8164-a17acd8d9a17/)
 
@@ -51,7 +53,7 @@ publish: true
 
 ## Trick to update embedded image in multiple notes
 
-Instead of just using image links `![img](img.link)` throughout your docs, using note refs with a single image link allows me to embed it everywhere
+Instead of just using image links `![img](img.link)` throughout your docs, using note refs with a single image link. 
 
 Trick:
 - Create a Dendron note that contains all of the images that need to be referenced, with a dedicated header for each image  
@@ -66,3 +68,11 @@ Trick:
   ```
   Example embedded image in other notes:
 [dendron-image-other-note](https://github.com/dendronhq/dendron-site/blob/a9373e4ae16c1dd00eca79d9328336c5f54277d3/vault/dendron.tutorial.user-interface.md?plain=1#L14)
+
+Benefits:
+- allows me to change / update image in one place, and it will be updated everywhere it was referenced within my vault
+- have a note with an image with a caption, and metadata
+
+Current limitation of this trick (wrt Dendron v0.74):
+- cannot do [[image formatting with inline css|notes.tutorial.tools-for-thought.dendron.image#resize-and-display-image,1:#*]]
+- I can insert note refs into a Markdown table, though it may not render or look the way you may want if having more customization options available

@@ -2,7 +2,7 @@
 id: eCfZNjttZsvxnprfUmnZQ
 title: One to One
 desc: ''
-updated: 1640135100463
+updated: 1640301369675
 created: 1640134058773
 ---
 # One-to-one relationship
@@ -32,4 +32,5 @@ Example: A one-to-one relationship relates the two SKU columns. The relationship
 
 ![data-span-example-2](https://docs.microsoft.com/en-us/power-bi/guidance/media/relationships-one-to-one/product-to-product-category-2.png){max-width: 300px, display: block, margin: 0 auto}
 
-When possible, we recommend you avoid creating one-to-one model relationships when row data spans across model tables. Please consider to consolidate the data into a single model table. Or Power BI will evaluate the one-to-one model relationship as a [limited relationship](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand#limited-relationships). Therefore, take care to ensure there are matching rows in the related tables, as unmatched rows will be eliminated from query results
+When possible, we recommend you avoid creating one-to-one model relationships when row data spans across model tables. Please consider to consolidate the data into a single model table like what `ExcelIsFun` demonstrated in his [tutorial](https://www.youtube.com/watch?v=iK0uKo2G8tA) to merge 2 fact tables with one-to-one relationship to a single fact table.  
+Or Power BI will evaluate the one-to-one model relationship as a [limited relationship](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand#limited-relationships). Therefore, take care to ensure there are matching rows in the related tables, as unmatched rows will be eliminated from query results
