@@ -2,12 +2,15 @@
 id: 9jnYx0U5MOjmlofcAFknZ
 title: Many to Many
 desc: ''
-updated: 1640138229719
+updated: 1640320411429
 created: 1640134068731
 ---
 # Many-to-many relationship
 
-ref: [Microsoft](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-many-to-many-relationships)
+ref: 
+- [Microsoft | Apply many-many relationships in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-many-to-many-relationships)
+- [Microsoft | Many-to-many relationship guidance](https://docs.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many)
+- [Excelerator BI | Many to Many Relationships in DAX Explained](https://exceleratorbi.com.au/many-many-relationships-dax-explained/)
 
 Before the July 2018 release of Power BI Desktop, we use a workaround which is creating a `factless fact table` as a `bridging table`
 ![bridging-table](https://docs.microsoft.com/en-us/power-bi/guidance/media/star-schema/factless-fact.png){max-width: 300px, display: block, margin: 0 auto}

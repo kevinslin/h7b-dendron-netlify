@@ -2,10 +2,9 @@
 id: o44RSMA5tlggn30K
 title: Fibery Lookup
 desc: ''
-updated: 1627072938860
+updated: 1640316191132
 created: 1626712219340
 ---
-
 # Query or Vlookup similar method in Fibery.io
 
 Imagine that I have 2 Types as follows

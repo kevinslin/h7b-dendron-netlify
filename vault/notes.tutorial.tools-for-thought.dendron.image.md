@@ -2,7 +2,7 @@
 id: p6DAGnvvh2NUL4A2zsAW6
 title: Image
 desc: ''
-updated: 1640305406513
+updated: 1640320953626
 created: 1631926358221
 ---
 # Tips with image in Dendron
@@ -25,7 +25,7 @@ By appending [CSS properties](https://wiki.dendron.so/notes/a91fd8da-6895-49fe-8
     ```code
     ![](/assets/images/example.png){max-width: 300px, display: block, margin: 0 auto}
     ```
-## Better shared link preview of Dendron published page 
+## Better preview of shared link of Dendron published page 
 
 If you share a Dendron-published link on social media (Discord server, Twitter...), without insterting image tag, the preview will be like this
 ![link preview without image tag](https://i.imgur.com/7ZBG3G0.png){max-width: 300px, display: block, margin: 0 auto}

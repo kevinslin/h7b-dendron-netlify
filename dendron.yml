@@ -11,7 +11,7 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: H7B
+    title: Kool Casa
     description: Mes belles lettres
     author: Huy
     logo: vault/assets/logo.png

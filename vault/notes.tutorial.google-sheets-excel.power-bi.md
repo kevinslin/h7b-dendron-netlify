@@ -2,7 +2,7 @@
 id: hrGH2IsGXmxlDMVydip5h
 title: Power Bi
 desc: ''
-updated: 1640234772377
+updated: 1640319131940
 created: 1640234050326
 ---
 # Introduction of Power BI
@@ -26,3 +26,15 @@ Different Power BI products
     - Contact Sales, USD 5k / month
     - Unlock higher limits for Power BI Pro users
     - Access interactive and paginated reports online or use Power BI Report Server for on-premises reporting
+
+## Helpful resources:
+
+Free learning course:
+- [Power BI instructor-led training](https://powerbi.microsoft.com/en-us/instructor-led-training/)
+- [Microsoft Learn for Power BI](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
+
+Add-on:
+- [Charticulator](https://charticulator.com/index.html) to create custom charts for your reports using data modeled in Power BI.
+    - Free
+- [Zebra BI](https://zebrabi.com/) offer many report templates both free and paid
+    - [Pricing](https://zebrabi.com/pricing/?product=pbi)

@@ -2,12 +2,14 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1640235178820
+updated: 1640317482262
 created: 1640230718139
 ---
 # Tips to visualize data in Excel
 
 ref: [ExcelIsFun](https://www.youtube.com/watch?v=UVZcamKLJgU)
+
+There are many inspiring example of data visualization from [zebra bi](https://zebrabi.com/)
 
 Why visualize instead of presenting in table?  
 One of the best reason: help us see patterns and trends
