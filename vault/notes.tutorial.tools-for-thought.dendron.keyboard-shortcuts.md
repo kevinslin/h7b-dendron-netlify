@@ -2,7 +2,7 @@
 id: LrsX8dejr8gFFug4h9OfG
 title: Keyboard Shortcuts
 desc: ''
-updated: 1639284521124
+updated: 1640398237710
 created: 1637761861528
 ---
 # Frequently used keyboard shortcuts for Dendron
@@ -14,7 +14,7 @@ created: 1637761861528
 
 `Ctrl + P` : 
 - Scope: VS Code global. 
-- Behavior: Go to File. 
+- Behavior: Go to File. List of recently opened files.
 - Details: Open command palette, type file name
 
 `Ctrl + T` : 

@@ -2,7 +2,7 @@
 id: g6GdWOPn5kTGhW0ziK2oo
 title: Publish Notion
 desc: ''
-updated: 1639960079584
+updated: 1640390898720
 created: 1635966805057
 ---
 # Publish notes with Notion as CMS
@@ -19,10 +19,10 @@ Read:
 - tutorial at [TransitiveBullsh.it](https://transitivebullsh.it/nextjs-notion-starter-kit)
 - techinal stack discussion at [Spencer's Blog](https://blog.spencerwoo.com/2021/02/nextjs-blog-notion)
 
-Notablog <br>
-Official [github](https://github.com/dragonman225/notablog) <br>
-Pricing: free <br>
-Read tutorial at [link](https://github.com/dragonman225/notablog#Getting-Started)
+Notablog  
+Official [github](https://github.com/dragonman225/notablog)  
+Pricing: free  
+[Tutorial](https://github.com/dragonman225/notablog#Getting-Started) to experiment
 
 [MDX.one](https://mdx.one/)  
 [Pricing plan](https://mdx.one/pricing/) starts at USD 20/month. Free tier allow you to host 1 site as subdomain of `mdx.one`.  

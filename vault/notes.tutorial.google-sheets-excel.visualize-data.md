@@ -2,14 +2,12 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1640317482262
+updated: 1640399488434
 created: 1640230718139
 ---
-# Tips to visualize data in Excel
+# Tips to visualize data in Microsoft 365
 
 ref: [ExcelIsFun](https://www.youtube.com/watch?v=UVZcamKLJgU)
-
-There are many inspiring example of data visualization from [zebra bi](https://zebrabi.com/)
 
 Why visualize instead of presenting in table?  
 One of the best reason: help us see patterns and trends
@@ -44,3 +42,7 @@ Prepare the pivot table from `sales` data table.
 ![custom-pivot-table](https://i.imgur.com/lv4ajPt.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 Then insert a `combo chart` with the recently created pivot table as `data range`
+
+## Helpful resources:
+
+![[notes.tutorial.google-sheets-excel.power-bi#add-on-for-dashboard-reporting,1]]

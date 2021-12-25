@@ -2,10 +2,12 @@
 id: DgpESplxOc3FCyUunecEw
 title: Mkdocs Publish
 desc: ''
-updated: 1640054448625
+updated: 1640391105949
 created: 1639879650950
 ---
 # Publish Obsidian vault using MkDocs
+
+## Thoughts:
 
 Workflow: 
 - Write notes in Obsidian
@@ -16,7 +18,15 @@ Discussion of workflow in [Obsidian forum](https://forum.obsidian.md/t/my-obsidi
 
 Showcase: [Tarek Shehata](https://tarekshehata.github.io/alkashi/Math/Basic%20Shapes/Circle/)
 
-Thoughts: has dark theme, built-in navigation bar, search feature, `Next` and `Previous` UI links at the end of each doc page, tags in notes not yet supported. My current favorite
+Thoughts:
+- My current favorite
+- has dark theme, built-in navigation bar, search feature, `Next` and `Previous` UI links at the end of each doc page
+- open source, static site generator, documents are markdown md files
+- has [guide](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/) to integrate [[3rd party comment system|notes.tutorial.comments-static-site]]
+- Suitable for technical project documentation.
+- tags in notes supported only in [Insider tier](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
+- Diagrams with `mermaid.js` supported only in [Insider tier](https://squidfunk.github.io/mkdocs-material/reference/diagrams/0)
+- [Insider sponsorship](https://squidfunk.github.io/mkdocs-material/reference/diagrams/) starts at USD 10 / month.
 
 ## Helpful resources:
 

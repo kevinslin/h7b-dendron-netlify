@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1640034845142
+updated: 1640390814349
 created: 1635205995281
 nav_order: 2
 ---
@@ -15,13 +15,12 @@ PKM: Personal Knowledge Management
 [Dendron](https://www.dendron.so/)    
 Difficulty to setup: 3/5  
 Publishing:
-- using GitHub Page
-    - tutorial at [link](https://wiki.dendron.so/notes/230d0ccf-5758-4a8f-b39b-3b68e1482e2b/)
+- [[Self-hosted|notes.tutorial.tools-for-thought.dendron]]
     - Pricing: free
 - Managed Publishing
     - Official website: [Dendron wiki](https://wiki.dendron.so/notes/a6b9c043-7713-48ea-b826-50d003e3e21f/)
     - This feature is enabled by making a financial contribution to Dendron at [here](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). 
-    - Their [pricing](https://accounts.dendron.so/account/subscribe) starts at USD 5/month
+    - Their [pricing](https://accounts.dendron.so/account/subscribe) starts at USD 5/month. Another [pricing](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). Dedron need to consolidate their pricing plans.
 Thoughts: can [refactor notes](https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC/) with their hierarchy and reference links
 
 [Obsidian](https://obsidian.md/)  
@@ -67,7 +66,7 @@ Thoughts: I can't understand their logic with relation and objects. Need more ti
 
 [Innos Note](https://innos.io/)  
 Difficulty to setup: 1/5  
-Thoughts: currently provide only `Sign in with Google` (2021-11-01), so I hesitate to test. But their demo public note [Book Recommendation](https://innos.io/space/7ecfa27d-bda6-c188-4418-f4189244b425?p=7ecfa27d-bda6-c188-4418-f4189244b425) looks great. However, its owner Lark is a subsidiary of [ByteDance](https://www.bytedance.com/en/), and although [Lark](https://www.larksuite.com/) is based in Singapore, ByteDance’s ownership might be problematic.
+Thoughts: currently provide only `Sign in with Google` (2021-11-01), so I hesitate to test. But their demo public note [Book Recommendation](https://innos.io/space/7ecfa27d-bda6-c188-4418-f4189244b425?p=7ecfa27d-bda6-c188-4418-f4189244b425) looks great. However, its owner, [Lark](https://www.larksuite.com/), is a subsidiary of [ByteDance](https://www.bytedance.com/en/), and although [Lark](https://www.larksuite.com/) is based in Singapore, ByteDance’s ownership might be problematic.
 
 [Coda](https://coda.io/)  
 Difficulty to use: 1/5  
@@ -77,15 +76,16 @@ Thoughts: it has an advantage with the embedded [[inline formula|notes.tutorial.
 [Gitbook](https://www.gitbook.com/)  
 Difficulty to setup: 3/5  
 [Pricing plan](https://www.gitbook.com/pricing) starts at USD 8/month. Free for individual use, with 10 public and private spaces, custom domains included.
+Thoughts: This is a solution for technical project documentation, rather a pkm like Dendron or Obsidian.
 
-[MkDocs](https://www.mkdocs.org/)
-Pricing: free  
-Thoughts: open source, static site generator, documents are markdown md files,
+[MkDocs](https://www.mkdocs.org/)  
+Pricing: `Community version` is free  
+![[notes.tutorial.tools-for-thought.mkdocs-publish#thoughts,1:#*]]
 
 [[Docusaurus|notes.tutorial.tools-for-thought.docusaurus]]  
 Difficulty to setup: 4/5  
 Pricing: free  
-Thoughts: generate documents as a Single Page Application (SPA), dark mode, i18n integrated
+![[notes.tutorial.tools-for-thought.docusaurus#thoughts,1:#*]]
 
 [Docsify](https://docsify.js.org/#/)  
 Difficulty to setup: 4/5  
@@ -120,8 +120,8 @@ Thoughts: new open source Notion alternative, founded in 2021-11. Promising but 
 Thoughts: combination of outliner type (eg. [Logseq](https://logseq.com/)) and many other features (rss reader, email, feeds and inbox). Promising but currently not available.
 
 [Siyuan](https://b3log.org/siyuan/)  
-[Pricing plan](https://b3log.org/siyuan/pricing.html) starts at RMB 96/year for cloud service features like data synchronization, backups. The product is completely free for individual use.
-Thoughts: initially develop as a copycat of Notion and Obsidian for chinese market. But their UI looks great now. They have a [GitHub repo](https://github.com/siyuan-note/siyuan) for international community. The notes are stored in a database instead of plaintext md files like Obsidian or Dendron. Since this is designed for mainland china market, I hesitated so much to experiment.
+[Pricing plan](https://b3log.org/siyuan/pricing.html) starts at RMB 96/year for cloud service features like data synchronization, backups. The product is completely free for individual use.  
+Thoughts: initially develop as a copycat of Notion and Obsidian for chinese market. But their UI looks great now. They have a [GitHub repo](https://github.com/siyuan-note/siyuan) for international community. The notes are stored in a database instead of plaintext markdown files like Obsidian or Dendron. Since this is designed for mainland china market, I hesitated to experiment.
 
 [Notabase](https://notabase.io/)  
 Pricing plan starts at USD 7/month. Limited free tier with 100 notes only.  

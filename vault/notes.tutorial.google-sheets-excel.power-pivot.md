@@ -2,7 +2,7 @@
 id: Oaiww3n9XhhoZAocBjIXZ
 title: Power Pivot
 desc: ''
-updated: 1639887515964
+updated: 1640400226606
 created: 1639506448346
 ---
 # Power Pivot - Data Model in Excel
@@ -27,33 +27,6 @@ The connectors in the `Diagram View` have a "1" on one side, and an "*" on the o
 
 When your model is set up, you can analyze and report on your data using [PivotTables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
 
-## Power Query, Power Pivot, Power BI, What to use when?
-
-Power Query and Power Pivot complement each other. Use both to shape your data in Excel so you can explore and visualize it in PivotTables, PivotCharts, and Power BI
-- Power Query is the recommended tool for locating, connecting to and importing data. 
-- Power Pivot: is great for modeling the data you’ve imported
-
-|   | Power Query | Power Pivot | Desktop & PowerBI.com |
-|:--|:--|:--|:--|
-| Role | Import and shape data | Data modeling and calculations | Complete business intelligence tool |
-| Language | M | DAX | M and DAX |
-| Key strengths | - Nice easy to use interface<br>- Powerful tools to import and clean data<br>- All Excel users can benefit from this tool | - Easily handle millions of rows of data<br>- Modeling tools for efficient data storage and analysis<br>- Powerful DAX calculations going beyond standard Excel | - Incredible visualization options<br>- Simple built-in interactive options<br>- Powerful DAX calculations<br>- Simple publishing to PowerBI.com and mobile devices |
-
-A diagram explaining how these Powerful tools are related  
-![](https://cdn.fluentpro.com/wp-content/uploads/2019/12/1-1.png.webp){max-width: 300px, display: block, margin: 0 auto}
-
-With respect to report usage, typical usage can be seen below.
-
-![usage-diagram](https://i0.wp.com/whitepages.unlimitedviz.com/wp-content/uploads/2021/03/image-1.png?w=1521&ssl=1){max-width: 300px, display: block, margin: 0 auto}
-
-| Tool | Used by | Purpose |
-|:---:|:---:|:---:|
-| Power BI Service | Report consumers | Consuming all types of reports: interactive, paginated and Excel |
-| Excel Online | Report consumers | Consuming Excel reports from SharePoint, Teams, or the Power BI service |
-| Power BI Desktop | Model builders<br>Interactive report designers | Building Power BI dataset<br>Building interactive reports |
-| Power BI Report Builder | Paginated report designers | Building paginated reports |
-| Excel | Analysts | Building Excel reports<br>Analyzing Power BI datasets |
-
 ## Extra readings:
 
 - [Microsoft | memory-efficient Data Model using Excel](https://support.microsoft.com/en-us/office/create-a-memory-efficient-data-model-using-excel-and-the-power-pivot-add-in-951c73a9-21c4-46ab-9f5e-14a2833b6a70)
@@ -63,6 +36,13 @@ With respect to report usage, typical usage can be seen below.
     - The VertiPaq Engine in DAX. VertiPaq is an in-memory columnar database. Being in-memory means that all of the data handled by a model reside in RAM
     - In a columnar database, data is organized in such a way to optimize vertical scanning. To obtain this result, you need a way to make the different values of a column adjacent one to the other
     ![column-by-column-basis](https://www.microsoftpressstore.com/content/images/chap13_9780735698352/elementLinks/13fig02.jpg){max-width: 300px, display: block, margin: 0 auto}
-- [ExcelIsFun | Youtube | MSPTDA 14](https://www.youtube.com/watch?v=Nmn6qUJvWWY)
+- [ExcelIsFun | MSPTDA 21 | Youtube](https://www.youtube.com/watch?v=fO_Vymn1e8U)
+    - Database takes a table with many columns and stores each column separately as a unique list of values and builds a map to help it reconstruct the table when needed for making DAX Formula calculations.
+    - Many calculations can be performed more quickly on individual columns with unique lists of values, rather than making calculation row by row
+    - File size is reduced, and when the database is loaded into RAM Memory, less RAM is used, more is left for other tasks
+    - This means that for columns with only a few unique values, the file size reduction can be dramatic. (Number of unique items in a column = “Cardinality”).
+    ![columnar-database-example-1](https://i.imgur.com/luGk41b.jpg){max-width: 300px, display: block, margin: 0 auto}
+    ![columnar-database-example-2](https://i.imgur.com/WfrhEWb.jpg){max-width: 300px, display: block, margin: 0 auto}
+- [ExcelIsFun | MSPTDA 14 | Youtube](https://www.youtube.com/watch?v=Nmn6qUJvWWY)
     - Notes in [pdf](https://people.highline.edu/mgirvin/AllClasses/348/MSPTDA/Content/PowerPivot/014-MSPTDA-ColumnarDatabaseNotes-PowerPivotToImportMillions.pdf)
     - Size of Excel file with Data Model imported ~3M rows is quite small, 1.5 MB

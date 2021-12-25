@@ -2,7 +2,7 @@
 id: 3AVFn8txpRewVX5DvaML2
 title: Relationship in Data Model
 desc: ''
-updated: 1640236787501
+updated: 1640395929922
 created: 1639887641096
 ---
 # What is a Relationship in data model of Microsoft 365 products (PowerPivot, Power BI)
@@ -44,10 +44,11 @@ The one to many relationship is the foundation of Power Pivot
 ## Star schema
 Star schema requires modelers to classify their model tables as either `dimension` or `fact`
 ![star-schema-1](https://docs.microsoft.com/en-us/power-bi/guidance/media/star-schema/star-schema-example1.png){max-width: 300px, display: block, margin: 0 auto}
+Fact Table with most atomic granular data surrounded by Dimension Tables using One-To-Many Relationships
 ![star-schema-2](https://docs.microsoft.com/en-us/power-bi/guidance/media/star-schema/star-schema-example2.png){max-width: 300px, display: block, margin: 0 auto}
 
 ## Snowflake schema
-A snowflake schema is very similar to the simple star schema above. The main difference is that snowflake schemas split dimensional tables into further dimensional tables
+A snowflake schema is very similar to the simple star schema above. The main difference is that snowflake schemas split dimensional tables into further dimensional tables, following `Database Normalization` rules where columns in tables should not have duplicate values and must be broken apart into separate tables.
 ![snowflake-schema](https://assets.website-files.com/5e6f9b297ef3941db2593ba1/614df5d249f1d56f764083ef_Screenshot%202021-09-24%20at%2017.47.02.png){max-width: 300px, display: block, margin: 0 auto}
 
 ## Star vs Snowflake in schema design
@@ -64,10 +65,10 @@ A snowflake schema is very similar to the simple star schema above. The main dif
 
 Generally, the benefits of a single model table outweigh the benefits of multiple model tables.
 
-When you choose to mimic a snowflake dimension design:
+Consequences when you choose to mimic a snowflake dimension design:
 
-- Power BI loads more tables, which is less efficient from storage and performance perspectives. These tables must include columns to support model relationships, and it can result in a larger model size.
-- Longer relationship filter propagation chains will need to be traversed, which will likely be less efficient than filters applied to a single table.
+- Power BI loads more tables, which is less efficient from storage and performance perspectives. Because `Columnar Database` will store Dimension Tables with duplicates in an efficient way. No need to complicate model with many tables. Since these tables must include columns to support model relationships, and it can result in a larger model size.
+- Longer relationship filter propagation chains will need to be traversed, which will likely be less efficient than filters applied to a single table. According to tests done by `Marco Russo` and `Alberto Ferrari`, for larger models the extra relationships used in a `Snow Flake Schema` can be less efficient than a `single Dimension table` with `Duplicate Values`
 - The Fields pane presents more model tables to report authors, which can result in a less intuitive experience, especially when snowflake dimension tables contain just one or two columns.
 - It's not possible to create a hierarchy that spans the tables.
 

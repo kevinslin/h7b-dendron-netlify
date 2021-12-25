@@ -12,7 +12,7 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Kool Casa
-    description: Mes belles lettres
+    description: Kool Casa is my personal blog and notes. The site is published using Dendron, deployed on Netlify. Articles are plain Markdown files located in the vault directory. Each Mardown file also has a yaml frontmatter for storing metadata. The URL for each article is determined by the id in the frontmatter.
     author: Huy
     logo: vault/assets/logo.png
     siteFaviconPath: vault/assets/favicon.ico

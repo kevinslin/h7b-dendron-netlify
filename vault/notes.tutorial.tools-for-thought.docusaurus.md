@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1640054052414
+updated: 1640390173114
 created: 1627044913994
 ---
 # Deploy documents and blog with Docusaurus
@@ -20,6 +20,7 @@ It is easy to transalte a Docusaurus site with its internationalization (i18n) s
 My thoughts on Version: 2.0.0-beta.13
 
 Pros:
+- generate documents as a Single Page Application (SPA), dark mode
 - Has sidebar navigation, menu bar, search bar, admonition, i18n built-in ([crowdin](https://crowdin.com/) plugin or alternative locale markdown files), `Next` and `Previous` UI links at the end of each doc page
 - has url slug in frontmatter to generate a static URL for each md file
 

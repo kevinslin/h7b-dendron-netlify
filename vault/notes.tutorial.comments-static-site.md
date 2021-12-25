@@ -2,7 +2,7 @@
 id: Q6n45InVXCFI76N3zMIQK
 title: Comments Static Site
 desc: ''
-updated: 1636769514454
+updated: 1640391267835
 created: 1636768617130
 ---
 # Tools to integrate comments in your static site
@@ -19,3 +19,5 @@ ref: [darekkay](https://darekkay.com/blog/static-site-comments/), [Hacker News](
 - [Cusdis](https://cusdis.com/). A new (as of April 2021) open-source project.
 - [Utterances](https://utteranc.es/). A lightweight comments widget built on GitHub issues. Actively maintained as of May 2021.
 - [Giscus](https://giscus.app/). A comment system powered by GitHub discussions. Heavily inspired by Utterances and actively maintained.
+- [Caint](https://www.caint.casa/). A free open-source comment service.
+- [Remark42](https://github.com/umputun/remark42). With 2.8k+ stars, it's a popular alternative that is actively maintained and extended.

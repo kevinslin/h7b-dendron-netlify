@@ -2,7 +2,7 @@
 id: 3UHqQ5XkT3JvF1JE4jUdR
 title: Publish Netlify
 desc: ''
-updated: 1640241442614
+updated: 1640392893835
 created: 1640060126202
 ---
 # Publish my Dendron vault using Netlify
@@ -35,11 +35,11 @@ DONE
     ```yaml
     site:
         title: H7B
-        description: Mes belles lettres
+        description: Kool Casa is my personal blog and notes. The site is published using Dendron, deployed on Netlify. Articles are plain Markdown files located in the vault directory. Each Mardown file also has a yaml frontmatter for storing metadata. The URL for each article is determined by the id in the frontmatter.
         author: Huy
         logo: vault/assets/logo.png
         siteFaviconPath: vault/assets/favicon.ico
-        siteUrl: 'https://h7b.netlify.app/'
+        siteUrl: 'https://kool.casa/'
     ```
     ```yaml
     workspace:
