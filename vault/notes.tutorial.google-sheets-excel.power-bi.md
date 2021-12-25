@@ -2,7 +2,7 @@
 id: hrGH2IsGXmxlDMVydip5h
 title: Power Bi
 desc: ''
-updated: 1640400392218
+updated: 1640402857030
 created: 1640234050326
 ---
 # Introduction of Power BI
