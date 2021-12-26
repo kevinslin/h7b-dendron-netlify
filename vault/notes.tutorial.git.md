@@ -2,13 +2,14 @@
 id: H43H7VIbIQdZLQwB
 title: Git
 desc: ''
-updated: 1639280608527
+updated: 1640526915868
 created: 1625430775779
 ---
 # Basic Git commands
 
 ref: 
 - [Git Guides](https://github.com/git-guides/)
+- [GitHub Docs | About Git](https://docs.github.com/en/get-started/using-git/about-git)
 - [freeCodeCamp Guides](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
 # Connect and authenticate to GitHub remote repos via SSH key

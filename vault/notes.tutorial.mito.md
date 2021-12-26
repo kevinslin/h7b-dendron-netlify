@@ -2,7 +2,7 @@
 id: zUTHtkQuKQWwnIiQhb9uJ
 title: Mito
 desc: ''
-updated: 1639885986837
+updated: 1640527093888
 created: 1639628094199
 ---
 # Getting started with [Mito](https://trymito.io/)
@@ -20,11 +20,11 @@ Step-by-step:
     ```
 2. install the Mito installer
     ```shell
-    pip3 install mitoinstaller
+    pip install mitoinstaller
     ```
 3. run the installer
     ```shell
-    python3 -m mitoinstaller install
+    python -m mitoinstaller install
     ```
     Done here. Jupyter Lab will be called to open in browser.
 4. Next time, I can initiate Jupyter lab instance to start, using
