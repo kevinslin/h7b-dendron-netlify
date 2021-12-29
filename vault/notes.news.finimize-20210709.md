@@ -2,10 +2,9 @@
 id: NfiHpaVmQfeewEUmLePCA
 title: Finimize 20210709
 desc: ''
-updated: 1633039620748
+updated: 1640699593911
 created: 1625790150085
 ---
-
 # Finimize newsletter 2021-07-09
 
 ## What’s Going On Here?

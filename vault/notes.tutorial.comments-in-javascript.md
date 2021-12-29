@@ -2,7 +2,7 @@
 id: SCwgExPm9TLc6iosSIHkO
 title: Comments in JavaScript
 desc: ''
-updated: 1639016464132
+updated: 1640702982662
 created: 1639011847309
 ---
 # How to Use Comments Efficiently in JavaScript

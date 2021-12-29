@@ -2,10 +2,9 @@
 id: ULuJXR56U8u4abF8
 title: Provision Receivable
 desc: ''
-updated: 1627166456672
+updated: 1640699535935
 created: 1627160135210
 ---
-
 # Mức trích lập dự phòng đối với các khoản nợ phải thu quá hạn thanh toán
 
 Theo hướng dẫn của Thông tư số [[48/2019/TT-BTC|notes.finance.gov-docs-vietnam.48-2019-TT-BTC]]:

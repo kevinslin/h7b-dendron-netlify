@@ -2,10 +2,9 @@
 id: IeDdy1sZi2diosokSZ0vT
 title: Soundcore Life P2 Mini
 desc: ''
-updated: 1637755321509
+updated: 1640699575846
 created: 1632787128221
 ---
-
 # Soundcore Life P2 Mini
 
 ref: [Soundcore | Life P2 Mini FAQ](https://us.soundcore.com/products/a3944011)

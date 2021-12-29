@@ -2,10 +2,9 @@
 id: 1y0IwagaVuF7dVVhpNOoB
 title: Emi
 desc: ''
-updated: 1638060698055
+updated: 1640699501117
 created: 1625608785411
 ---
-
 # What is an Equated Monthly Installment (EMI)?
 
 Ref: [Link](https://corporatefinanceinstitute.com/resources/knowledge/credit/equated-monthly-installment-emi/)

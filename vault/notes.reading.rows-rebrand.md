@@ -2,7 +2,7 @@
 id: bfwMPl3TSuAzeo9GRoC8k
 title: Rows Rebrand
 desc: ''
-updated: 1638062205399
+updated: 1640699064225
 created: 1637932873157
 ---
 # Why and How we rebranded
@@ -31,4 +31,3 @@ the deliverables were as follows:
 - Multiple files for design application: homepage, specific product pages, social assets, t-shirts etc.
 
 deliverables were handed in PDF & Figma
-

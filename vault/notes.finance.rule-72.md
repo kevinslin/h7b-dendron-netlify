@@ -2,10 +2,9 @@
 id: fE5ZVnZJa2A2blA8iGrKO
 title: Rule 72
 desc: ''
-updated: 1628896344550
+updated: 1640699542405
 created: 1628896223126
 ---
-
 # Rule of 72
 
 Ref: [Link](https://www.intmath.com/money-math/rule-of-72.php)

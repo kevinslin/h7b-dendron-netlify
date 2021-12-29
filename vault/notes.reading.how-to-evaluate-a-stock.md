@@ -2,11 +2,17 @@
 id: XthkB1AsPM7qr4db9Rvoc
 title: How to Evaluate a Stock
 desc: ''
-updated: 1640656918978
+updated: 1640698815336
 created: 1640656438112
 ---
 # How to evaluate a stock
 ref: [Sharesight](https://www.sharesight.com/blog/how-to-evaluate-a-stock/)
+
+Title: How to evaluate a stock  
+Author: Angela Thompson  
+Category: Blog 
+
+## Notes from reading
 
 Common metrics:
 - Earnings per share (EPS)

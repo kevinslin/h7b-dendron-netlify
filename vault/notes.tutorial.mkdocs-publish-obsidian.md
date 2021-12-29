@@ -1,6 +1,6 @@
 ---
 id: DgpESplxOc3FCyUunecEw
-title: Mkdocs Publish
+title: Mkdocs Publish Obsidian
 desc: ''
 updated: 1640391105949
 created: 1639879650950

@@ -2,10 +2,9 @@
 id: Ianw2EU0MRFDo35bLj3Nk
 title: Tax Investment Vn
 desc: ''
-updated: 1627329654575
+updated: 1640699560200
 created: 1626043266714
 ---
-
 # Chính sách Thuế và thuế suất áp dụng cho nhà đầu tư tại thị trường Vietnam
 
 ## Key takeaway:

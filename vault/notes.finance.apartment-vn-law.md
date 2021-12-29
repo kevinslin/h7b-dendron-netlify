@@ -2,10 +2,9 @@
 id: IsFRUA6JOWA7uuX0TWHxv
 title: Apartment Vn Law
 desc: ''
-updated: 1630433090531
+updated: 1640699505080
 created: 1630432907101
 ---
-
 # Chung cư sở hữu 50 năm là gì? Phân biệt với chung cư sở hữu lâu dài?
 
 Ref: [Link](https://luatduonggia.vn/chung-cu-so-huu-50-nam-la-gi-phan-biet-voi-chung-cu-so-huu-lau-dai/)

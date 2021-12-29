@@ -2,10 +2,9 @@
 id: EklVZEWCcqXZsQ8Y
 title: Market Classification
 desc: ''
-updated: 1626428623180
+updated: 1640699513608
 created: 1626428623180
 ---
-
 # Results of the MSCI 2021 global market accessibility review
 
 Ref: [MSCI](https://www.msci.com/market-classification)

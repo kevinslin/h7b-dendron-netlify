@@ -2,18 +2,18 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1640390173114
+updated: 1640774589774
 created: 1627044913994
 ---
-# Deploy documents and blog with Docusaurus
+# Publish documents and blog with Docusaurus
 
 Tutorial `Docusaurus in 5 min` from [Docusaurus](https://tutorial.docusaurus.io/docs/intro)
 
-Introduction docs of `Docuraurus`. Read more at [link](https://docusaurus.io/docs)
+Introduction docs of `Docuraurus` can be found at [link](https://docusaurus.io/docs)
 
 Playground to test Docusaurus in browser, without installing anything. Read more at [link](https://docusaurus.io/docs/playground)
 
-It is easy to transalte a Docusaurus site with its internationalization (i18n) support. Read more at [link](https://docusaurus.io/docs/i18n/introduction)
+It is easy to translate a Docusaurus site with its internationalization (i18n) support. Read more at [link](https://docusaurus.io/docs/i18n/introduction)
 
 ## Thoughts
 
@@ -37,5 +37,6 @@ Cons:
 - Tutorial in details by [LogRocket](https://blog.logrocket.com/easy-documentation-with-docusaurus/)
 - Tutorial by [Victoria Lo](https://dev.to/lo_victoria2666/build-beautiful-documentation-websites-with-docusaurus-8o2)
 - Reason to use Docusaurus by [JavaScript in Plain English](https://javascript.plainenglish.io/10-reasons-to-use-docusaurus-for-your-docs-blog-marketing-site-48dbf2c58b70)
+- [Deployment guide](https://docusaurus.io/docs/deployment) from Docusarus.
 
 ## Getting started

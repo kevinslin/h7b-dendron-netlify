@@ -2,7 +2,7 @@
 id: 80kxZq79ET2QJGySDpp3t
 title: Tokenized Equity
 desc: ''
-updated: 1638060888210
+updated: 1640701056109
 created: 1635538030093
 ---
 # Tokenized stocks
@@ -64,7 +64,7 @@ Best case scenario, investors trade with ease the tokenized stock at any time wi
 
 **Collateralization 101: A Tokenized Stock Is Born**
 
-The collateralized tokenized stocks hitting the market are mainly originating from two European firms working together in different capacities to serve various crypto exchanges. CM-Equity AG  describes itself as a “fully-licensed capital markets infrastructure platform” and acts as brokers to the crypto exchanges. A separate company in this financial engineering, Swiss-based Digital Assets AG describes itself as a “boutique firm focused on the issuance of tokenized financial products.”
+The collateralized tokenized stocks hitting the market are mainly originating from two European firms working together in different capacities to serve various crypto exchanges. CM-Equity AG describes itself as a “fully-licensed capital markets infrastructure platform” and acts as brokers to the crypto exchanges. A separate company in this financial engineering, Swiss-based Digital Assets AG describes itself as a “boutique firm focused on the issuance of tokenized financial products.”
 
  **FTX tokenized stock generation process**
 

@@ -2,7 +2,7 @@
 id: OhTz3pKhPofktLMM351BA
 title: IPO What Happen
 desc: ''
-updated: 1633394467166
+updated: 1640699509459
 created: 1633393009392
 ---
 # What happens in an IPO?

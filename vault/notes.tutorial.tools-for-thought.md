@@ -15,7 +15,7 @@ PKM: Personal Knowledge Management
 [Dendron](https://www.dendron.so/)    
 Difficulty to setup: 3/5  
 Publishing:
-- [[Self-hosted|notes.tutorial.tools-for-thought.dendron]]
+- [[Self-hosted|notes.tutorial.dendron]]
     - Pricing: free
 - Managed Publishing
     - Official website: [Dendron wiki](https://wiki.dendron.so/notes/a6b9c043-7713-48ea-b826-50d003e3e21f/)
@@ -30,7 +30,7 @@ Publishing:
     - Official website: https://obsidian.md/publish
     - Pricing: start at USD 20/month per site
     - easiest way to publish notes with Obsidian
-- [[3rd-party solution|notes.tutorial.tools-for-thought.obsidian-md.publish-alternatives]]  
+- [[3rd-party solution|notes.tutorial.obsidian-md.publish-alternatives]]  
     - Pricing: free
     - have to read tutorial to setup. Not easy for non-techie
 
@@ -43,7 +43,7 @@ Thoughts: I currently use as a database, great gratis alternative of [Airtable](
 [Notion](https://www.notion.so/)  
 Difficulty to use: 1/5  
 [Pricing plan](https://www.notion.so/pricing), starting at USD 10/month per user. It has an unlimited free tier for individual use.  
-Publishing: share directly using Notion public link, or [[3rd-party service provider|notes.tutorial.tools-for-thought.notion.publish-notion]]
+Publishing: share directly using Notion public link, or [[3rd-party service provider|notes.tutorial.notion.publish-notion]]
 
 ## Things I know
 
@@ -80,12 +80,12 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 
 [MkDocs](https://www.mkdocs.org/)  
 Pricing: `Community version` is free  
-![[notes.tutorial.tools-for-thought.mkdocs-publish#thoughts,1:#*]]
+![[notes.tutorial.mkdocs-publish-obsidian#thoughts,1:#*]]
 
-[[Docusaurus|notes.tutorial.tools-for-thought.docusaurus]]  
+[[Docusaurus|notes.tutorial.docusaurus]]  
 Difficulty to setup: 4/5  
 Pricing: free  
-![[notes.tutorial.tools-for-thought.docusaurus#thoughts,1:#*]]
+![[notes.tutorial.docusaurus#thoughts,1:#*]]
 
 [Docsify](https://docsify.js.org/#/)  
 Difficulty to setup: 4/5  

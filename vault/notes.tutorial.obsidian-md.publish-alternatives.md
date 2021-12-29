@@ -9,7 +9,7 @@ created: 1628033267974
 
 Obsidian is great but finding a way to publish my Obsidian vault without purchasing `Obsidian Publish` [subscription](https://obsidian.md/publish) is a fun experiment though.
 
-- [[Use MkDocs|notes.tutorial.tools-for-thought.mkdocs-publish]]
+- [[Use MkDocs|notes.tutorial.mkdocs-publish-obsidian]]
     - Thoughts: has dark theme, built-in navigation bar, search feature. Tags in notes not yet supported. My current favorite approach.
 - [MdToNotion](https://github.com/Layjoo/MdToNotion) script to publish notes to Notion page using Notion API
     - Discussion in [Obsidian forum](https://forum.obsidian.md/t/publish-obsidian-note-using-notion/27227)

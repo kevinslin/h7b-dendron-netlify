@@ -2,12 +2,17 @@
 id: lGo9GcVyHvwmYEDdJ8pJ1
 title: Cost Base per Share
 desc: ''
-updated: 1640657063365
+updated: 1640698722081
 created: 1640656960094
 ---
 # How to calculate cost base per share
-
 ref: [Sharesight](https://www.sharesight.com/blog/at-a-glance-cost-base-per-share/)
+
+Title: How to calculate cost base per share  
+Author: Stephanie Stefanovic  
+Category: Blog
+
+## Notes from reading
 
 The cost base of an investment is one of the key metrics an investor needs to know when preparing their tax return
 

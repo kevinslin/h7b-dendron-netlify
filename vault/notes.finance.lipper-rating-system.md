@@ -2,13 +2,11 @@
 id: 519dWN6lTQHe5yyb
 title: Lipper Rating System
 desc: ''
-updated: 1626427988627
+updated: 1640699526869
 created: 1626427988627
 ---
-
-Ref: [Investopedia](https://www.investopedia.com/articles/investing/091015/lipper-rating-system-explained.asp)
-
 # The Lipper Rating System Explained
+Ref: [Investopedia](https://www.investopedia.com/articles/investing/091015/lipper-rating-system-explained.asp)
 
 Lipper is a fund research tool used by investors around the world; its best-known feature is the Lipper Average.
 

@@ -2,10 +2,9 @@
 id: sjGC9y0pxYqe11TPE4kB2
 title: Tax Crypto Vietnam
 desc: ''
-updated: 1628660661907
+updated: 1640699557657
 created: 1628657134109
 ---
-
 # Quy định thuế thu nhập cá nhân ntn đối với crypto assets?
 Ref: [fb](https://www.facebook.com/groups/phocapblockchain/posts/265451325035158/)
 

@@ -2,10 +2,9 @@
 id: zVWlyT2Qs8TH7JMB
 title: Bond Funds
 desc: ''
-updated: 1626967455947
+updated: 1640699502702
 created: 1626966954051
 ---
-
 # How do bonds and bond funds work?
 
 Ref: [The Poor Swiss](https://thepoorswiss.com/bonds-funds/)

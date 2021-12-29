@@ -2,7 +2,7 @@
 id: wFQa92ldJjdtEGUR
 title: Etf Pick En
 desc: ''
-updated: 1636949388967
+updated: 1640701036892
 created: 1626426755261
 ---
 # What to look for when picking ETF and Index Fund
@@ -80,7 +80,7 @@ Given the bewildering number of ETF choices that investors now have to contend w
 -   **Trading Activity**: An investor needs to check if the ETF that is being considered trades in sufficient volume on a daily basis. Trading volume in the most popular ETFs runs into millions of shares daily; on the other hand, some ETFs barely trade at all. Trading volume is an excellent indicator of liquidity, regardless of the asset class. Generally speaking, the higher the trading volume for an ETF, the more liquid it is likely to be and the tighter the bid-ask spread. These are especially important considerations when it is time to exit the ETF.
 -   **Underlying Index or Asset**: Consider the underlying [index](https://www.investopedia.com/terms/i/index.asp) or [asset class](https://www.investopedia.com/terms/a/assetclasses.asp) on which the ETF is based. From the point of view of [diversification](https://www.investopedia.com/terms/d/diversification.asp), it may be preferable to invest in an ETF that is based on a broad, widely followed index, rather than an obscure index that has a narrow industry or geographic focus.
 -   **Tracking Error**: While most ETFs track their underlying indexes closely, some do not track them as closely as they should. All else being equal, an ETF with minimal [tracking error](https://www.investopedia.com/terms/t/trackingerror.asp) is preferable to one with a greater degree of error.
--   **Market Position**: "[First-mover](https://www.investopedia.com/terms/f/firstmover.asp) advantage" is important in the ETF world, because the first ETF issuer for a particular sector has a decent probability of garnering the lion's share of assets, before others jump on the bandwagon. It is therefore prudent to avoid ETFs that are mere imitations of an original idea, because they may not differentiate themselves from their rivals and attract investors' assets. 
+-   **Market Position**: "[First-mover](https://www.investopedia.com/terms/f/firstmover.asp) advantage" is important in the ETF world, because the first ETF issuer for a particular sector has a decent probability of garnering the lion's share of assets, before others jump on the bandwagon. It is therefore prudent to avoid ETFs that are mere imitations of an original idea, because they may not differentiate themselves from their rivals and attract investors' assets.
 
 ### In Case of ETF Liquidations
 

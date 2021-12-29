@@ -2,12 +2,14 @@
 id: I2D9HnNFmTWDDini31qRL
 title: Bitcoin Etf Bito
 desc: ''
-updated: 1634940483469
+updated: 1640701164509
 created: 1634940439241
 ---
 # What is $BITO?
 
 ref: [Stake blog](https://hellostake.com/au/blog/stake-updates/how-to-buy-shares-in-bitcoin-etf)
+
+## Notes from reading
 
 BITO. The first Bitcoin ETF has just started trading on the NYSE.
 

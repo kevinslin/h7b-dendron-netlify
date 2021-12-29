@@ -2,12 +2,12 @@
 id: OyjLhFTcAMSfmbiNN89Yp
 title: Opensea Insider Fraud
 desc: ''
-updated: 1633304327358
+updated: 1640701010425
 created: 1633303917717
 ---
 # OpenSea Product Chief accused of fraud with NFT trading
 
-Read more at [HackerNews](https://news.ycombinator.com/item?id=28544009)
+Read more at [Hacker News](https://news.ycombinator.com/item?id=28544009)
 
 Ref: [comment](https://news.ycombinator.com/item?id=28544649)
 

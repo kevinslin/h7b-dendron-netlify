@@ -1,15 +1,15 @@
 ---
 id: vT2qWgZBlOuS4VTn1OuJP
-title: Nft
+title: Nft Current Viewpoint
 desc: ''
-updated: 1634595722606
+updated: 1640701007559
 created: 1633304407688
 ---
 # Some current point of view from community about NFT and crypto
 
 ## Cryptocurrency is something people tell lies about in hopes of getting richer
 
-Read more at [HackerNews](https://news.ycombinator.com/item?id=28640636)
+Read more at [Hacker News](https://news.ycombinator.com/item?id=28640636)
 
 Ref: [comment](https://news.ycombinator.com/item?id=28643185)
 

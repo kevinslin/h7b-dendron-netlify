@@ -2,7 +2,7 @@
 id: QZkEKYJS8SSTCDnLWXVdM
 title: Stake 20210911
 desc: ''
-updated: 1634941189988
+updated: 1640701074393
 created: 1633043956598
 ---
 # Under the Spotlight | Amazon (AMZN)
@@ -32,7 +32,7 @@ Anticipating a trend that would become dominant in the years to come, Amazon was
 
 Barnes & Noble lost the lawsuit, but eventually, Amazon would no longer be the world's biggest bookstore: not that another company outperformed it, but Amazon would become the world's biggest retailer, selling everything from A to Z, as indicated by its logo. In 2020 alone, its e-commerce revenue generated more than US$197 billion and, in 2021, just on Prime Day, the company's commemorative date, it is estimated revenue of more than US$11 billion.
 
-The rent of warehouses and distribution centres to improve the company's delivery times were fundamental for the company's growth but soon Amazon became a victim of its own success.  Amazon's servers and databases were not being able to support traffic on high-volume access dates, such as black Friday, for example.
+The rent of warehouses and distribution centres to improve the company's delivery times were fundamental for the company's growth but soon Amazon became a victim of its own success. Amazon's servers and databases were not being able to support traffic on high-volume access dates, such as black Friday, for example.
 
 **_FLYING THROUGH THE CLOUDS_**
 

@@ -2,7 +2,7 @@
 id: i5epJxQ9zGzyYoiOtrDKi
 title: Stock Options
 desc: ''
-updated: 1633041341943
+updated: 1640701052521
 created: 1633041229396
 ---
 # How do stock options work?
@@ -46,7 +46,7 @@ It is interesting to note that European options are different from American opti
 
 A call option gives the holder the right to buy a security at the given strike price by the expiry date.
 
-There are two main ways to make money with call options. The standard way is to **buy a call option**; an operation called **a long call**. In that case, the trader expects the underlying security (the stock) to go up in price.
+There are two main ways to make money with call options. The standard way is to **buy a call option**; an operation called **a long call**. In that case, the trader expects the underlying security (the stock) to go up in price.
 
 For instance, a trader can buy a call option for 100 shares of stock X at a 2.20 USD premium per share to buy stock X at 100 USD for 3 weeks. So, in total, the trader is paying a 220 USD premium. If the stock goes up to 110 before that date, he can buy 100 shares at 100 USD (10’000 USD), sell them back at 110 USD (11’000 USD) and make a profit of 780 USD (1000 USD – 220 USD).
 
@@ -134,7 +134,7 @@ To conclude, stock options are an interesting investing instrument. They can giv
 
 You can use options for betting on a stock going up or going down. They are very versatile instruments.
 
-However, options are also quite complicated, especially in their pricing.  I personally do not invest with options, and I do not intend to do so. In the short term, I believe they are an interesting investing instrument in hedging against risk. But stock options are advanced instruments, and most people should avoid them. I do not recommend trading with stock options. The long-term investor is better off with [passive investing](https://thepoorswiss.com/mutual-funds-index-investing/). But it is interesting to learn how they work.
+However, options are also quite complicated, especially in their pricing. I personally do not invest with options, and I do not intend to do so. In the short term, I believe they are an interesting investing instrument in hedging against risk. But stock options are advanced instruments, and most people should avoid them. I do not recommend trading with stock options. The long-term investor is better off with [passive investing](https://thepoorswiss.com/mutual-funds-index-investing/). But it is interesting to learn how they work.
 
 If you want to learn about advanced strategies, [short selling stocks](https://thepoorswiss.com/introduction-short-selling/) is also very interesting.
 

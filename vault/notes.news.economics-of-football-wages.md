@@ -2,13 +2,12 @@
 id: 3EaIjsx8FtBFEOHjIQwoC
 title: Economics of Football Wages
 desc: ''
-updated: 1637313957167
+updated: 1640701208511
 created: 1637312774456
 ---
 # Economics of Football
 
 ## Sponsorships
-
 ref: [Stake's blog](https://hellostake.com/au/blog/stake-updates/economics-of-football-1)
 
 The Premier League generated £1.51b in sponsorship revenue last season (2020/21)
@@ -23,7 +22,6 @@ Sponsorship in football takes many forms, via jersey, league or broadcast sponso
 sponsorship is a big-money game, where does it go? Perhaps unsurprisingly, player wages. 
 
 ## Wages
-
 ref: [Stake's blog](https://hellostake.com/au/blog/stake-updates/economics-of-football-wages)
 
 With a total wage bill that eclipses the GDP of the Seychelles, Tonga and Samoa, the Premier League spends big on their employees.

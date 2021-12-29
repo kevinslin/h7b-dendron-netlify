@@ -2,7 +2,7 @@
 id: j3T09UpsjoDdi6t6Z3lKB
 title: Pension Switzerland
 desc: ''
-updated: 1633045816110
+updated: 1640701069441
 created: 1633040539998
 ---
 # The Three Pillars of Retirement in Switzerland
@@ -10,7 +10,7 @@ Ref: [thepoorswiss.com](https://thepoorswiss.com/three-pillars-retirement-switze
 
 ![The Three Pillars of Retirement in Switzerland](https://thepoorswiss.com/wp-content/uploads/2018/04/The-Three-Pillars-of-Retirement-in-Switzerland.png)
 
-I have already covered in detail each of the three pillars of retirement in Switzerland. In this article, I want to summarize the entire system. I am also going to talk about how early retirement works in this system.
+I have already covered in detail each of the three pillars of retirement in Switzerland. In this article, I want to summarize the entire system. I am also going to talk about how early retirement works in this system.
 
 It is essential to know about the three pillars if you want to retire in Switzerland.
 
@@ -22,7 +22,7 @@ Switzerland Three Pillars
 
 Let’s first summarize the system of the three pillars.
 
-###  1. The first pillar
+### 1. The first pillar
 
 [The first pillar](https://thepoorswiss.com/first-pillar-retirement-switzerland/) is a mandatory state pension.
 
@@ -60,7 +60,7 @@ If you are not interested in early retirement, you can focus mostly on the three
 
 Personally, **I kind of like the retirement system in Switzerland**. Of course, it is not perfect. But I do not think any retirement system is perfect. Overall, it is okay.
 
-Let’s start with the good. It is **somewhat flexible**. You have many choices for the third pillar and some choices for the second pillar. It is **somewhat fair**. The first pillar is socially fair. Indeed, the rich will pay significantly more than what the poor will receive. And they will not receive significantly more. It forces you to save for retirement. The first and second pillars are forced savings. This means that everybody will save at least something. With this, everybody will have at least something. This is a good thing, in my opinion.
+Let’s start with the good. It is **somewhat flexible**. You have many choices for the third pillar and some choices for the second pillar. It is **somewhat fair**. The first pillar is socially fair. Indeed, the rich will pay significantly more than what the poor will receive. And they will not receive significantly more. It forces you to save for retirement. The first and second pillars are forced savings. This means that everybody will save at least something. With this, everybody will have at least something. This is a good thing, in my opinion.
 
 Only the basic part is mandatory. Those that want complete coverage can use second pillar buy-ins and a third pillar. There are **tax advantages**. Contributions to both the first and second pillars are tax-advantaged. This encourages people to save money for retirement. Your **employer is contributing**. This is also excellent. Your employer will match your contributions. Moreover, your employer could also offer you an excellent pension plan.
 

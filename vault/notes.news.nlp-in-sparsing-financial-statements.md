@@ -2,10 +2,9 @@
 id: LrQYunYjzxQaNFWM
 title: Nlp in Sparsing Financial Statements
 desc: ''
-updated: 1626872703887
+updated: 1640701418057
 created: 1626869623004
 ---
-
 # Interesting projects that use Natural Language Processing (NLP) to sparse info from financial statements
 
 ## [Bedrock AI](https://bedrock-ai.com/)
@@ -34,4 +33,4 @@ Along with that, additional features include:
     - Ability to create watchlist to watch and monitor a group of tickers like SPACs.
 - Similar tools: [Gbear.trade](https://gbear.trade/), [HypeEquity](https://app.hypeequity.com/monitor), [Gamestonk Terminal](https://gamestonkterminal.netlify.app/)
 
-> Note to self: How can we adapt these business model to Vietnam financial market? Since even HOSE didn't implement a standard for filings like EDGAR system of SEC. AFAIK, HOSE use pdf format for filings
+> Note: How can we adapt these business model to Vietnam financial market? Since even HOSE didn't implement a standard for filings like EDGAR system of SEC. AFAIK, HOSE use pdf format for filings
