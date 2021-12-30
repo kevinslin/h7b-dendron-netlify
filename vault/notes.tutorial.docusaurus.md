@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1640777718297
+updated: 1640878033225
 created: 1627044913994
 ---
 # Publish documents and blog with Docusaurus
@@ -40,3 +40,58 @@ Cons:
 - [Deployment guide](https://docusaurus.io/docs/deployment) from Docusarus.
 
 ## Getting started
+
+What I did step-by-step on my Windows 10 machine.
+
+1. Open terminal, go to the local folder of my workspace
+    ```shell
+    cd .\my_workspace\
+    ```
+2. create a new Docusaurus site named `datadiva-docusaurus` with theme `classic`
+    ```shell
+    npx create-docusaurus@latest datadiva-docusaurus classic
+    ```
+    a new folder `datadiva-docusaurus` will be created inside `my_workspace`
+3. Go to my GitHub, create a new repo called `datadiva-docusaurus` 
+4. Open terminal, go to folder `datadiva-docusaurus`
+    ```shell
+    cd .\my_workspace\datadiva-docusaurus
+    ```
+5. Initialize git
+    ```shell
+    git init
+    ```
+6. Add all files in current working folder and all other directories recursively that are not specified in the `.gitignore` to git
+    ```shell
+    git add .
+    ```
+7. Commit the change
+    ```shell
+    git commit -m "first commit"
+    ```
+8. Create the branch `main`
+    ```shell
+    git branch -M main
+    ```
+8. Connect my GitHub repo with my computer
+    ```shell
+    git remote add origin git@github.com:h7b/datadiva-docusaurus.git
+    ```
+9. Push changes from my local working folder to my remote repo
+    ```shell
+    git push -u origin main
+    ```
+
+### Deploy my Docusaurus static site on Render
+
+[Render](https://render.com/) free plans [introduction and limitations](https://render.com/docs/free) 
+
+The offical [deployment guide](https://render.com/docs/deploy-docusaurus) is for Docusaurus v1. It's not applicable for site created with Docusaurus v2 like mine.
+
+Step-by-step to deploy my `datadiva-docusaurus` static site on Render:
+
+1. Create a new Static Site on Render, and give Render permission to access your Docusaurus repo
+2. Use the following values during creation
+    - Name: `datadiva`
+    - Build Command: `yarn build`
+    - Publish Directory: `build`
