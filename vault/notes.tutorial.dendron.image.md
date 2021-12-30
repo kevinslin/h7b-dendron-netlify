@@ -2,7 +2,7 @@
 id: p6DAGnvvh2NUL4A2zsAW6
 title: Image
 desc: ''
-updated: 1640320953626
+updated: 1640775192941
 created: 1631926358221
 ---
 # Tips with image in Dendron
@@ -76,3 +76,5 @@ Benefits:
 Current limitation of this trick (wrt Dendron v0.74):
 - cannot do [[image formatting with inline css|notes.tutorial.tools-for-thought.dendron.image#resize-and-display-image,1:#*]]
 - I can insert note refs into a Markdown table, though it may not render or look the way you may want if having more customization options available
+
+There is a discussion about this issue in [Dendron GitHub](https://github.com/dendronhq/dendron/issues/1450)

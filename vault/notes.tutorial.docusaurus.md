@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1640774589774
+updated: 1640777718297
 created: 1627044913994
 ---
 # Publish documents and blog with Docusaurus
@@ -21,7 +21,7 @@ My thoughts on Version: 2.0.0-beta.13
 
 Pros:
 - generate documents as a Single Page Application (SPA), dark mode
-- Has sidebar navigation, menu bar, search bar, admonition, i18n built-in ([crowdin](https://crowdin.com/) plugin or alternative locale markdown files), `Next` and `Previous` UI links at the end of each doc page
+- Has sidebar navigation, menu bar, search bar, admonition, i18n built-in ([crowdin](https://crowdin.com/) plugin or alternative locale markdown files), `Next` and `Previous` UI links at the end of each doc page, tabbed content.
 - has url slug in frontmatter to generate a static URL for each md file
 
 Cons:
