@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1640878033225
+updated: 1640897523556
 created: 1627044913994
 ---
 # Publish documents and blog with Docusaurus
@@ -38,6 +38,8 @@ Cons:
 - Tutorial by [Victoria Lo](https://dev.to/lo_victoria2666/build-beautiful-documentation-websites-with-docusaurus-8o2)
 - Reason to use Docusaurus by [JavaScript in Plain English](https://javascript.plainenglish.io/10-reasons-to-use-docusaurus-for-your-docs-blog-marketing-site-48dbf2c58b70)
 - [Deployment guide](https://docusaurus.io/docs/deployment) from Docusarus.
+- Integrate PostHog analytics (free alternative of [Plausible](https://plausible.io/)) to Docusaurus v2 site by [Evan Tay](https://evantay.com/blog/docusaurus-posthog/)
+- [Fathom analytics plugin](https://github.com/pradel/docusaurus-plugin-fathom) for Docusaurus v2
 
 ## Getting started
 
@@ -52,7 +54,7 @@ What I did step-by-step on my Windows 10 machine.
     npx create-docusaurus@latest datadiva-docusaurus classic
     ```
     a new folder `datadiva-docusaurus` will be created inside `my_workspace`
-3. Go to my GitHub, create a new repo called `datadiva-docusaurus` 
+3. Login to my GitHub profile, create a new repo called `datadiva-docusaurus` 
 4. Open terminal, go to folder `datadiva-docusaurus`
     ```shell
     cd .\my_workspace\datadiva-docusaurus
@@ -86,12 +88,12 @@ What I did step-by-step on my Windows 10 machine.
 
 [Render](https://render.com/) free plans [introduction and limitations](https://render.com/docs/free) 
 
-The offical [deployment guide](https://render.com/docs/deploy-docusaurus) is for Docusaurus v1. It's not applicable for site created with Docusaurus v2 like mine.
+The offical [deployment guide from Render](https://render.com/docs/deploy-docusaurus) is for Docusaurus v1. It's not applicable for site created with Docusaurus v2 like mine.
 
 Step-by-step to deploy my `datadiva-docusaurus` static site on Render:
 
 1. Create a new Static Site on Render, and give Render permission to access your Docusaurus repo
-2. Use the following values during creation
+2. I use the following values during creation
     - Name: `datadiva`
     - Build Command: `yarn build`
     - Publish Directory: `build`
