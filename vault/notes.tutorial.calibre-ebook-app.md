@@ -2,10 +2,9 @@
 id: dW3xXZGuTWu5dgS0gM5Tx
 title: Calibre Ebook App
 desc: ''
-updated: 1635301462305
+updated: 1640857719721
 created: 1631323327735
 ---
-
 ## How to Email Books and Documents to Kindle?
 
 Ref: [link](https://www.epubor.com/how-to-email-books-and-documents-to-kindle.html)

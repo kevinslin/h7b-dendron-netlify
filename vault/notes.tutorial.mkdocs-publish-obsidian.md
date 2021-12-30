@@ -2,7 +2,7 @@
 id: DgpESplxOc3FCyUunecEw
 title: Mkdocs Publish Obsidian
 desc: ''
-updated: 1640391105949
+updated: 1640857785573
 created: 1639879650950
 ---
 # Publish Obsidian vault using MkDocs
@@ -19,7 +19,7 @@ Discussion of workflow in [Obsidian forum](https://forum.obsidian.md/t/my-obsidi
 Showcase: [Tarek Shehata](https://tarekshehata.github.io/alkashi/Math/Basic%20Shapes/Circle/)
 
 Thoughts:
-- My current favorite
+- My current favorite if I need to publish my Obsidian vault
 - has dark theme, built-in navigation bar, search feature, `Next` and `Previous` UI links at the end of each doc page
 - open source, static site generator, documents are markdown md files
 - has [guide](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/) to integrate [[3rd party comment system|notes.tutorial.comments-static-site]]
