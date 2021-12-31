@@ -2,7 +2,7 @@
 id: c1-h7c_wOFHJkpzI1t4Gx
 title: Dendron
 desc: ''
-updated: 1640389878728
+updated: 1640943197193
 created: 1625432744672
 ---
 # Write and publish notes using Dendron
@@ -13,3 +13,5 @@ created: 1625432744672
 - with this Netlify workflow, I just need to push updated contents to GitHub repo with command `Dendron: Workspace: Sync`, and all of the built process will be executed automatically by Netlify.
 
 [[Workflow|notes.tutorial.dendron.publish-github-pages]] to publish vault via GitHub Pages
+
+I can also use Obsidian on iOS with [[Breadcrumbs plugin|notes.tutorial.obsidian-md.hierarchical-notes]] to view and edit my Dendron vault on iPhone.

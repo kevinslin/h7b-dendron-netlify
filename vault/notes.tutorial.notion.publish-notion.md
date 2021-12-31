@@ -2,10 +2,14 @@
 id: g6GdWOPn5kTGhW0ziK2oo
 title: Publish Notion
 desc: ''
-updated: 1640390898720
+updated: 1640937743994
 created: 1635966805057
 ---
 # Publish notes with Notion as CMS
+
+[Popsy](https://popsy.co/)
+Pricing: free, their business model is offering optional paid themes, stock photos, illustrations, and other content that goes into building a website.  
+Thoughts: can use custom domain for free.
 
 [Fruition](https://fruitionsite.com/)  
 Pricing: free  
@@ -48,3 +52,5 @@ Pricing: free trial. [Pricing](https://www.helpkit.so/pricing) starts at USD 19/
 
 [Engine.so](https://engine.so/)  
 Pricing: free trial. [Pricing](https://engine.so/#pricing-04-749451) starts at USD 19/month/site
+
+A basic review written by [compile.blog](https://compile.blog/notion-site-builders/) about some Notion-based wesite builders
