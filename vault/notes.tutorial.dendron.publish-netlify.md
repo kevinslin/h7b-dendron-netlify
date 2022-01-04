@@ -2,7 +2,7 @@
 id: 3UHqQ5XkT3JvF1JE4jUdR
 title: Publish Netlify
 desc: ''
-updated: 1640856855044
+updated: 1641258631208
 created: 1640060126202
 ---
 # Publish my Dendron vault using Netlify
@@ -73,7 +73,7 @@ The free tier limit of Netlify is
 - 300 minutes / month for [Build minutes](https://www.netlify.com/pricing/faq/) (The time it takes Netlify to build my site)
 - 100 GB / month Bandwidth
 
-Wrt my usage during 9 days (from 2021-12-21 to 2021-12-30), by pushing daily updates to my repo, I used 84 build minutes
+Wrt my usage during 15 days (from 2021-12-20 to 2022-01-04), by pushing daily updates to my repo, I spent 111/300 build minutes
 
 ## Assign my custom domain to Netlify site
 

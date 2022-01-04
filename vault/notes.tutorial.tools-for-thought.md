@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1640390814349
+updated: 1641256965944
 created: 1635205995281
 nav_order: 2
 ---
@@ -21,6 +21,7 @@ Publishing:
     - Official website: [Dendron wiki](https://wiki.dendron.so/notes/a6b9c043-7713-48ea-b826-50d003e3e21f/)
     - This feature is enabled by making a financial contribution to Dendron at [here](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). 
     - Their [pricing](https://accounts.dendron.so/account/subscribe) starts at USD 5/month. Another [pricing](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). Dedron need to consolidate their pricing plans.
+    
 Thoughts: can [refactor notes](https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC/) with their hierarchy and reference links
 
 [Obsidian](https://obsidian.md/)  
@@ -58,7 +59,7 @@ Thoughts: notes are saved locally as plaintext md files. Has spaced repetition f
 [Remnote](https://www.remnote.com/)  
 Difficulty to use: 2/5  
 [Pricing plan](https://www.remnote.com/pricing) starts at USD 6/month, with a generous free tier for individual use.  
-Thoughts: some frequently used feature (eg. aliases, graph view, templates) are moved to paid tier. The pros of this product is its spaced repetition flashcards
+Thoughts: some frequently used feature (eg. aliases, graph view, templates) are moved to paid tier. The unique selling point of this product is its spaced repetition flashcards
 
 [Anytype](https://anytype.io/en)  
 Difficulty to use: 2/5  
@@ -118,6 +119,9 @@ Thoughts: new open source Notion alternative, founded in 2021-11. Promising but 
 
 [Unigraph](https://unigraph.dev/)  
 Thoughts: combination of outliner type (eg. [Logseq](https://logseq.com/)) and many other features (rss reader, email, feeds and inbox). Promising but currently not available.
+
+[Heptabase](https://heptabase.com/)  
+Thoughts: combination of whiteboard and note taking. Promising but currently not available
 
 [Siyuan](https://b3log.org/siyuan/)  
 [Pricing plan](https://b3log.org/siyuan/pricing.html) starts at RMB 96/year for cloud service features like data synchronization, backups. The product is completely free for individual use.  

@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1640897523556
+updated: 1641258295687
 created: 1627044913994
 ---
 # Publish documents and blog with Docusaurus
@@ -84,11 +84,11 @@ What I did step-by-step on my Windows 10 machine.
     git push -u origin main
     ```
 
-### Deploy my Docusaurus static site on Render
+## Deploy my Docusaurus static site on Render
 
 [Render](https://render.com/) free plans [introduction and limitations](https://render.com/docs/free) 
 
-The offical [deployment guide from Render](https://render.com/docs/deploy-docusaurus) is for Docusaurus v1. It's not applicable for site created with Docusaurus v2 like mine.
+The offical [deployment guide from Render](https://render.com/docs/deploy-docusaurus) is for `Docusaurus v1`. It's not applicable for site created with `Docusaurus v2` like mine.
 
 Step-by-step to deploy my `datadiva-docusaurus` static site on Render:
 
