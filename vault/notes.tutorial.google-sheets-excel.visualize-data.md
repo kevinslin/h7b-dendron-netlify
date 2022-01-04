@@ -2,7 +2,7 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1640554065444
+updated: 1641332100676
 created: 1640230718139
 ---
 # Tips to visualize data in Microsoft 365
@@ -25,8 +25,11 @@ Use `Select Data Source` to edit the ranges that the chart is pointing to
 ![select-data](https://i.imgur.com/pYPRyWm.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ## Line chart with emphasize
-Create helper column in data source to create line chart that shows revenue and emphasizes promotions for company
-![line-emphasize](https://i.imgur.com/WheknBf.jpg){max-width: 300px, display: block, margin: 0 auto}
+ref: [ExcelIsFun](https://youtu.be/UVZcamKLJgU?t=2062)
+
+Create a helper column in data source to create line chart that shows revenue and emphasizes promotions for company
+![line-emphasize-1](https://i.imgur.com/WheknBf.jpg){max-width: 300px, display: block, margin: 0 auto}
+![line-emphasize-2](https://i.imgur.com/IbNKVmn.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ## Combo chart with a line of average - Google Sheets
 
@@ -88,6 +91,15 @@ Idea:
       Results
   ```
 - Then apply conditional formatting to the newly created `Measure` 
+
+## Highlight datapoint in chart
+ref: [How to Power Bi](https://www.youtube.com/watch?v=hmk6PxDtbNs)
+
+![highlight-datapoint](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-04_221207_up2R4dkrg.jpg?updatedAt=1641331341158)
+
+Idea: create a new `measure` to catch the criteria (in this example is the average of sales), then apply conditional format with color.
+
+![measure-average](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-04_223212_w1A67u7EQ.jpg?updatedAt=1641331947847)
 
 ## Helpful resources:
 
