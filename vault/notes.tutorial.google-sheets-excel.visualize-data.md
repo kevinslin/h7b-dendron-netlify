@@ -2,7 +2,7 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1641332100676
+updated: 1641425080540
 created: 1640230718139
 ---
 # Tips to visualize data in Microsoft 365
@@ -32,7 +32,6 @@ Create a helper column in data source to create line chart that shows revenue an
 ![line-emphasize-2](https://i.imgur.com/IbNKVmn.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ## Combo chart with a line of average - Google Sheets
-
 ref: [Learn Google Spreadsheets](https://youtu.be/6vbferZJNJY?t=917)
 
 ![example-combo-chart](https://i.imgur.com/qS4fI21.jpg){max-width: 300px, display: block, margin: 0 auto}
@@ -95,11 +94,49 @@ Idea:
 ## Highlight datapoint in chart
 ref: [How to Power Bi](https://www.youtube.com/watch?v=hmk6PxDtbNs)
 
-![highlight-datapoint](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-04_221207_up2R4dkrg.jpg?updatedAt=1641331341158)
+![highlight-datapoint](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-04_221207_up2R4dkrg.jpg?updatedAt=1641331341158){max-width: 300px, display: block, margin: 0 auto}
 
 Idea: create a new `measure` to catch the criteria (in this example is the average of sales), then apply conditional format with color.
 
-![measure-average](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-04_223212_w1A67u7EQ.jpg?updatedAt=1641331947847)
+![measure-average](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-04_223212_w1A67u7EQ.jpg?updatedAt=1641331947847){max-width: 300px, display: block, margin: 0 auto}
+
+## Small Multiples in Power BI
+ref: [Microsoft](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-small-multiples), [How to Power BI](https://www.youtube.com/watch?v=fYogZa7xOa8)
+
+`Small Multiples`, or `trellising`, splits a visual into multiple versions of itself. The versions are presented side by side, with data divided across these versions by a chosen dimension. For example, a small multiple could split a `sales by product` column chart across countries or customer segments
+![small-multiples-1](https://docs.microsoft.com/en-us/power-bi/visuals/media/power-bi-visualization-small-multiples/small-mulitple-sales-category-region.png){max-width: 300px, display: block, margin: 0 auto}
+![small-multiples-2](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-05_224205_hhUV6OCqY8w.jpg?updatedAt=1641418975589){max-width: 300px, display: block, margin: 0 auto}
+
+## Highlight a Date Range
+ref: [How to Power BI](https://www.youtube.com/watch?v=gxYguoBQF4U)
+
+![highlight-date-range](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-05_231346_2hYR54Jbn.jpg?updatedAt=1641420840649){max-width: 300px, display: block, margin: 0 auto}
+Idea:
+- connect `X-axis constant lines` to a date range slicer
+- then use `Shade region` to blur the area outside of selected date range
+- create a `DAX measure` to show the summary aggregation of selected period
+
+## Custom period Slicer
+ref: [How to Power BI](https://www.youtube.com/watch?v=Aom_81rvCVw)
+
+Create a `Slicer` with custom date period 
+![custom-slicer](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-05_234316_oyx2ntfqO.jpg?updatedAt=1641422609706){max-width: 300px, display: block, margin: 0 auto}
+
+Idea:
+- using [SELECTCOLUMN](https://docs.microsoft.com/en-us/dax/selectcolumns-function-dax) function, create a helper table with all the dates within the custom date period, then put it in a filter
+![](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-05_235006_aGmeTB2nH.jpg?updatedAt=1641423016614){max-width: 300px, display: block, margin: 0 auto}
+- then connect this helper table to the `dimDate` dimension table
+
+## Combine Actual and Forecast in one line chart
+ref: [How to Power BI](https://www.youtube.com/watch?v=_TAGpAJ9rTQ)
+
+![actual-forecast](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_000746_u-GLoNZvZ.jpg?updatedAt=1641424081902){max-width: 300px, display: block, margin: 0 auto}
+
+Idea:
+- create a `DAX measure` called `actual & forecast` to combine data points from both `actual` sales number and `forecast`
+![example-combined-sales](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_001451_iv7yPBXttGI.jpg?updatedAt=1641424501508){max-width: 300px, display: block, margin: 0 auto}
+![dax-measure-combined-sales](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_001832_ZG-e280Uu.jpg?updatedAt=1641424730321){max-width: 300px, display: block, margin: 0 auto}
+- then draw a line chart with 2 series `actual` and `actual & forecast`, and apply color formatting for each serie.
 
 ## Helpful resources:
 
