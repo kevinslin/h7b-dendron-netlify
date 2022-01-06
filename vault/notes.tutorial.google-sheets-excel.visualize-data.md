@@ -2,7 +2,7 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1641425080540
+updated: 1641475414747
 created: 1640230718139
 ---
 # Tips to visualize data in Microsoft 365
@@ -53,7 +53,7 @@ ref: [How to Power BI](https://www.youtube.com/watch?v=9TyKMEoUMy0)
 
 Idea: 
 - create a `what-if` parameter with name `Prices` to simulate.
-- create a `measure` to define the color conditions of bar chart, based on `what-if` variable.
+- create a `DAX measure` to define the color conditions of bar chart, based on `what-if` variable.
   ```dax
   AboveAvgPrice? =
   IF(
@@ -137,6 +137,28 @@ Idea:
 ![example-combined-sales](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_001451_iv7yPBXttGI.jpg?updatedAt=1641424501508){max-width: 300px, display: block, margin: 0 auto}
 ![dax-measure-combined-sales](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_001832_ZG-e280Uu.jpg?updatedAt=1641424730321){max-width: 300px, display: block, margin: 0 auto}
 - then draw a line chart with 2 series `actual` and `actual & forecast`, and apply color formatting for each serie.
+
+## Dynamic benchmark range
+ref: [How to Power BI](https://www.youtube.com/watch?v=PlMvvKEPgfA)
+
+Situation: I need a shaded area which illustrate the varying range of forecast value (upper limit forecast vs lower limit forecast), then a line to show how the actual value is, vs the forecast.
+
+![dynamic-benchmark-range](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_125059_i-W4tI8Zl.jpg?updatedAt=1641469912975){max-width: 300px, display: block, margin: 0 auto}
+
+Idea:
+- create 2 `DAX measure` to catch the `forecast - upper limit` and `forecast - lower limit`, with a `what-if parameter` to simulate the variance of the 2 forecast upper and lower limit.
+- apply color formatting as `white` for the `forecast -lower limit` serie, in order to visualize a range of forecast value
+![color-formatting](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_125952_W0CNpRRRag.jpg?updatedAt=1641470403873){max-width: 300px, display: block, margin: 0 auto}
+
+## Show multiple forecast in one chart
+ref: [How to Power BI](https://www.youtube.com/watch?v=dWyieDU4zWY)
+
+Situation: I need to show forecast of sales data from multiple department, and how accurate the forecast vs actual data.
+
+![multiple-forecast](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_141618_BN-7rDV-et.jpg?updatedAt=1641475002328){max-width: 300px, display: block, margin: 0 auto}
+
+Idea:
+- 
 
 ## Helpful resources:
 

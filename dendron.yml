@@ -42,7 +42,7 @@ workspace:
     vaults:
         -
             fsPath: vault
-            name: h7b-dendron-netlify
+            name: h7b-dendron
             sync: sync
     journal:
         dailyDomain: daily

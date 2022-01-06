@@ -2,7 +2,7 @@
 id: hrGH2IsGXmxlDMVydip5h
 title: Power Bi
 desc: ''
-updated: 1640553096228
+updated: 1641476594940
 created: 1640234050326
 ---
 # Introduction of Power BI
@@ -64,6 +64,7 @@ With respect to report usage, typical usage can be seen below.
 - [DAX Formatter](https://www.daxformatter.com/) is a free tool by SQLBI that transforms raw DAX formulas into clean, beautiful and readable code.
 - [DAX.do](https://dax.do/) is a free online playground to write, run and share DAX queries.
 - [DAX Studio](https://daxstudio.org/) is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular. It includes an Object Browser, query editing and execution, formula and measure editing, syntax highlighting and formatting, integrated tracing, and query execution breakdowns.
+- [Power BI Sidetools](https://thebipower.fr/index.php/power-bi-sidetools/) is an external tool intended to increase productivity during reports development in Power BI desktop. It combine sereral tools, such as [DAX generator](https://thebipower.fr/index.php/dax-generator/), [DAX debugger](https://thebipower.fr/index.php/2021/04/05/dax-debugger/), `DAX parser`
 
 ### Add-on for Dashboard reporting:
 - [Charticulator](https://charticulator.com/index.html) to create custom charts for your reports using data modeled in Power BI.
