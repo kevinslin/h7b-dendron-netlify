@@ -2,7 +2,7 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1641475414747
+updated: 1641601458717
 created: 1640230718139
 ---
 # Tips to visualize data in Microsoft 365
@@ -157,8 +157,7 @@ Situation: I need to show forecast of sales data from multiple department, and h
 
 ![multiple-forecast](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_141618_BN-7rDV-et.jpg?updatedAt=1641475002328){max-width: 300px, display: block, margin: 0 auto}
 
-Idea:
-- 
+Idea: create `DAX measure` to show or hide data series depending on chosen slicer, then apply conditional formatting for color of each series. 
 
 ## Helpful resources:
 

@@ -2,7 +2,7 @@
 id: hrGH2IsGXmxlDMVydip5h
 title: Power Bi
 desc: ''
-updated: 1641476594940
+updated: 1641601295963
 created: 1640234050326
 ---
 # Introduction of Power BI
@@ -80,3 +80,5 @@ With respect to report usage, typical usage can be seen below.
     ![other-level-example](https://static.wixstatic.com/media/5681ed_84800b6da34043babf63b6feb699b5b4~mv2.png/v1/fill/w_1103,h_689,al_c,q_90,usm_0.66_1.00_0.01/5681ed_84800b6da34043babf63b6feb699b5b4~mv2.webp){max-width: 300px, display: block, margin: 0 auto}
 - [How to Power BI | Youtube](https://www.youtube.com/c/HowtoPowerBI/) channel, which share tutorial on how to design page navigation, clean menu and custom visual in Power BI
     ![howtopopwerbi-example](https://i.imgur.com/WSw6P3L.jpg){max-width: 300px, display: block, margin: 0 auto}
+- [Entreprise DNA | Power BI Showcase](https://enterprisedna.co/power-bi-showcase), some great dashboard from which I get inspiration 
+    ![entreprise-dna-showcase](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-08_011815_hI98ottixMf.jpg?updatedAt=1641601140091){max-width: 300px, display: block, margin: 0 auto}
