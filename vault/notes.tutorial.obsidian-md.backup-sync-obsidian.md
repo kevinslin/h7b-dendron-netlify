@@ -2,7 +2,7 @@
 id: 62SL79YE1MzlVJpBqs8x5
 title: Backup Sync Obsidian
 desc: ''
-updated: 1640053788930
+updated: 1641760607996
 created: 1637408023851
 ---
 # Sync and Backup Obsidian for beginners
@@ -17,5 +17,6 @@ Easiest and priciest way is official [Obsidian Sync](https://obsidian.md/sync), 
     - for iOS users only
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) 
     - A tutorial written by [Samuel Wong](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/)
+    - A tutorial written by [Bryan Jenks](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
 - [Self-hosted LiveSync](https://github.com/vrtmrz/obsidian-livesync)
     - [Discussion](https://forum.obsidian.md/t/self-hosted-livesync-ex-obsidian-livesync-released/26673) in Obsidian community forum.
