@@ -2,7 +2,7 @@
 id: DgpESplxOc3FCyUunecEw
 title: Mkdocs Publish Obsidian
 desc: ''
-updated: 1640880544124
+updated: 1642117204947
 created: 1639879650950
 ---
 # Publish Obsidian vault using MkDocs
@@ -27,7 +27,7 @@ Thoughts:
 - has [guide](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/) to integrate [[3rd party comment system|notes.tutorial.comments-static-site]]
 - Suitable for technical project documentation.
 - mkdocs-material support tags in notes only in [Insider tier](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
-- mkdocs-material support diagrams with `mermaid.js` only in [Insider tier](https://squidfunk.github.io/mkdocs-material/reference/diagrams/0)
+- mkdocs-material has native support for diagrams with `mermaid.js` in [Insider tier](https://squidfunk.github.io/mkdocs-material/reference/diagrams/0)
 - mkdocs-material has [Insider sponsorship](https://squidfunk.github.io/mkdocs-material/reference/diagrams/) starting at USD 10 / month.
 
 ## Helpful resources:
@@ -49,5 +49,3 @@ Tools:
 - [obsidian-export | GitHub](https://github.com/zoni/obsidian-export), CLI program and a Rust library to export an Obsidian vault to regular Markdown
 - [mkdocs-static-i18n | GitHub](https://github.com/ultrabug/mkdocs-static-i18n)
 - [GruvDoc | GitHub](https://github.com/aasmpro/gruvdoc)
-
-## Getting started

@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1641256965944
+updated: 1642118567829
 created: 1635205995281
 nav_order: 2
 ---
@@ -19,8 +19,8 @@ Publishing:
     - Pricing: free
 - Managed Publishing
     - Official website: [Dendron wiki](https://wiki.dendron.so/notes/a6b9c043-7713-48ea-b826-50d003e3e21f/)
-    - This feature is enabled by making a financial contribution to Dendron at [here](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). 
-    - Their [pricing](https://accounts.dendron.so/account/subscribe) starts at USD 5/month. Another [pricing](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). Dedron need to consolidate their pricing plans.
+    - This feature is enabled by making a [financial contribution](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/) to Dendron. 
+    - Their [pricing](https://accounts.dendron.so/account/subscribe) starts at USD 5/month. Another [pricing page](https://wiki.dendron.so/notes/abda4d2a-d8a2-4dd6-8ea0-4a5661fa13c1/). Imho, Dendron needs to consolidate their pricing plans.
     
 Thoughts: can [refactor notes](https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC/) with their hierarchy and reference links
 
@@ -54,12 +54,12 @@ Publishing with GitHub Page:
 - tutorial at [here](https://logseq.github.io/#/page/Publishing%20(Desktop%20App%20Only))
 - Pricing: free  
 
-Thoughts: notes are saved locally as plaintext md files. Has spaced repetition flashcards feature. 
+Thoughts: notes are saved locally as plaintext md files. It also has spaced repetition flashcards feature. 
 
 [Remnote](https://www.remnote.com/)  
 Difficulty to use: 2/5  
-[Pricing plan](https://www.remnote.com/pricing) starts at USD 6/month, with a generous free tier for individual use.  
-Thoughts: some frequently used feature (eg. aliases, graph view, templates) are moved to paid tier. The unique selling point of this product is its spaced repetition flashcards
+[Pricing plan](https://www.remnote.com/pricing) starts at USD 6/month, with a free tier for individual use.  
+Thoughts: some frequently used feature (eg. aliases, graph view, templates) are moved to paid tier. The unique selling point of this product is its spaced repetition flashcards and unlimited notes in free tier.
 
 [Anytype](https://anytype.io/en)  
 Difficulty to use: 2/5  
@@ -67,11 +67,11 @@ Thoughts: I can't understand their logic with relation and objects. Need more ti
 
 [Innos Note](https://innos.io/)  
 Difficulty to setup: 1/5  
-Thoughts: currently provide only `Sign in with Google` (2021-11-01), so I hesitate to test. But their demo public note [Book Recommendation](https://innos.io/space/7ecfa27d-bda6-c188-4418-f4189244b425?p=7ecfa27d-bda6-c188-4418-f4189244b425) looks great. However, its owner, [Lark](https://www.larksuite.com/), is a subsidiary of [ByteDance](https://www.bytedance.com/en/), and although [Lark](https://www.larksuite.com/) is based in Singapore, ByteDance’s ownership might be problematic.
+Thoughts: currently provide only `Sign in with Google` (2021-11-01), so I hesitate to test. But their demo public note [Book Recommendation](https://innos.io/space/7ecfa27d-bda6-c188-4418-f4189244b425?p=7ecfa27d-bda6-c188-4418-f4189244b425) looks great. However, its owner, [Lark](https://www.larksuite.com/), is a subsidiary of [ByteDance](https://www.bytedance.com/en/). Although [Lark](https://www.larksuite.com/) is based in Singapore, ByteDance’s ownership might be problematic.
 
 [Coda](https://coda.io/)  
 Difficulty to use: 1/5  
-Pricing: limited free tier. Check their [pricing](https://coda.io/pricing), starting at USD 12/month per Doc Maker (have the power to create new docs)  
+Pricing: limited free tier. Their [pricing](https://coda.io/pricing) starts at USD 12/month per Doc Maker (have the ability to create new docs)  
 Thoughts: it has an advantage with the embedded [[inline formula|notes.tutorial.calculation-in-txt-editor#coda]]
 
 [Gitbook](https://www.gitbook.com/)  
@@ -96,7 +96,7 @@ Thoughts: not easy to setup and maintain
 [Retype](https://retype.com/)  
 Difficulty to setup: 4/5  
 Pricing: free. Developers are discussing a [pricing plan](https://github.com/retypeapp/retype/discussions/224), which limits the max pages per project in free tier to 100.  
-Thoughts: alternative of [Gitbook](https://www.gitbook.com/), easier to setup than [Docusaurus](https://docusaurus.io/)
+Thoughts: alternative of [Gitbook](https://www.gitbook.com/), [Docusaurus](https://docusaurus.io/)
 
 [Almanac](https://almanac.io/)  
 [Pricing plan](https://almanac.io/pricing) starts at USD 12/month. Free for personal use  
@@ -125,7 +125,7 @@ Thoughts: combination of whiteboard and note taking. Promising but currently not
 
 [Siyuan](https://b3log.org/siyuan/)  
 [Pricing plan](https://b3log.org/siyuan/pricing.html) starts at RMB 96/year for cloud service features like data synchronization, backups. The product is completely free for individual use.  
-Thoughts: initially develop as a copycat of Notion and Obsidian for chinese market. But their UI looks great now. They have a [GitHub repo](https://github.com/siyuan-note/siyuan) for international community. The notes are stored in a database instead of plaintext markdown files like Obsidian or Dendron. Since this is designed for mainland china market, I hesitated to experiment.
+Thoughts: initially developped as a copycat of Notion and Obsidian for Chinese market. But their UI looks great now. They have a [GitHub repo](https://github.com/siyuan-note/siyuan) for international community. The notes are stored in a database instead of plaintext markdown files like Obsidian or Dendron. Since this is designed for Mainland China market, I hesitated to experiment.
 
 [Notabase](https://notabase.io/)  
 Pricing plan starts at USD 7/month. Limited free tier with 100 notes only.  

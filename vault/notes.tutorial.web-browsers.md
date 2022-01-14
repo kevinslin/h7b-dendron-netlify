@@ -2,13 +2,10 @@
 id: 0eIzRYJpCANhKEHPnHldc
 title: Web Browsers
 desc: ''
-updated: 1639708071228
+updated: 1642117523242
 created: 1639704630401
 ---
 # List of Web Browsers
-
-[Bonsai](https://bonsaibrowser.com/)  
-Thougths: still cannot understand what's the usecase of this app. Uninstall
 
 [Opera](https://www.opera.com/)  
 Thoughts: I use [Flow](https://www.opera.com/features/flow) feature to share links between Opera on my laptop and [Opera on my iPhone](https://apps.apple.com/app/id1411869974).
@@ -29,8 +26,11 @@ Thoughts: I install both the normal and [Chrome Beta](https://www.google.com/chr
 [Aloha Browser](https://alohabrowser.com/)
 Thoughts: serve as my main browser on iOS. I also test their [desktop version](https://alohabrowser.com/pc/). Though the sync features between mobile and desktop is not ready to use (2021-12-17). Chromium.
 
+[Vivaldi](https://vivaldi.com/)  
+Thoughts: Privacy-focused browser. I use this as my corporate working space. Chromium
+
 [Brave](https://brave.com/)  
-Thoughts: just use by curiosity. Nothing too impressive. Chromium
+Thoughts: just use by curiosity. Nothing too impressive. I expect that the content publisher will receive my donations with BAT token generated from ads display. Chromium
 
 [Dot Browser](https://www.dothq.co/en)  
 Thoughts: based on Firefox. Privacy-focused browser
@@ -40,9 +40,6 @@ Thoughts: Privacy-focused browser. Don't have auto update feature. Chromium
 
 [Sidekick](https://www.meetsidekick.com/)  
 Thoughts: browser designed for work? I still cannot understand their unique selling point. Chromium
-
-[Vivaldi](https://vivaldi.com/)  
-Thoughts: Privacy-focused browser. Chromium
 
 [Waterfox](https://www.waterfox.net/)  
 Thoughts: based on Firefox. Privacy-focused browser
@@ -55,3 +52,6 @@ Thoughts: it has the same usecase as [Stack](https://stackbrowser.com/)
 
 [Tor](https://www.torproject.org/download/)  
 Thoughts: against tracking, surveillance, and censorship. I use it to search for academic articles on Sci-Hub, [Library Genesis](http://libgen.li/), [Z Library](https://z-lib.org/)
+
+[Bonsai](https://bonsaibrowser.com/)  
+Thougths: still cannot understand what's the usecase of this app. Uninstall

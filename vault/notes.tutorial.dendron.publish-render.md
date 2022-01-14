@@ -2,7 +2,7 @@
 id: 82gGgw5zpqWI2jl8iVWbD
 title: Publish Render
 desc: ''
-updated: 1641258457173
+updated: 1642106998159
 created: 1641257083979
 ---
 # Publish my Dendron vault using Render
@@ -10,6 +10,9 @@ created: 1641257083979
 Publish my Dendron vault by deploying on [Render](https://render.com/), with notes stored on private GitHub repo.
 
 Credit to the [[Netlify workflow|notes.tutorial.dendron.publish-netlify]].
+
+Why Render when [[Netlify workflow|notes.tutorial.dendron.publish-netlify]] is already good enough?
+- simply because of the generous limit of free plan in Render is [400 build-hour](https://render.com/docs/build-limits) vs [300 build-minute](https://www.netlify.com/pricing/) of Netlify 
 
 ## Getting started
 

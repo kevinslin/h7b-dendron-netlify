@@ -2,7 +2,7 @@
 id: Pw7yTOYQHdrW6wez
 title: Script Search Copy Files
 desc: ''
-updated: 1640527968916
+updated: 1642118666316
 created: 1626218661316
 ---
 # Use Python to automate boring task 'Search and Copy files'
@@ -26,7 +26,7 @@ Idea: write a python script that read input from a `listFile.csv`, search for al
 
 Clone this [gist](https://gist.github.com/h7b/70646c21acf1bc9e83c405ef14cbf1f9) in a folder and practice.
 
-### Another choice: Use `AppleScript`
+### Other possibilities: Use `AppleScript`
 ref: [discussion in Apple Communities](https://discussions.apple.com/thread/5528059?tstart=0)
 
 In order to use AppleScript, I need to locate `Applescript Editor` in `/Applications/Utilities` (or search for it in `Spotlight`). Then I copy the script into Automator (as indicated in the screencap below)

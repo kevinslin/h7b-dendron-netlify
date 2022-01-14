@@ -2,12 +2,12 @@
 id: EmutPZY3Ixr5ouGj8OSAW
 title: Rest API Design
 desc: ''
-updated: 1637925810142
+updated: 1642118685261
 created: 1637925548454
 ---
 # REST API Best Practices – REST Endpoint Design Examples
 
-ref: [freeCodeCapm](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
+ref: [freeCodeCamp](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 
 REST stands for Representational State Transfer
 

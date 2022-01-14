@@ -2,10 +2,10 @@
 id: yiWxICoo4iZjgeZQH4bty
 title: Tools Side Business
 desc: ''
-updated: 1640117740864
+updated: 1642116463724
 created: 1636496890368
 ---
-# If I open my own business, what tools I should look at?
+# If I open my own business, what tools I should look at for admin and management tasks?
 
 Inspired by [Buttondown](https://docs.buttondown.email/behind-the-scenes/running-costs)
 
