@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1641258295687
+updated: 1642175445437
 created: 1627044913994
 ---
 # Publish documents and blog with Docusaurus
@@ -38,7 +38,7 @@ Cons:
 - Tutorial by [Victoria Lo](https://dev.to/lo_victoria2666/build-beautiful-documentation-websites-with-docusaurus-8o2)
 - Reason to use Docusaurus by [JavaScript in Plain English](https://javascript.plainenglish.io/10-reasons-to-use-docusaurus-for-your-docs-blog-marketing-site-48dbf2c58b70)
 - [Deployment guide](https://docusaurus.io/docs/deployment) from Docusarus.
-- Integrate PostHog analytics (free alternative of [Plausible](https://plausible.io/)) to Docusaurus v2 site by [Evan Tay](https://evantay.com/blog/docusaurus-posthog/)
+- Integrate [PostHog analytics](https://posthog.com/) (free alternative of [Plausible](https://plausible.io/)) to Docusaurus v2 site by [Evan Tay](https://evantay.com/blog/docusaurus-posthog/)
 - [Fathom analytics plugin](https://github.com/pradel/docusaurus-plugin-fathom) for Docusaurus v2
 
 ## Getting started
