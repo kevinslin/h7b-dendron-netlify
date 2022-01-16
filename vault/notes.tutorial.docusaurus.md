@@ -35,7 +35,7 @@ Cons:
 - Tutorial in details by [Zatta Production](https://zatta.link/en/web/docusaurus-how-to.html)
 - Tutorial in details by [Danny Chávez](https://github.com/dochavez/Documenting-with-Docusaurus-V2.-)
 - Tutorial in details by [LogRocket](https://blog.logrocket.com/easy-documentation-with-docusaurus/)
-- Tutorial by [Victoria Lo](https://dev.to/lo_victoria2666/build-beautiful-documentation-websites-with-docusaurus-8o2)
+- Basic tutorial by [Victoria Lo](https://dev.to/lo_victoria2666/build-beautiful-documentation-websites-with-docusaurus-8o2)
 - Reason to use Docusaurus by [JavaScript in Plain English](https://javascript.plainenglish.io/10-reasons-to-use-docusaurus-for-your-docs-blog-marketing-site-48dbf2c58b70)
 - [Deployment guide](https://docusaurus.io/docs/deployment) from Docusarus.
 - Integrate [PostHog analytics](https://posthog.com/) (free alternative of [Plausible](https://plausible.io/)) to Docusaurus v2 site by [Evan Tay](https://evantay.com/blog/docusaurus-posthog/)
@@ -53,7 +53,7 @@ What I did step-by-step on my Windows 10 machine.
     ```shell
     npx create-docusaurus@latest datadiva-docusaurus classic
     ```
-    a new folder `datadiva-docusaurus` will be created inside `my_workspace`
+    Result: a new folder `datadiva-docusaurus` will be created inside `my_workspace`
 3. Login to my GitHub profile, create a new repo called `datadiva-docusaurus` 
 4. Open terminal, go to folder `datadiva-docusaurus`
     ```shell

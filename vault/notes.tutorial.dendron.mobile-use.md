@@ -2,7 +2,7 @@
 id: n5Fr9vDFUxyDSxF6l4oEr
 title: Git Directory and Work-Tree Explained
 desc: ''
-updated: 1642216164503
+updated: 1642216729756
 created: 1642180076564
 ---
 # My current workflow to edit Dendron vault on iOS
@@ -46,4 +46,4 @@ Now my workflow will be:
 - Edit Dendron notes on the fly on mobile using Obsidian iOS
 - Changes will sync to my laptop via iCloud Drive
 - When i'm on desk with laptop, I open VSCodium and commit changes to my remote GitHub repo
-- The static sites will then be deployed by Netlify
+- The static site will then be deployed by Netlify

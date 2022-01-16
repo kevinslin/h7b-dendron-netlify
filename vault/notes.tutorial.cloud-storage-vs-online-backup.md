@@ -18,6 +18,8 @@ Online backup:
 - the vital purpose of online backup is to replicate your hard drive, for disaster recovery.
 - Online backup services retain your file system structure and let you restore everything back the way it was in case you need to rebuild your hard drive
 
+Another funny written [marketing piece from Backblaze](https://www.backblaze.com/blog/the-case-for-backup-over-sync/) comparing their backup solution vs other sync services, might give the reason to consider to buy their subscription
+
 A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-online-backup-service/)
 
 |  | Backblaze | IDrive | Arq Premium |

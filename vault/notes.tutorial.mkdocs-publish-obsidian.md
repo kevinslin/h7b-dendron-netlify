@@ -7,7 +7,7 @@ created: 1639879650950
 ---
 # Publish Obsidian vault using MkDocs
 
-## Thoughts:
+## Overview:
 
 Workflow: 
 - Write notes in Obsidian
