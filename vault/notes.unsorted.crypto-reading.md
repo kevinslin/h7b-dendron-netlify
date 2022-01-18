@@ -10,7 +10,7 @@ created: 1642365303515
 Cryptoassets - The Guide to Bitcoin, Blockchain, and CryptoCurrency for Investment Professional - CFA Research  
 - Read: [pdf](https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-cryptoassets.pdf)
 - Published: 2021
-- Overview: The goal of this document is to provide the inquisitive investor with a clear-eyed guide to crypto and blockchain: what they are, what they are not, and where they might go from here
+- Overview: The goal of this short 64-page document is to provide the inquisitive investor with a clear-eyed guide to crypto and blockchain: what they are, what they are not, and where they might go from here
 
 Cryptocurrency: How Digital Money Could Transform Finance (WIRED Guides)
 - Read: [epub](https://app.box.com/s/ce77ptnemc69rdgc8zhnromtcte8sjcn)

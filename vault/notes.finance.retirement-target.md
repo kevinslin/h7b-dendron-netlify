@@ -7,7 +7,7 @@ created: 1635906141112
 ---
 # Retirement target
 
-ref: [[Investing Made Simple|notes.reading.investing-made-simple]]
+ref: [[Investing Made Simple|reading.investing-made-simple]]
 
 how to calculate the amount of money they’ll need to have saved up before they can retire?
 

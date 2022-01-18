@@ -2,7 +2,7 @@
 id: gTrrg6PbbxwXcylipnXYL
 title: OCR with Python
 desc: ''
-updated: 1642109160064
+updated: 1642438806630
 created: 1642107096458
 ---
 # Use OCR to extract text from pdf with Tesseract, OpenCV and Python
@@ -15,7 +15,8 @@ ref:
 - [ProgrammingKnowledge | Youtube](https://www.youtube.com/watch?v=9nUNPrvCFAE)
 - [NeuralNine | Youtube](https://www.youtube.com/watch?v=PY_N1XdFp4w)
 - [Cherry's Project | Youtube](https://www.youtube.com/watch?v=qfO9gqqMWxU)
-- [Python Tutorials for Digital Humanities | Youtube](https://www.youtube.com/watch?v=DXYPXZH2eGE)
+- [Python Tutorials for Digital Humanities | How to OCR an Index in Python with PyTesseract (OCR in Python Tutorials 03.01)](https://www.youtube.com/watch?v=DXYPXZH2eGE)
+- [Python Tutorials for Digital Humanities | How to Preprocess Images for Text OCR in Python (OCR in Python Tutorials 02.02)](https://www.youtube.com/watch?v=ADV-AjAXHdc)
 
 Idea: 
 - convert pdf to image

@@ -98,4 +98,4 @@ When selecting an ETF, investors should consider factors such as its level of as
 ---
 ## Five-Factor ETF Model Portfolio
 
-![[notes.reading.five-factor-investing-with-ETF#five-factor-investing-with-etfs,1]]
+![[reading.five-factor-investing-with-ETF#five-factor-investing-with-etfs,1]]

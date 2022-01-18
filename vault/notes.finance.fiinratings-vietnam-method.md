@@ -7,7 +7,7 @@ created: 1637318827239
 ---
 # Phương pháp xếp hạng nhà phát hành của FiinRatings
 
-ref: [[FiinRatings Insight #2|notes.reading.fiinratings-insight-2]]
+ref: [[FiinRatings Insight #2|reading.fiinratings-insight-2]]
 
 FiinRatings đưa ra ý kiến độc lập về mức độ tín nhiệm tổng thể của tổ chức
 
