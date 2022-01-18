@@ -2,7 +2,7 @@
 id: n5Fr9vDFUxyDSxF6l4oEr
 title: Git Directory and Work-Tree Explained
 desc: ''
-updated: 1642216729756
+updated: 1642528107352
 created: 1642180076564
 ---
 # My current workflow to edit Dendron vault on iOS
@@ -17,7 +17,7 @@ So I came up with 2 possible solutions:
 2. Or I keep the location of `.git` subfolder inside the folder `./blog-dendron-repo/` but exclude the `.git` subfolder from `iCloud Drive` sync.  
     ref: [Apple Communities](https://discussions.apple.com/thread/251290283)
 
-I incline to the 1st option, since there is no possbile way to make the 2nd choice work without breaking the Git workflow.
+I incline to the 1st option, since there is no possible way to make the 2nd choice to work without breaking the Git workflow.
 
 ## Getting started
 
@@ -35,9 +35,9 @@ I incline to the 1st option, since there is no possbile way to make the 2nd choi
 3. Open Obsidian on iOS, import the new vault `h7b-dendron-netlify`
     - Install plugin `Breadcrumbs`
     - In `Breadcrumbs` settings > 
-        - `Alternative Hierarchies` > `Dendron Notes` > enable `Add Dendron notes to graph`, enable `Trim Dendron Note Names`. This is mandatory to navigate the hierarchy structure of Dendron notes within Obsidian.
-        - `Views` > `Trail/Grid` > `Views to show`: enable the 1st option only. This is optional for my preferences only.
-    - In `Options` > `About` > `Advanced` > `Override config folder`: type in `.obsidian.ios`
+        - `Alternative Hierarchies` > `Dendron Notes` > enable `Add Dendron notes to graph`, enable `Trim Dendron Note Names`. This is mandatory to navigate the hierarchy structure of Dendron notes within Obsidian
+        - `Views` > `Trail/Grid` > `Views to show`: enable the 1st option only. This is optional for my preferences only
+    - In `Options` > `About` > `Advanced` > `Override config folder`: type in `.obsidian.ios`. This is optional to separate the settings I used for Obsidian iOS
 4. Append `.obsidian` and `.obsidian.ios` into `.gitignore` file in `h7b-dendron-netlify` folder.
 
 DONE.
@@ -45,5 +45,5 @@ DONE.
 Now my workflow will be:
 - Edit Dendron notes on the fly on mobile using Obsidian iOS
 - Changes will sync to my laptop via iCloud Drive
-- When i'm on desk with laptop, I open VSCodium and commit changes to my remote GitHub repo
-- The static site will then be deployed by Netlify
+- When i'm on desk with laptop, I open VSCodium and commit changes to the remote GitHub repo
+- The static site will then be built and deployed automatically by Netlify

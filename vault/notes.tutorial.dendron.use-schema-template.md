@@ -2,10 +2,10 @@
 id: 0CUUNDwNeRutJrqHZATuk
 title: Use Schema Template
 desc: ''
-updated: 1642466332203
+updated: 1642473205370
 created: 1642443093888
 ---
-# How I use schema and templates in Dendron
+# How do I use schema and templates in Dendron
 ref: [Dendron wiki | Making Your First Schema](https://wiki.dendron.so/notes/5U4eAiqshI67VxIL40KWH/)
 
 [Templates](https://wiki.dendron.so/notes/861cbdf8-102e-4633-9933-1f3d74df53d2/) are notes with pre-outlined content meant for reuse

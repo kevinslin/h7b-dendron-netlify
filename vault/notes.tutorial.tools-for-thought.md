@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1642118567829
+updated: 1642530006489
 created: 1635205995281
 nav_order: 2
 ---
@@ -76,7 +76,7 @@ Thoughts: it has an advantage with the embedded [[inline formula|notes.tutorial.
 
 [Gitbook](https://www.gitbook.com/)  
 Difficulty to setup: 3/5  
-[Pricing plan](https://www.gitbook.com/pricing) starts at USD 8/month. Free for individual use, with 10 public and private spaces, custom domains included.
+[Pricing plan](https://www.gitbook.com/pricing) starts at USD 8/month. Free for individual use, with 10 public and private spaces, custom domains included.  
 Thoughts: This is a solution for technical project documentation, rather a pkm like Dendron or Obsidian.
 
 [MkDocs](https://www.mkdocs.org/)  
@@ -129,7 +129,7 @@ Thoughts: initially developped as a copycat of Notion and Obsidian for Chinese m
 
 [Notabase](https://notabase.io/)  
 Pricing plan starts at USD 7/month. Limited free tier with 100 notes only.  
-Thoughts: I can't find a reason to try this one, since there are many better free alternatives like Obsidan and Dendron.
+Thoughts: I can't find a reason to try this one, since there are many better free alternatives like Obsidan and Dendron. Notabase has open source version for self-host. There's also a recently released fork called [mdSilo](https://news.ycombinator.com/item?id=29969757).
 
 [Tettra](https://tettra.com/)  
 [Pricing plan](https://tettra.com/pricing/) starts at USD 10/month. Generous free [Starting plan](https://support.tettra.co/en/articles/4394100-starting-plan-user-limit) for small teams, up to 10 users  
@@ -139,8 +139,12 @@ Thoughts: designed for teams not individual, good [search experience](https://su
 [Pricing plan](https://www.nuclino.com/pricing) starts at EUR 6/month, with 14-day trial. Really limited free tier  
 Thoughts: similar to Notion, with less object types, has real time editing view for teams and a wiki concept, better for team than individual use.
 
-[Saga](https://saga.so/)
+[Saga](https://saga.so/)  
 Thoughts: currently in beta. At first glance, it seems to be another clone of [Notion](https://www.notion.so/)
+
+[HackMD](https://hackmd.io/)  
+[Pricing](https://hackmd.io/pricing) starts at USD 5/month. Free tier is offered for team less than 3.    
+Thoughts: collaborative features for team. With the limit of 20 push to Git repo per month, their free tier is not attractive enough to experiment, compared to Notion. 
 
 ## Other reviews for Knowledge Base software
 - [review from slite](https://slite.com/learn/knowledge-base-softwares)

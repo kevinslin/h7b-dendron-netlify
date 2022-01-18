@@ -2,7 +2,7 @@
 id: Hs0V11FbDMMurMrFArdkC
 title: Note Reference
 desc: ''
-updated: 1636949321329
+updated: 1642528122663
 created: 1636948922923
 ---
 # How to reference content from other notes and embed them in your current note (transclusion)
