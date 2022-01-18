@@ -9,7 +9,7 @@ created: 1637315675857
 
 ## Metadata
 
-- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM3NjU=/how-to-buy-1-worth-of-bitcoin-for-85), [[archived version|reading.how-to-buy-1-worth-of-bitcoin-for-85.archive]]
+- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM3NjU=/how-to-buy-1-worth-of-bitcoin-for-85), [[archived version|notes.reading.how-to-buy-1-worth-of-bitcoin-for-85.archive]]
 - Title: How To Buy $1 Worth Of Bitcoin For 85¢
 - Author: Stéphane Renevier
 - Year of publication: 2021

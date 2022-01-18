@@ -5,7 +5,7 @@ desc: ''
 updated: 1639177993722
 created: 1637314843408
 ---
-# Notes from reading [[reading.five-factor-investing-with-ETF]]
+# Notes from reading [[notes.reading.five-factor-investing-with-ETF]]
 
 Investing in a company’s stock means purchasing the rights to a portion of that company’s expected future profits. The expected future profits are not guaranteed, so they are purchased at a discount. 
 

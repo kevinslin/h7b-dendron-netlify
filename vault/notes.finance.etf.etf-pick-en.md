@@ -2,7 +2,7 @@
 id: wFQa92ldJjdtEGUR
 title: Etf Pick En
 desc: ''
-updated: 1640701036892
+updated: 1642544268392
 created: 1626426755261
 ---
 # What to look for when picking ETF and Index Fund
@@ -27,7 +27,7 @@ Key takeaways:
 - Historical Fund Returns
 - Currency Hedging
 
-> Note to self: write similar things for Vietnam markets.
+> Note: I should write similar article for Vietnam markets.
 
 ---
 ## What to look for when buying ETFs
@@ -98,4 +98,4 @@ When selecting an ETF, investors should consider factors such as its level of as
 ---
 ## Five-Factor ETF Model Portfolio
 
-![[reading.five-factor-investing-with-ETF#five-factor-investing-with-etfs,1]]
+![[notes.reading.five-factor-investing-with-ETF#five-factor-investing-with-etfs,1]]

@@ -5,7 +5,7 @@ desc: ''
 updated: 1639177935769
 created: 1638729634163
 ---
-# Notes from reading [[reading.cobol-controls-your-money]]
+# Notes from reading [[notes.reading.cobol-controls-your-money]]
 
 COBOL programs — some written so long ago that colour TV wasn’t even a thing yet — are everywhere in our daily lives. Over 80% of in-person transactions at U.S. financial institutions use COBOL. Fully 95% of the time you swipe your bank card, there’s COBOL running somewhere in the background.
 

@@ -2,7 +2,7 @@
 id: 0CUUNDwNeRutJrqHZATuk
 title: Use Schema Template
 desc: ''
-updated: 1642473205370
+updated: 1642539669478
 created: 1642443093888
 ---
 # How do I use schema and templates in Dendron
@@ -18,28 +18,29 @@ I want to create a schema and template for my notes in `reading` section.
 
 ## Solution
 I follow this [guide](https://wiki.dendron.so/notes/5U4eAiqshI67VxIL40KWH/) to
-1. Create a `reading` template  
-    ![[templates.reading]]
-    Next, in the frontmatter of `templates.md`, set `nav_exclude: true` to hide this note in the navigation bar
-2. Create a `reading` schema
-    ```yaml
+1. Create a `notes-reading` template  
+    ![[templates.notes-reading]]
+    Next, in the frontmatter of `templates.md`, set `nav_exclude: true` to hide this `template` note from the navigation bar
+2. Create a `reading` schema via `notes.schema.yml`
+    ```yml
     # Schema for my reading notes
     # It wil match 
-    #     root.reading
-    #     root.reading.note1
-    #     root.reading.note2
+    #     root.notes.reading
+    #     root.notes.reading.note1
+    #     root.notes.reading.note2
     # It will not match
-    #     root.reading.note1.highlight
+    #     root.notes.reading.note1.highlight 
     
     version: 1
     imports: []
     schemas:
-      - id: reading
-        children: []
-        title: reading note
+      - id: notes
+        title: notes
         parent: root
-        namespace: true
-        template: templates.reading
+        children:
+          - pattern: reading
+            namespace: true
+            template: templates.notes-reading
     ```
 
 DONE
@@ -47,10 +48,11 @@ DONE
 ## Usage
 When I want to create new note in `reading` section
 1. Open `Dendron: Lookup Note` (`Ctrl+L`)
-2. Type in: `reading.new-note-name`
+2. Type in: `notes.reading.new-note-name`
 
 Result: a new note will be created with info from `reading` template.
 
 ## Helpful resources:
 - [Ryan Randall | some-dendron-starter-files](https://github.com/ryan-p-randall/some-dendron-starter-files)
 - [Bassmann | dendron-schemas](https://github.com/Bassmann/Dendron-schemas)
+- [dendron-site | dendron.schema.yml](https://github.com/dendronhq/dendron-site/blob/master/vault/dendron.schema.yml)

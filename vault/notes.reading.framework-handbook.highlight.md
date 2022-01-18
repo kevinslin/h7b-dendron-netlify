@@ -5,7 +5,7 @@ desc: ''
 updated: 1639177920806
 created: 1637934506118
 ---
-# Notes from reading [[reading.framework-handbook]]
+# Notes from reading [[notes.reading.framework-handbook]]
 
 20 useful frameworks on startups, investing, writing, & life
 

@@ -5,7 +5,7 @@ desc: ''
 updated: 1639177966148
 created: 1638753710705
 ---
-# Notes from reading [[reading.kevin-kelly-the-case-for-optimism]]
+# Notes from reading [[notes.reading.kevin-kelly-the-case-for-optimism]]
 
 ## why we should adopt the stance of optimism whenever we can?
 

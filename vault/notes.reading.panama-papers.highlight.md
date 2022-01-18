@@ -5,7 +5,7 @@ desc: ''
 updated: 1639177981127
 created: 1638729381059
 ---
-# Notes from reading [[reading.panama-papers]]
+# Notes from reading [[notes.reading.panama-papers]]
 
 ## How to structure your own offshore empire?
 

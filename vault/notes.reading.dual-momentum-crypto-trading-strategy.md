@@ -9,7 +9,7 @@ created: 1640654073377
 
 ## Metadata
 
-- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM4ODM=/how-ride-best-performing-crypto-best-performing-crypto-sectors), [[archived version|reading.dual-momentum-crypto-trading-strategy.archive]]
+- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM4ODM=/how-ride-best-performing-crypto-best-performing-crypto-sectors), [[archived version|notes.reading.dual-momentum-crypto-trading-strategy.archive]]
 - Title: How To Ride The Best-Performing Crypto In The Best-Performing Crypto Sectors
 - Author: Reda Farran
 - Year of publication: 2021

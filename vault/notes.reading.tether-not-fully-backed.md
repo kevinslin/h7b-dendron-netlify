@@ -9,7 +9,7 @@ created: 1640657260105
 
 ## Metadata
 
-- Ref: [Financial Times](https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9), [[archived version|reading.tether-not-fully-backed.archive]]
+- Ref: [Financial Times](https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9), [[archived version|notes.reading.tether-not-fully-backed.archive]]
 - Title: Tether says its reserves are backed by cash to the tune of 2.9%
 - Author: Jemima Kelly
 - Year of publication: 2021

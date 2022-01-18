@@ -5,7 +5,7 @@ desc: ''
 updated: 1639178082576
 created: 1639178044529
 ---
-# Notes from reading [[reading.ontology-is-overrated]]
+# Notes from reading [[notes.reading.ontology-is-overrated]]
 
 Ontology, in the philosophical sense, is the study of entities and their relations.  
 In a particular domain, what kinds of things can we say exist in that domain, and how can we say those things relate to each other?

@@ -1,8 +1,8 @@
 ---
 id: 8ZMvIucZ2ryx5TABZIhvi
-title: Reading
+title: Template for notes from reading
 desc: ''
-updated: 1642466850778
+updated: 1642537398361
 created: 1642461639244
 ---
 # Reading {{CURRENT_YEAR}}-{{CURRENT_MONTH}}-{{CURRENT_DAY}}

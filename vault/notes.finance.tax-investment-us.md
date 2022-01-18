@@ -7,7 +7,7 @@ created: 1635905317968
 ---
 # IRAs, 401(k)s, and Other Investment Accounts in US
 
-ref: [[Investing Made Simple|reading.investing-made-simple]]
+ref: [[Investing Made Simple|notes.reading.investing-made-simple]]
 
 they are types of investment accounts, in which you can invest in stocks, bonds, mutual funds, etc. The reason these accounts are so important is that they have significant tax advantages over regular, fully taxable accounts.
 

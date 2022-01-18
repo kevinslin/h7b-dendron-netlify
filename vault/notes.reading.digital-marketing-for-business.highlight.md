@@ -5,7 +5,7 @@ desc: ''
 updated: 1639177951966
 created: 1636252162607
 ---
-# Notes from reading [[reading.digital-marketing-for-business]]
+# Notes from reading [[notes.reading.digital-marketing-for-business]]
 
 ## The goals of digital marketing
 

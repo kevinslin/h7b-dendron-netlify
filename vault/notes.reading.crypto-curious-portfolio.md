@@ -9,7 +9,7 @@ created: 1640658335463
 
 ## Metadata
 
-- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM4Nzk=/crypto-skeptical-crypto-curious-portfolio-could-be-perfect-fit), [[archived version|reading.crypto-curious-portfolio.archive]]
+- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM4Nzk=/crypto-skeptical-crypto-curious-portfolio-could-be-perfect-fit), [[archived version|notes.reading.crypto-curious-portfolio.archive]]
 - Title: Crypto Skeptical But Crypto Curious? This Portfolio Could Be The Perfect Fit
 - Author: Reda Farran
 - Year of publication: 
