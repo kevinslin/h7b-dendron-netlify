@@ -14,7 +14,7 @@ created: 1633304407688
 - Author: 
 - Year of publication: 2021
 - Category: Blog
-- Topic: #topic.CryptoAsset
+- Topic: #topic.cryptoAsset
 
 ## Notes from reading
 

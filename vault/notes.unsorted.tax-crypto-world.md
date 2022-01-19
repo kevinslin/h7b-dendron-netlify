@@ -17,4 +17,4 @@ ref: [youtube | TAX MANAGER EXPLAINS Crypto Taxes for Beginners 2021](https://ww
 
 ## Vietnam Tax Agency's View on Crypto
 
-ref: [[notes.finance.tax-crypto-vietnam]]
+ref: [[notes.reading.tax-crypto-vietnam]]

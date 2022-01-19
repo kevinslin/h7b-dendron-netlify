@@ -14,7 +14,7 @@ created: 1640657260105
 - Author: Jemima Kelly
 - Year of publication: 2021
 - Category: News
-- Topic: #topic.CryptoAsset
+- Topic: #topic.cryptoAsset
 
 ## Notes from reading
 

@@ -2,17 +2,17 @@
 id: n5Fr9vDFUxyDSxF6l4oEr
 title: Git Directory and Work-Tree Explained
 desc: ''
-updated: 1642528107352
+updated: 1642549723776
 created: 1642180076564
 ---
 # My current workflow to edit Dendron vault on iOS
 
 So after having used the [[Netlify publishing workflow|notes.tutorial.dendron.publish-netlify]] to remove the heavy build data from the Dendron vault folder.
 
-I want to go further by separating the `.git` folder outside the files I want tracked
+I want to go further by separating the `.git` folder out of the files I want tracked
 
 So I came up with 2 possible solutions:
-1. I separate the location of `.git` subfolder outside the folder `./blog-dendron-repo/` I want to track and sync via iCloud Drive.  
+1. I separate the location of `.git` subfolder out of the folder `./blog-dendron-repo/` that I want to track and sync via iCloud Drive.  
     ref: [Stack Overflow](https://stackoverflow.com/questions/505467/can-i-store-the-git-folder-outside-the-files-i-want-tracked), [jdhao's blog](https://jdhao.github.io/2020/12/25/git_directory_work-tree_explained/), [LogicBig](https://www.logicbig.com/tutorials/misc/git/custom-git-dir.html)
 2. Or I keep the location of `.git` subfolder inside the folder `./blog-dendron-repo/` but exclude the `.git` subfolder from `iCloud Drive` sync.  
     ref: [Apple Communities](https://discussions.apple.com/thread/251290283)

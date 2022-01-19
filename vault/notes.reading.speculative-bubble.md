@@ -14,7 +14,7 @@ created: 1633304217601
 - Author: U.S. Attorney’s Office - Southern District of New York
 - Year of publication: 2021
 - Category: News
-- Topic: #topic.CryptoAsset
+- Topic: #topic.cryptoAsset
 
 ## Notes from reading
 

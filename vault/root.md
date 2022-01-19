@@ -2,7 +2,7 @@
 id: bK2oWh3nbKjoUhY34x9dy
 title: Welcome
 desc: ''
-updated: 1642533186241
+updated: 1642554355941
 created: 1625408489834
 ---
 # Hey 👋
@@ -18,7 +18,7 @@ I use this as a frictionless way to
 
 So feel free to experiment and play with me.
 
-Current tech stack:
+Current build:
 - this static site is published using [Dendron](https://www.dendron.so/), deployed on [Netlify](https://www.netlify.com/)
 - articles are plain *Markdown* files located in the `vault` directory, inside a GitHub repo
 - each *Mardown* file has a *yaml* frontmatter for storing metadata. 

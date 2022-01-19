@@ -2,11 +2,13 @@
 id: pgOwGoZMrf42FwD57muPj
 title: Publish GitHub Pages
 desc: ''
-updated: 1642543829104
+updated: 1642549513542
 created: 1640065640233
 ---
 # Publish Dendron vault using Github Pages with GitHub Actions
 ref: [Dendron wiki](https://wiki.dendron.so/notes/FnK2ws6w1uaS1YzBUY3BR/)
+
+According to the [pricing page](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions), the current limit of free plan is 2000 build minutes per month with GitHub Actions vs [300 build minutes](https://www.netlify.com/pricing/) of Netlify.
 
 ## Getting started
 
@@ -34,7 +36,7 @@ ref: [Dendron wiki](https://wiki.dendron.so/notes/FnK2ws6w1uaS1YzBUY3BR/)
     ```
 6. Configure Dendron on local machine
     - Add parameter `siteUrl` into `dendron.yml`, where the value of param `siteUrl` will be `{username}.github.io`
-    - Add parameter `sync: sync` into  `dendron.yml` so I can used the command `Dendron: Workspace: Sync` to push changes to GitHub repo instead of relying on terminal.
+    - Add parameter `sync: sync` into  `dendron.yml` so I can use the command `Dendron: Workspace: Sync` to push changes to GitHub repo instead of relying on terminal.
     ```yaml
     vaults:
         -

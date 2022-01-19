@@ -2,7 +2,7 @@
 id: 82gGgw5zpqWI2jl8iVWbD
 title: Publish Render
 desc: ''
-updated: 1642106998159
+updated: 1642549159551
 created: 1641257083979
 ---
 # Publish my Dendron vault using Render
@@ -12,7 +12,7 @@ Publish my Dendron vault by deploying on [Render](https://render.com/), with not
 Credit to the [[Netlify workflow|notes.tutorial.dendron.publish-netlify]].
 
 Why Render when [[Netlify workflow|notes.tutorial.dendron.publish-netlify]] is already good enough?
-- simply because of the generous limit of free plan in Render is [400 build-hour](https://render.com/docs/build-limits) vs [300 build-minute](https://www.netlify.com/pricing/) of Netlify 
+- simply because of the generous limit of free plan in Render is [400 build-hour](https://render.com/docs/build-limits) vs [300 build minutes](https://www.netlify.com/pricing/) of Netlify 
 
 ## Getting started
 

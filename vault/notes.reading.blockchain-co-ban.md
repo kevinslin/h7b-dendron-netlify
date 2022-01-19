@@ -14,7 +14,7 @@ created: 1638053914069
 - Author: Việt Trần
 - Year of publication: 2021
 - Category: Blog
-- Topic: #topic.CryptoAsset
+- Topic: #topic.cryptoAsset
 
 ## Notes from reading
 

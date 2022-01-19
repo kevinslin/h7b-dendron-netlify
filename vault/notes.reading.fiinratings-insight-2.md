@@ -2,12 +2,21 @@
 id: H9KVu5G3HRv07f3r1pf1F
 title: Fiinratings Insight 2
 desc: ''
-updated: 1637318581946
+updated: 1642554557351
 created: 1637316126614
 ---
-# Trái phiếu Doanh nghiệp Việt Nam - Cân bằng giữa Lợi nhuận và Rủi ro
+# Reading 2021-11-19
 
-ref: [FiinRatings Insight #2](https://fiingroup.vn/upload/docs/fiinratings-insight-trai-phieu-doanh-nghiep-viet-nam.pdf)
+## Metadata
+
+- Ref: [FiinRatings Insight #2](https://fiingroup.vn/upload/docs/fiinratings-insight-trai-phieu-doanh-nghiep-viet-nam.pdf)
+- Title: Trái phiếu Doanh nghiệp Việt Nam - Cân bằng giữa Lợi nhuận và Rủi ro
+- Author: Khối Dịch vụ Xếp hạng Tín nhiệm (FiinRatings), FiinGroup
+- Year of publication: 2021
+- Category: Blog
+- Topic: 
+
+## Notes from reading
 
 Báo cáo mang đến những phân tích chuyên sâu về thị trường trái phiếu doanh nghiệp Việt Nam 9 tháng đầu năm 2021 với những điểm nhấn chính:
 - Hoạt động phát hành trái phiếu vẫn rất sôi động
@@ -15,13 +24,11 @@ Báo cáo mang đến những phân tích chuyên sâu về thị trường trá
 - Chất lượng tín dụng nhà phát hành phân ở mức rất yếu đối với các đơn vị phát hành chưa niêm yết
 - Bài học từ Evergrande cho tín dụng ngành Bất động sản Việt Nam
 
-## Notes from reading
-
 Kênh huy động vốn qua hình thức trái phiếu doanh nghiệp Việt Nam hiện đã trở thành một kênh dẫn vốn tương đối lớn trong mối tương quan với kênh vay vốn tín dụng từ ngân hàng cũng như kênh huy động vốn cổ phần qua thị trường chứng khoán. 
 
 Ở góc độ kênh đầu tư tài sản, thị trường trái phiếu doanh nghiệp hiện nay không chỉ thu hút các định chế tài chính bao gồm ngân hàng, các công ty bảo hiểm, các quỹ trái phiếu mà còn thu hút sự tham gia mạnh mẽ của các nhà đầu tư là doanh nghiệp và nhà đầu tư cá nhân
 
-Những thay đổi pháp lý quan trọng trong thời gian gần đây bao gồm Nghị định [[153|notes.finance.gov-docs-vietnam.153-2020-nd-cp]] và [[155|notes.finance.gov-docs-vietnam.155-2020-nd-cp]] quy định về chào bán, giao dịch trái phiếu doanh nghiệp (“TPDN”) phát hành riêng lẻ, và hướng dẫn thi hành Luật Chứng khoán sửa đổi năm 2019 đã có những tác động lớn đến sự phát triển của thị trường này
+Những thay đổi pháp lý quan trọng trong thời gian gần đây bao gồm Nghị định [[153|notes.references-archived.gov-docs-vietnam.153-2020-nd-cp]] và [[155|notes.references-archived.gov-docs-vietnam.155-2020-nd-cp]] quy định về chào bán, giao dịch trái phiếu doanh nghiệp (“TPDN”) phát hành riêng lẻ, và hướng dẫn thi hành Luật Chứng khoán sửa đổi năm 2019 đã có những tác động lớn đến sự phát triển của thị trường này
 
 Lựa chọn trái phiếu để đầu tư: hiện có hàng trăm sản phẩm trái phiếu được chào bán trên thị trường bởi các CTCK và ngân hàng tuy nhiên thông tin về chất lượng trái phiếu còn chưa đầy đủ. Đầu tư trái phiếu thường có kỳ hạn dài hạn từ 3 đến 5 năm và do đó không chỉ lựa chọn trái phiếu  có mức lãi suất cao mà các yếu tố về chất lượng nhà phát hành và các điều khoản để đảm bảo quyền lợi cũng như giảm thiểu rủi ro thu hồi lãi và gốc là yếu tố quan trọng mà nhà đầu tư cần lưu ý
 
