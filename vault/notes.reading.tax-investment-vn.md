@@ -35,11 +35,11 @@ Thuế phát sinh khi nhà đầu tư thực hiện:
 #### Thuế đối với giao dịch trả cổ tức
 
 Khi Quỹ trả cổ tức cho nhà đầu tư, Quỹ phải tuân thủ theo quy định khấu trừ và nộp thuế theo 
-- Thông tư số [[78/2014/TT-BTC|notes.references-archived.gov-docs-vietnam.78-2014-TT-BTC]], được sửa đổi bổ sung theo Thông tư [[96/2015/TT-BTC|notes.references-archived.gov-docs-vietnam.96-2015-TT-BTC]] 
-- Thông tư [[111/2013/TT-BTC|notes.references-archived.gov-docs-vietnam.111-2013-TT-BTC]], được sửa đổi bổ sung theo Thông tư [[92/2015/TT-BTC|notes.references-archived.gov-docs-vietnam.92-2015-TT-BTC]]
+- Thông tư số [[78/2014/TT-BTC|notes.archives.gov-docs-vietnam.78-2014-TT-BTC]], được sửa đổi bổ sung theo Thông tư [[96/2015/TT-BTC|notes.archives.gov-docs-vietnam.96-2015-TT-BTC]] 
+- Thông tư [[111/2013/TT-BTC|notes.archives.gov-docs-vietnam.111-2013-TT-BTC]], được sửa đổi bổ sung theo Thông tư [[92/2015/TT-BTC|notes.archives.gov-docs-vietnam.92-2015-TT-BTC]]
 
 do Bộ Tài chính ban hành và
-- Công văn số [[10945/BTC-TCT|notes.references-archived.gov-docs-vietnam.10945-BTC-TCT]] ngày 19 tháng 8 năm 2010
+- Công văn số [[10945/BTC-TCT|notes.archives.gov-docs-vietnam.10945-BTC-TCT]] ngày 19 tháng 8 năm 2010
 
 của Tổng cục Thuế về chính sách thuế đối với việc chia cổ tức cho tổ chức đầu tư
 
@@ -51,7 +51,7 @@ Theo đó,
 
 Công ty quản lý Quỹ có nghĩa vụ khấu trừ, kê khai thuế đối với giao dịch hoán đổi lại chứng chỉ quỹ từ
 - cá nhân (trong và ngoài nước)
-- tổ chức nước ngoài (được phân loại theo Thông tư [[111/2013/TT-BTC|notes.references-archived.gov-docs-vietnam.111-2013-TT-BTC]], được sửa đổi bởi Thông tư [[92/2015/TT-BTC|notes.references-archived.gov-docs-vietnam.92-2015-TT-BTC]] và Thông tư [[103/2014/TT-BTC|notes.references-archived.gov-docs-vietnam.103-2014-TT-BTC]])
+- tổ chức nước ngoài (được phân loại theo Thông tư [[111/2013/TT-BTC|notes.archives.gov-docs-vietnam.111-2013-TT-BTC]], được sửa đổi bởi Thông tư [[92/2015/TT-BTC|notes.archives.gov-docs-vietnam.92-2015-TT-BTC]] và Thông tư [[103/2014/TT-BTC|notes.archives.gov-docs-vietnam.103-2014-TT-BTC]])
 
 Mức thuế áp dụng là **0.1%** trên giá trị chuyển nhượng.
 

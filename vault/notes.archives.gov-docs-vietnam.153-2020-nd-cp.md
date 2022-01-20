@@ -2,10 +2,9 @@
 id: RX2MaWTzjrSVVxUx5kmM7
 title: 153 2020 Nd Cp
 desc: ''
-updated: 1637317572364
+updated: 1642631932600
 created: 1637316799962
 ---
-
 - Số ký hiệu: **153/2020/NĐ-CP**
 - Loại văn bản: Nghị định
 - Cơ quan ban hành: Chính phủ

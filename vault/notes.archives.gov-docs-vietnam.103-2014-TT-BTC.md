@@ -2,10 +2,9 @@
 id: pOONLrjRtHy6LRD1
 title: 103-2014-TT-BTC
 desc: ''
-updated: 1627169835272
+updated: 1642631924289
 created: 1627169742745
 ---
-
 - Số ký hiệu: **103/2014/TT-BTC**
 - Loại văn bản: Thông tư
 - Cơ quan ban hành: Bộ Tài Chính

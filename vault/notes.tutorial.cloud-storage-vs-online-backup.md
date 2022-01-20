@@ -2,7 +2,7 @@
 id: RSCijRCuIR1xl0R3TWCg5
 title: Cloud Storage Vs Online Backup
 desc: ''
-updated: 1641947161264
+updated: 1642628965781
 created: 1641946099458
 ---
 # Cloud Storage vs Online Backup: What’s The Difference
@@ -14,9 +14,9 @@ Cloud storage solution:
 - Share: the ability to let others view, edit or download files you’ve uploaded to your cloud storage space
 - Cloud storage solutions are not really suitable for hard-drive backup since they don’t retain your file-system structure because you end up having to put everything into a sync folder.
 
-Online backup:
-- the vital purpose of online backup is to replicate your hard drive, for disaster recovery.
-- Online backup services retain your file system structure and let you restore everything back the way it was in case you need to rebuild your hard drive
+Online backup services:
+- Aim to replicate your hard drive, for disaster recovery.
+- Retain your file system structure and let you restore everything back the way it was in case you need to rebuild your hard drive
 
 Another funny written [marketing piece from Backblaze](https://www.backblaze.com/blog/the-case-for-backup-over-sync/) comparing their backup solution vs other sync services, might give the reason to consider to buy their subscription
 

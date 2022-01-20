@@ -2,10 +2,9 @@
 id: kbqBXBDaSwZNzrho
 title: 111-2013-TT-BTC
 desc: ''
-updated: 1627168079965
+updated: 1642631927637
 created: 1627167919358
 ---
-
 - Số ký hiệu: **111/2013/TT-BTC**
 - Loại văn bản: Thông tư
 - Cơ quan ban hành: Bộ Tài Chính

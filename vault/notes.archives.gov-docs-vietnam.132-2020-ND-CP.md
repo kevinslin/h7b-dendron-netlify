@@ -2,10 +2,9 @@
 id: YyhSN01uIlwDHYNj2II50
 title: 132-2020-ND-CP
 desc: ''
-updated: 1633468927935
+updated: 1642631930424
 created: 1633468515916
 ---
-
 - Số ký hiệu: **132/2020/NĐ-CP**
 - Loại văn bản: Nghị định
 - Cơ quan ban hành: Chính phủ

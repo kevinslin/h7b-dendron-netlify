@@ -2,10 +2,9 @@
 id: WXoYpLmbGZWi9gVX
 title: Free Stock API
 desc: ''
-updated: 1626775099320
+updated: 1642631793816
 created: 1626513463054
 ---
-
 # My current method to get stock data
 
 Ref: [Towards Data Science](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984), [Algotrading101](https://algotrading101.com/learn/yfinance-guide/)

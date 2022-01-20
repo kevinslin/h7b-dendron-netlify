@@ -9,7 +9,7 @@ created: 1627160135210
 
 ## Metadata
 
-- Ref: [[Thông tư số 48/2019/TT-BTC|notes.references-archived.gov-docs-vietnam.48-2019-TT-BTC]]
+- Ref: [[Thông tư số 48/2019/TT-BTC|notes.archives.gov-docs-vietnam.48-2019-TT-BTC]]
 - Title: Mức trích lập dự phòng đối với các khoản nợ phải thu quá hạn thanh toán
 - Author: 
 - Year of publication: 2019
@@ -18,7 +18,7 @@ created: 1627160135210
 
 ## Notes from reading
 
-Theo hướng dẫn của Thông tư số [[48/2019/TT-BTC|notes.references-archived.gov-docs-vietnam.48-2019-TT-BTC]]:
+Theo hướng dẫn của Thông tư số [[48/2019/TT-BTC|notes.archives.gov-docs-vietnam.48-2019-TT-BTC]]:
 
 | Thời gian quá hạn                | Mức trích dự phòng |
 | -------------------------------- | ------------------ |

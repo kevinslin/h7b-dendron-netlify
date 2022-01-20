@@ -2,10 +2,10 @@
 id: dW3xXZGuTWu5dgS0gM5Tx
 title: Calibre Ebook App
 desc: ''
-updated: 1640857719721
+updated: 1642631777245
 created: 1631323327735
 ---
-## How to Email Books and Documents to Kindle?
+# How to Email Books and Documents to Kindle?
 
 Ref: [link](https://www.epubor.com/how-to-email-books-and-documents-to-kindle.html)
 
@@ -28,15 +28,15 @@ ref: [link](https://manual.calibre-ebook.com/sub_groups.html)
 
 - In metadata of book, setup tag hierarchy, separated by `.` (`period`)
     - eg. with `History.Military` tag, the subgroup `Military` is listed under the group `History`
-- Go to `Preferences` → `Look & feel` → `Tag browser` and enter the lookup name `tags` into the `Categories with hierarchical items` box. Press `Apply`, and you are done with setting up. 
+- Go to `Preferences` → `Look & feel` → `Tag browser` and enter the lookup name `tags` into the `Categories with hierarchical items` box. Press `Apply`, and you are done with setting up. 
 
 ## Change the default viewer for Calibre to SumatraPDF for epub files
 
 For Windows OS
-- Set the default program for opening epub files to sumatrapdf
+- Set the default program for opening `epub` files to `sumatrapdf`
 - Go to Calibre Preference
 - Under Interface, select Behavior
-- On the right, is a list of book formats. These are the filetype that the Calibre Default viewer will open when you click on a title in the Library browser. Unclick whichever format that you don't want Calibre to automatically launch its internal viewer. 
+- On the right, is a list of book formats. These are the filetype that the `Calibre Default viewer` will open when you click on a title in the Library browser. Disable whichever format that you don't want Calibre to automatically launch its internal viewer. 
 - Click Apply and exit. 
 
-The next time you click on a book, with filetype epub or pdf, the Windows default reader app, configured by you, will launch instead of the Calibre book viewer.
+The next time you click on a book, with filetype `epub` or `pdf`, the Windows default reader app, configured by you, will launch instead of the Calibre book viewer.

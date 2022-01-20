@@ -2,10 +2,9 @@
 id: bPEEnqk0JXFCXWCh
 title: 92-2015-TT-BTC
 desc: ''
-updated: 1627168284815
+updated: 1642631942515
 created: 1627168188132
 ---
-
 - Số ký hiệu: **92/2015/TT-BTC**
 - Loại văn bản: Thông tư
 - Cơ quan ban hành: Bộ Tài Chính

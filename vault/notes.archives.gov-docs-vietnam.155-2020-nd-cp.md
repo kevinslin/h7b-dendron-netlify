@@ -2,10 +2,9 @@
 id: 0L0NqADqeQhGzqemxSAdj
 title: 155 2020 Nd Cp
 desc: ''
-updated: 1637317569305
+updated: 1642631937152
 created: 1637317291089
 ---
-
 - Số ký hiệu: **155/2020/NĐ-CP**
 - Loại văn bản: Nghị định
 - Cơ quan ban hành: Chính phủ

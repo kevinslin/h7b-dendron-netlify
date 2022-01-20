@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1642530006489
+updated: 1642633215143
 created: 1635205995281
 nav_order: 2
 ---

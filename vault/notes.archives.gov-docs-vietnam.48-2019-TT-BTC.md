@@ -2,10 +2,9 @@
 id: mqMjUEkRFoAlnHXn
 title: 48-2019-TT-BTC
 desc: ''
-updated: 1627165886304
+updated: 1642631938691
 created: 1627164939325
 ---
-
 - Số ký hiệu: **48/2019/TT-BTC**
 - Loại văn bản: Thông tư
 - Cơ quan ban hành: Bộ Tài Chính

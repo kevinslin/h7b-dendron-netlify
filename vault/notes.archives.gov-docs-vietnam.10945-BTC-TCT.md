@@ -2,10 +2,9 @@
 id: 5KYMXCcMiGLY5hIn
 title: 10945-BTC-TCT
 desc: ''
-updated: 1627169195441
+updated: 1642631926179
 created: 1627168524850
 ---
-
 - Số ký hiệu: **10945/BTC-TCT**
 - Loại văn bản: Công văn
 - Cơ quan ban hành: Bộ Tài Chính

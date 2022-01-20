@@ -2,10 +2,9 @@
 id: R9JGmkvWyjp6qEcp
 title: 78-2014-TT-BTC
 desc: ''
-updated: 1627167222871
+updated: 1642631940350
 created: 1627167034046
 ---
-
 - Số ký hiệu: **78/2014/TT-BTC**
 - Loại văn bản: Thông tư
 - Cơ quan ban hành: Bộ Tài Chính

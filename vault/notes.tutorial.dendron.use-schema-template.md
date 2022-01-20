@@ -2,7 +2,7 @@
 id: 0CUUNDwNeRutJrqHZATuk
 title: Use Schema Template
 desc: ''
-updated: 1642539669478
+updated: 1642614054839
 created: 1642443093888
 ---
 # How do I use schema and templates in Dendron
@@ -13,15 +13,19 @@ ref: [Dendron wiki | Making Your First Schema](https://wiki.dendron.so/notes/5U4
 [Schema](https://wiki.dendron.so/notes/c5e5adde-5459-409b-b34d-a0d75cbb1052/) is a *YAML* file that helps you to apply consistent structure to all your notes. One of the primary capabilities for schema is to automatically insert templates into new notes
 
 ## Situation
-
-I want to create a schema and template for my notes in `reading` section.
+When writing new notes in `reading` section, I found that I need to retype many duplicated words. I need to reduce the effort to write these types of note
 
 ## Solution
-I follow this [guide](https://wiki.dendron.so/notes/5U4eAiqshI67VxIL40KWH/) to
+
+I have to create a schema and template for my notes in `reading` section.
+- schema: to organize the structure of notes
+- template: to reproduce the outline of content
+
+I follow this [guide](https://wiki.dendron.so/notes/5U4eAiqshI67VxIL40KWH/)
 1. Create a `notes-reading` template  
     ![[templates.notes-reading]]
     Next, in the frontmatter of `templates.md`, set `nav_exclude: true` to hide this `template` note from the navigation bar
-2. Create a `reading` schema via `notes.schema.yml`
+2. Create a `notes` schema via `notes.schema.yml`
     ```yml
     # Schema for my reading notes
     # It wil match 
