@@ -13,7 +13,7 @@ ref: [Dendron wiki | Making Your First Schema](https://wiki.dendron.so/notes/5U4
 [Schema](https://wiki.dendron.so/notes/c5e5adde-5459-409b-b34d-a0d75cbb1052/) is a *YAML* file that helps you to apply consistent structure to all your notes. One of the primary capabilities for schema is to automatically insert templates into new notes
 
 ## Situation
-When writing new notes in `reading` section, I found that I need to retype many duplicated words. I need to reduce the effort to write these types of note
+When writing new notes in `reading` section, I found that I need to retype many duplicated words. I want to reduce the effort to write these types of note
 
 ## Solution
 

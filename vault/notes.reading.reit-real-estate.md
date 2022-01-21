@@ -1,6 +1,6 @@
 ---
 id: dOj5Cz71GZ3FhWQPd3xN8
-title: Reit Real Estate
+title: REIT Real Estate
 desc: ''
 updated: 1642556207787
 created: 1635722670051

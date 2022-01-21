@@ -1,6 +1,6 @@
 ---
 id: LrQYunYjzxQaNFWM
-title: Nlp in Sparsing Financial Statements
+title: NLP in Sparsing Financial Statements
 desc: ''
 updated: 1640701418057
 created: 1626869623004

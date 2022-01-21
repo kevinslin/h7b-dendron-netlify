@@ -2,7 +2,7 @@
 id: IgzRtMZeUa7htWo5VKBE3
 title: Etf Tax Consideration
 desc: ''
-updated: 1642559054746
+updated: 1642701145854
 created: 1635727808386
 ---
 # Reading 2021-11-01
@@ -29,4 +29,3 @@ The tax implications will vary by region
 Here are all the ways [How Sharesight makes ETF tax admin easy](https://www.sharesight.com/blog/how-sharesight-makes-etf-tax-admin-easy/)
 
 Read more to know [Capital gains tax calculator for Australian investors](https://www.sharesight.com/blog/capital-gains-tax-calculator-for-australian-investors/)
-

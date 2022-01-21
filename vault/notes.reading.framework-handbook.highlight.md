@@ -2,12 +2,13 @@
 id: gZngzUJUvkLglLlilClTV
 title: Highlight
 desc: ''
-updated: 1639177920806
+updated: 1642701355673
 created: 1637934506118
 ---
-# Notes from reading [[notes.reading.framework-handbook]]
+# The Framework Handbook
+ref: [The Curiosity Chronicle](https://sahilbloom.substack.com/p/the-framework-handbook)
 
-20 useful frameworks on startups, investing, writing, & life
+Useful frameworks on startups, investing, writing, & life
 
 Frameworks are compasses—they provide clarity by creating structure through which to evaluate situations, deploy shortcuts, and execute sound decisions.
 

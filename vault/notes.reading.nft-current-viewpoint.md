@@ -1,6 +1,6 @@
 ---
 id: vT2qWgZBlOuS4VTn1OuJP
-title: Nft Current Viewpoint
+title: NFT Current Viewpoint
 desc: ''
 updated: 1642544161029
 created: 1633304407688

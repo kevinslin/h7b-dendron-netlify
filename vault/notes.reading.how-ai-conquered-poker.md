@@ -1,6 +1,6 @@
 ---
 id: Q7attJXePy0DT9sCWnDtl
-title: How Ai Conquered Poker
+title: How AI Conquered Poker
 desc: ''
 updated: 1642640284903
 created: 1642635147089

@@ -1,6 +1,6 @@
 ---
 id: aaz1liOPZJptF2Fxzc03t
-title: Gtd Methodology
+title: GTD Methodology
 desc: ''
 updated: 1642641846529
 created: 1642641293957

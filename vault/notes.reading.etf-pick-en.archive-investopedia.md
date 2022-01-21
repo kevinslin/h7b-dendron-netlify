@@ -2,12 +2,11 @@
 id: vmxoVRIwZa6R7bzUFPylB
 title: Archive Investopedia
 desc: ''
-updated: 1642559478669
+updated: 1642701087338
 created: 1642559440120
 ---
 # How To Pick an ETF
 Ref: [Investopedia](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-choose-best.asp)
-
 
 ## Key Takeaways
 

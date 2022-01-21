@@ -1,6 +1,6 @@
 ---
 id: n5Fr9vDFUxyDSxF6l4oEr
-title: Git Directory and Work-Tree Explained
+title: Edit Dendron vault on iOS
 desc: ''
 updated: 1642549723776
 created: 1642180076564

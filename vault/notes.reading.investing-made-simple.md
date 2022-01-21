@@ -9,7 +9,7 @@ created: 1635905724920
 
 ## Metadata
 
-- Ref: [epub](https://docdrop.org/epub/Investing-Made-Simple_-Index-Fu---Mike-Piper-l6y6s.epub/?loc=titlepage.xhtml)
+- Ref: [Amazon](https://www.amazon.com/Investing-Made-Simple-Index-Explained-ebook/dp/B004KA9RN2), [epub](https://docdrop.org/epub/Investing-Made-Simple_-Index-Fu---Mike-Piper-l6y6s.epub/?loc=titlepage.xhtml)
 - Title: Investing Made Simple: Index Fund Investing and ETF Investing Explained in 100 Pages or Less
 - Author: Mike Piper
 - Year of publication: 2018

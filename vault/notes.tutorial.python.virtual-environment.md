@@ -2,7 +2,7 @@
 id: 5AA8KKYfUpbCkcdm7CaMX
 title: Virtual Environment
 desc: ''
-updated: 1639884662793
+updated: 1642734088040
 created: 1639626240928
 ---
 # Python Virtual Environments
@@ -11,6 +11,7 @@ ref:
 - [Liquid Web | setup Python Virtual Environment on Windows 10](https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/)
 - [Ruslanmv | setup Python Virtual Environment in WSL](https://ruslanmv.com/blog/Python3-in-Windows-with-Ubuntu)
 - [opensource | guide with virtualenvwrapper](https://opensource.com/article/21/2/python-virtualenvwrapper)
+- [Analyzing Alpha | Python Virtual Environments: Setup & Usage](https://analyzingalpha.com/python-virtual-environment)
 
 by default, every project on your system will use the same directories to store and retrieve site packages (third party libraries)
 

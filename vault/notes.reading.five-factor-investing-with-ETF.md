@@ -1,6 +1,6 @@
 ---
 id: 8InOIxf4CT3Ld7V9ZTFp9
-title: five-factor-investing-with-ETF
+title: Five-factor asset pricing model for ETF pick
 desc: ''
 updated: 1642469970376
 created: 1636948416740

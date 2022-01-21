@@ -1,8 +1,8 @@
 ---
 id: g4VBHczgaAzqplNAGm1mu
-title: Working in Vr
+title: Working in VR
 desc: ''
-updated: 1642635085235
+updated: 1642642013037
 created: 1642633192671
 ---
 # Reading 2022-01-19
@@ -21,7 +21,7 @@ created: 1642633192671
 
 Amazingly, with apps like [Immersed](https://immersed.com/), we can have a virtual desk in VR (here is Oculus Quest 2) with up to 5 screens.
 
-Here is the author's virtual desktop, floating in orbit above Southeast Asia at night, inside of [Immersed](https://immersed.com/), a VR virtual work environment
+Here is the author's virtual desktop, inside of [Immersed](https://immersed.com/), a VR virtual work environment
 ![immersed-environment](https://miro.medium.com/max/1400/1*ASsF9GzDtvbYDMsYizV3qQ.jpeg){max-width: 300px, display: block, margin: 0 auto}
 
 Interesting reads about the myth to be blind by spending many hours in VR everyday. Tldr: No, it can not.
