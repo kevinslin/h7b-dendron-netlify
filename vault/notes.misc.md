@@ -2,8 +2,7 @@
 id: El24r4epcH6aOWTtnaAh2
 title: Misc
 desc: ''
-updated: 1636945015791
+updated: 1642809815668
 created: 1636944968293
 ---
-
-self-help, lifestyle and random talks
+random notes 

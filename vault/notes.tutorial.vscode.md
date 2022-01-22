@@ -2,15 +2,14 @@
 id: vdiqSQXd_rCr7H-c441_Z
 title: Vscode
 desc: ''
-updated: 1642703613478
+updated: 1642802117477
 created: 1625532619492
 ---
 # VS Code cheat sheet
 
-## Keyboard shortcut
+## Keyboard shortcuts
 
-- `alt + Arrow Keys` Move line up/down
-- `Ctrl + Alt + Arrow Keys` Select multiple lines
+![[notes.tutorial.dendron.keyboard-shortcuts#frequently-used-keyboard-shortcuts-for-dendron,1]]
 
 ## Bracket pair highlighting
 
@@ -39,3 +38,7 @@ Settings of interest:
 - This extension enables its users to share a session and collaboratively edit or debug the code. `Live Share` also offers integrated text chat and audio (via plugin [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)). All this is possible without the need to configure the same development environment, tools, or settings .
 - The Live Share extension is really helpful for activities such as remote code reviews, pair programming and interactive lectures.
 ![live-share-plugin](https://cdn.hashnode.com/res/hashnode/image/upload/v1642338590890/capHlynjh.png?auto=compress,format&format=webp){max-width: 300px, display: block, margin: 0 auto}
+
+[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor
+![peacock-plugin](https://raw.githubusercontent.com/johnpapa/vscode-peacock/main/resources/hero.png){max-width: 300px, display: block, margin: 0 auto}

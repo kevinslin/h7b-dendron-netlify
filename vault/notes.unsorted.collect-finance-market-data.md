@@ -2,7 +2,7 @@
 id: WXoYpLmbGZWi9gVX
 title: How to Collect Market Data (stocks/crypto)
 desc: ''
-updated: 1642740143941
+updated: 1642818026662
 created: 1626513463054
 ---
 # How do I get stocks/crypto trading data
@@ -38,5 +38,11 @@ Free unofficial community package:
 [Analyzing Alpha | Get Historical Price Data from Polygon.io](https://analyzingalpha.com/get-historical-price-data-polygon)
 
 [Thecleverprogrammer | Pandas Datareader using Python](https://thecleverprogrammer.com/2021/03/22/pandas-datareader-using-python-tutorial/)
+
+[[Analyze cryptoassets using PostgreSQL and TimescaleDB|notes.reading.timescaledb-analyze-cryptoassets]]
+
+[Create Tables with PostgreSQL and TimescaleDB](https://www.youtube.com/watch?v=P-flYBbmCws&list=PLvzuUVysUFOsrxL7UxmMrVqS8X2X0b8jd&index=4)
+
+[TimescaleDocs | Analyze historical intraday stock data](https://docs.timescale.com/timescaledb/latest/tutorials/analyze-intraday-stocks/)
 
 [[PythonForFinance - Build Financial Data Database with Python|notes.reading.build-financial-database-with-python]]
