@@ -2,7 +2,7 @@
 id: WXoYpLmbGZWi9gVX
 title: How to Collect Market Data (stocks/crypto)
 desc: ''
-updated: 1642818026662
+updated: 1642895494829
 created: 1626513463054
 ---
 # How do I get stocks/crypto trading data
@@ -44,5 +44,7 @@ Free unofficial community package:
 [Create Tables with PostgreSQL and TimescaleDB](https://www.youtube.com/watch?v=P-flYBbmCws&list=PLvzuUVysUFOsrxL7UxmMrVqS8X2X0b8jd&index=4)
 
 [TimescaleDocs | Analyze historical intraday stock data](https://docs.timescale.com/timescaledb/latest/tutorials/analyze-intraday-stocks/)
+
+[Erol Aspromatis | Get Stock Pricing Data From The Polygon.io API For Algo-Trading Using Python](https://www.youtube.com/watch?v=sTlBQ3nVuJE)
 
 [[PythonForFinance - Build Financial Data Database with Python|notes.reading.build-financial-database-with-python]]

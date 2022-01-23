@@ -2,7 +2,7 @@
 id: 7GDitBrWh8EtejiUqqvJH
 title: Build Financial Data Database with Python
 desc: ''
-updated: 1642740440680
+updated: 1642895482651
 created: 1642738488330
 ---
 # Reading 2022-01-21
@@ -29,5 +29,6 @@ idea:
   - use [pandas-datareader](https://pydata.github.io/pandas-datareader/index.html#) to scrape price historical data from [Yahoo Finance](https://finance.yahoo.com/) then, clean and write the collected data into the local database
 
 thoughts:
-  - the author agree that relational database is not suitable for security prices. He  accept that time-series DBs have certain benefits over SQL DBs when it comes to large amounts of financial time-series data.
+  - the author agree that relational database is possibly not suitable for security prices. He accepts that time-series DBs have certain benefits over SQL DBs when it comes to large amounts of financial time-series data.
+  - He explained his reason of choice. Sqlite comes pre-packaged with Python, it exists in a single .db file and is accessible without faffing around with setting up SQL servers
   - However, I am not aiming this blog at those who would have their own SQL servers and who are looking to build an enterprise grade financial DB here. This whole blog is aimed at individuals, many of whom are in the learning phase of their journey…so I stand by my choice of an SQL database for this article. Sqlite comes pre-packaged with Python, it exists in a single .db file and is accessible without faffing around with setting up SQL servers and the like. For the amounts of data they are likely to be scraping (end of day in my example) then, again an SQL DB is more than sufficient for that. I can assure you at many smaller funds and CTAs you will often find their data held in SQL DBs. It all comes down to use case

@@ -2,7 +2,7 @@
 id: RSCijRCuIR1xl0R3TWCg5
 title: Cloud Storage Vs Online Backup
 desc: ''
-updated: 1642628965781
+updated: 1642877663491
 created: 1641946099458
 ---
 # Cloud Storage vs Online Backup: What’s The Difference
@@ -22,7 +22,7 @@ Another funny written [marketing piece from Backblaze](https://www.backblaze.com
 
 A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-online-backup-service/)
 
-|  | Backblaze | IDrive | Arq Premium |
+|  | [Backblaze](https://www.backblaze.com/) | [IDrive](https://www.idrive.com/pricing) | [Arq Premium](https://www.arqbackup.com/pricing/) |
 |---|---|---|---|
 | Price   (per year) | $70  | $80  | $60  |
 | Amount   of storage | Unlimited | 5 TB | 1 TB |
@@ -35,3 +35,12 @@ A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.n
 | File   size limits | No | No | No |
 | File   sharing | Yes | Yes | No |
 | File   syncing | No | Yes | No |
+
+## Helpful resources
+
+[iDrive review](https://www.bestbackupreviews.com/reviews/idrive-backup-review/) with plenty of screencap
+
+[Microsoft OneDrive review](https://www.bestbackupreviews.com/reviews/microsoft-onedrive-review/) let me know that OneDrive has simple backup feature. The ability to choose the storage location or exclude files based on their location or file-type is simply not available. But you can select various folders to back up.
+![onedrive-backup](https://www.bestbackupreviews.com/wp-content/uploads/2020/10/microsoft-onedrive-review-backup-in-progress-700x439-1.webp){max-width: 300px, display: block, margin: 0 auto}
+
+[Backblaze vs Arq Premium](https://www.bestbackupreviews.com/comparison/backblaze-vs-arq-premium/)
