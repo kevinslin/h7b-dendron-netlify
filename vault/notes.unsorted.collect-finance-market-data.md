@@ -2,14 +2,14 @@
 id: WXoYpLmbGZWi9gVX
 title: How to Collect Market Data (stocks/crypto)
 desc: ''
-updated: 1642895494829
+updated: 1642986598937
 created: 1626513463054
 ---
 # How do I get stocks/crypto trading data
 
 Ref: [Towards Data Science](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984), [Algotrading101](https://algotrading101.com/learn/yfinance-guide/), [awesome-quant | Data Sources](https://github.com/wilsonfreitas/awesome-quant#data-sources)
 
-Paid official data provider:
+Paid official data sources:
 - [IEX Cloud](https://iexcloud.io/)
     - [Pricing](https://iexcloud.io/pricing/) starts at USD 19/month. Has free plan 
 - [Alpha Vantage](https://www.alphavantage.co/)
@@ -17,6 +17,9 @@ Paid official data provider:
     - [Premium plan](https://www.alphavantage.co/premium/) starts at USD 50/month. It also has Free API key for consumers
 - [polygon.io](https://polygon.io/)
     - Different [Pricing](https://polygon.io/pricing) for stocks, currencies and options. Has free plan
+- [Alpaca](https://alpaca.markets/)
+    - [Pricing](https://alpaca.markets/data) starts at USD 9/month. Has free plan
+    - US stocks and etf only
 
 Free unofficial community package:
 - manually download historical data from <https://www.investing.com/> or use [investpy](https://github.com/alvarobartt/investpy)
@@ -43,8 +46,15 @@ Free unofficial community package:
 
 [Create Tables with PostgreSQL and TimescaleDB](https://www.youtube.com/watch?v=P-flYBbmCws&list=PLvzuUVysUFOsrxL7UxmMrVqS8X2X0b8jd&index=4)
 
+[Alpaca API, PostgreSQL, and TimescaleDB](https://www.youtube.com/watch?v=RAIqlK5K7-s)
+- the author demonstrate how he initialized TimescaleDB using docker, get stock data from Alpaca API and populate them into the database 
+
 [TimescaleDocs | Analyze historical intraday stock data](https://docs.timescale.com/timescaledb/latest/tutorials/analyze-intraday-stocks/)
 
 [Erol Aspromatis | Get Stock Pricing Data From The Polygon.io API For Algo-Trading Using Python](https://www.youtube.com/watch?v=sTlBQ3nVuJE)
 
 [[PythonForFinance - Build Financial Data Database with Python|notes.reading.build-financial-database-with-python]]
+
+## Getting started
+
+Initially I intended to use Sqlite or PostgreSQL as the database engine. After reading about [[BigQuery|notes.tutorial.google-bigquery]], I incline to this solution, since its free tier offers 10GB storage and I don't need to manually manage the database. BigQuery is also integrated directly into Deepnote or Jupyter notebook.

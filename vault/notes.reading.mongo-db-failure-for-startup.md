@@ -1,8 +1,8 @@
 ---
 id: qIPhaFw1xzQkBCRfjodtC
-title: Mongo Db Failure for Startup
+title: Mongo DB Failure for Startup
 desc: ''
-updated: 1642816917867
+updated: 1642901880090
 created: 1642814355483
 ---
 # Reading 2022-01-22

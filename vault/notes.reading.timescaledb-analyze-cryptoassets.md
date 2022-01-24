@@ -1,8 +1,8 @@
 ---
 id: RJbDpgvHp3xExYjFK46QK
-title: Timescaledb Analyze Cryptoassets
+title: TimescaleDB Analyze Cryptoassets
 desc: ''
-updated: 1642817872400
+updated: 1642901660648
 created: 1642817386230
 ---
 # Reading 2022-01-22
