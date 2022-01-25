@@ -2,11 +2,11 @@
 id: RSCijRCuIR1xl0R3TWCg5
 title: Cloud Storage Vs Online Backup
 desc: ''
-updated: 1642877663491
+updated: 1643072650656
 created: 1641946099458
 ---
 # Cloud Storage vs Online Backup: What’s The Difference
-ref: [Cloudwars](https://www.cloudwards.net/online-storage-vs-online-backup-whats-the-difference/)
+ref: [Cloudwards](https://www.cloudwards.net/online-storage-vs-online-backup-whats-the-difference/)
 
 Cloud storage solution: 
 - The vital purpose of cloud storage is to supplement your hard drive. Cloud storage is an extension of the physical storage capability of your device
@@ -44,3 +44,9 @@ A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.n
 ![onedrive-backup](https://www.bestbackupreviews.com/wp-content/uploads/2020/10/microsoft-onedrive-review-backup-in-progress-700x439-1.webp){max-width: 300px, display: block, margin: 0 auto}
 
 [Backblaze vs Arq Premium](https://www.bestbackupreviews.com/comparison/backblaze-vs-arq-premium/)
+
+[Backblaze vs iDrive](https://www.cloudwards.net/idrive-vs-backblaze/)
+
+[Cloud Storage Price Comparison 2022](https://www.cloudwards.net/comparison/)
+
+[iCloud+ plans and pricing](https://support.apple.com/en-us/HT201238) start at USD 0.99/month for 50GB 

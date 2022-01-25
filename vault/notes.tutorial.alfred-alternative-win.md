@@ -2,7 +2,7 @@
 id: XoCpnJlyY5sdGQf6DKPCO
 title: Alfred Alternative Win
 desc: ''
-updated: 1637238942589
+updated: 1643071053403
 created: 1637238297902
 ---
 # Quick launcher for Windows OS
@@ -17,3 +17,4 @@ Or the alternatives of [Alfred for Mac OS](https://www.alfredapp.com/)
     - [Github repo](https://github.com/Wox-launcher/Wox)
 - [Keypirinha](https://keypirinha.com/index.html)
 - [Listary](https://www.listary.com/download)
+- [Slapdash](https://slapdash.com/)

@@ -2,7 +2,7 @@
 id: 4DHLvhZXNpbtd7Pv0wIsu
 title: Google Bigquery
 desc: ''
-updated: 1642986754356
+updated: 1643020868449
 created: 1642977450032
 ---
 # Google Bigquery
@@ -22,7 +22,9 @@ Overview:
 ![bigquery-storage](https://miro.medium.com/max/875/0*soejo49qke3RpTps){max-width: 300px, display: block, margin: 0 auto}
 - BigQuery when used in a proper context such as append-only data, time-series data, with the ability to run very complex queries, will definitely shine
 
-The free tier of BigQuery require credit card. From 2019, Google introduce [BigQuery sandbox](https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox), a credit-card free path to enable new users to experiment with BigQuery at no cost—without having to enter credit card information. BigQuery sandbox provides you with up to 1 terabyte per month of query capacity and 10GB of free storage. All tables and partitions have a 60-day retention policy. Some features of BigQuery are not included in the sandbox (DML, Streaming, Data Transfer Service) 
+The free tier of BigQuery require credit card. From 2019, Google introduce [BigQuery sandbox](https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox), a credit-card free path to enable new users to experiment with BigQuery at no cost—without having to enter credit card information. BigQuery sandbox provides you with up to 1 terabyte per month of query capacity and 10GB of free storage. All tables and partitions have a 60-day retention policy. Some features of BigQuery are not included in the sandbox (DML, Streaming, Data Transfer Service).
+
+2022-01-24, the `Try BigQuery Free` button mentioned in the [blog article]((https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox)) always lead to the [Free trial](https://console.cloud.google.com/freetrial) instead of BigQuery sandbox as advertised. Hence I follow this [guide](https://www.optimizesmart.com/google-bigquery-sandbox/) to access BigQuery sandbox.
 
 ## Helpful resources:
 

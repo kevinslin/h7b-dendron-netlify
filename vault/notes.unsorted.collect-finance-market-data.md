@@ -2,7 +2,7 @@
 id: WXoYpLmbGZWi9gVX
 title: How to Collect Market Data (stocks/crypto)
 desc: ''
-updated: 1642986598937
+updated: 1643020970055
 created: 1626513463054
 ---
 # How do I get stocks/crypto trading data
@@ -58,3 +58,5 @@ Free unofficial community package:
 ## Getting started
 
 Initially I intended to use Sqlite or PostgreSQL as the database engine. After reading about [[BigQuery|notes.tutorial.google-bigquery]], I incline to this solution, since its free tier offers 10GB storage and I don't need to manually manage the database. BigQuery is also integrated directly into Deepnote or Jupyter notebook.
+
+1. Create a new Google account for BigQuery
