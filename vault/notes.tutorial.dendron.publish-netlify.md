@@ -2,7 +2,7 @@
 id: 3UHqQ5XkT3JvF1JE4jUdR
 title: Publish Netlify
 desc: ''
-updated: 1642818567720
+updated: 1643248718915
 created: 1640060126202
 ---
 # Publish my Dendron vault using Netlify
@@ -27,7 +27,7 @@ ref: [Dendron blog](https://blog.dendron.so/notes/7h7zZkjF4Yqz8XSrHS1je/), [Dend
 
 DONE
 
-## Move contents from old vault to new vault
+### Move contents from old vault to new vault
 
 1. Clone `h7b-dendron-netlify` repo (created in `Getting started` - step 2) to my laptop using `GitHub Desktop` app
 
@@ -63,19 +63,7 @@ DONE
 
 DONE
 
-## Thoughts:
-
-With this Netlify workflow, I just need to use `Dendron: Workspace: Sync` to push updated contents. Then it's done on my part. The built process will be executed by Netlify. I don't have to use `Dendron CLI` to build manually and push output `docs` folder to GitHub Pages. 
-
-By deploying on Netlify, my website will be built after each commits to my GitHub repo.
-
-The free tier limit of Netlify is 
-- 300 minutes / month for [Build minutes](https://www.netlify.com/pricing/faq/) (The time it takes Netlify to build my site)
-- 100 GB / month Bandwidth
-
-Wrt my usage during 30 days (from 2021-12-20 to 2022-01-20), by pushing daily updates to my repo, I spent 220/300 build minutes
-
-## Assign my custom domain to Netlify site
+### Assign my custom domain to Netlify site
 
 ref: [Netlify docs](https://docs.netlify.com/domains-https/custom-domains/)
 
@@ -87,7 +75,7 @@ If the domain is registered (already has an owner), you will be asked to confirm
 
 if the domain was registered elsewhere (my case is [porkbun](https://porkbun.com/)), and you want to continue using your current DNS provider, you will need to add DNS records on your provider to point your domain or subdomain to your site on Netlify
 
-## Configure external DNS for a custom domain
+### Configure external DNS for a custom domain
 
 ref: [Netlify docs](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/)
 
@@ -101,3 +89,17 @@ In `porkbun` DNS control panel,
 
 DNS records in `porkbun` after change
 ![dns-after](https://i.imgur.com/7Lo5EFF.jpg){max-width: 300px, display: block, margin: 0 auto}
+
+## Thoughts:
+
+With this Netlify workflow, I just need to use `Dendron: Workspace: Sync` to push updated contents. Then it's done on my part. The built process will be executed by Netlify. I don't have to use `Dendron CLI` to build manually and push output `docs` folder to GitHub Pages. 
+
+By deploying on Netlify, my website will be built after each commits to my GitHub repo.
+
+The free tier limit of Netlify is 
+- 300 minutes / month for [Build minutes](https://www.netlify.com/pricing/faq/) (The time it takes Netlify to build my site)
+- 100 GB / month Bandwidth
+
+Wrt my usage during 30 days (from 2021-12-20 to 2022-01-20), by pushing daily updates to my repo, I spent 220/300 build minutes
+
+2022-01-27 update: there's [a workaround from Luke Carrier](https://luke.carrier.im/notes/soaskhwfxi1em8dzidvbn/) that use GitHub Actions to build the site then deploy on Netlify, as a workaround from 300 minutes free limit of Netlify.

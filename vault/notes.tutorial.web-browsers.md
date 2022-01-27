@@ -2,13 +2,15 @@
 id: 0eIzRYJpCANhKEHPnHldc
 title: Web Browsers
 desc: ''
-updated: 1642117523242
+updated: 1643158017860
 created: 1639704630401
 ---
 # List of Web Browsers
 
 [Opera](https://www.opera.com/)  
-Thoughts: I use [Flow](https://www.opera.com/features/flow) feature to share links between Opera on my laptop and [Opera on my iPhone](https://apps.apple.com/app/id1411869974).
+Thoughts: 
+- I use [Flow](https://www.opera.com/features/flow) feature to share links between Opera on my laptop and [Opera on iPhone](https://apps.apple.com/app/id1411869974)
+- I also use the [beta and developer channel](https://www.opera.com/computer/beta) as separate instances.
 
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)  
 Thoughts: 

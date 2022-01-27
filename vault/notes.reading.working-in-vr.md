@@ -24,7 +24,7 @@ Amazingly, with apps like [Immersed](https://immersed.com/), we can have a virtu
 Here is the author's virtual desktop, inside of [Immersed](https://immersed.com/), a VR virtual work environment
 ![immersed-environment](https://miro.medium.com/max/1400/1*ASsF9GzDtvbYDMsYizV3qQ.jpeg){max-width: 300px, display: block, margin: 0 auto}
 
-Interesting reads about the myth to be blind by spending many hours in VR everyday. Tldr: No, it can not.
+Interesting reads about the myth to be blind by spending many hours in VR everyday. Tldr: Currently, there isn't any discovered scientific causal relation. 
 
 > I asked Jerome Legerton, cofounder and chief clinical and regulatory officer of Innovega, an optics technology company. He first explained where VR eye strain primarily comes from: the [vergence-accommodation conflict](https://medium.com/vrinflux-dot-com/vergence-accommodation-conflict-is-a-bitch-here-s-how-to-design-around-it-87dab1a7d9ba). Legerton tells me the eye strain caused by breaking the natural vergence/accommodation pairing, "this unyoking of something that should be yoked," is reversible by just taking a break.
 ![vergence-accommodation-conflict](https://miro.medium.com/max/875/1*BRB4QLpT7bxA5QZN3d2xrA.jpeg){max-width: 300px, display: block, margin: 0 auto}

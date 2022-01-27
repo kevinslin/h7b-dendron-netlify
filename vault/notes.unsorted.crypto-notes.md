@@ -1,8 +1,8 @@
 ---
 id: S0H7uLBaX6Q3jb5TytfAQ
-title: Crypto Notes
+title: Crypto Reading
 desc: ''
-updated: 1642537002404
+updated: 1643144224294
 created: 1642536676294
 ---
 # Crypto book reading
