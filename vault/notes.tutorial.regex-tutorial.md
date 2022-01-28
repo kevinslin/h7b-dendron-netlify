@@ -2,7 +2,7 @@
 id: o29BprtAIME1WpDHPQWGO
 title: Regex Tutorial
 desc: ''
-updated: 1639623581382
+updated: 1643332491174
 created: 1639111891554
 ---
 # How to use Regular Expression Regex
@@ -20,7 +20,10 @@ Regex can be used to validate inputs, web scrapping, finding specific strings in
 Regex editor to build and test: [regular expression 101](https://regex101.com/)
 
 Regex visualization tools to breakdown and understand:
+- [RegExr](https://regexr.com/)
+  - help you to understand exactly what is happening in the regex
 - [Debuggex](https://www.debuggex.com/)
+  - when I already have a decent understanding of how to accomplish what I want and just want a simple way to edit & test, I think the interface is less busy for that case
 - [Regulex](https://github.com/CJex/regulex)
 
 Regular expression syntax cheatsheet
