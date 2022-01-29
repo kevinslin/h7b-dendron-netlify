@@ -2,7 +2,7 @@
 id: NUcazx6dInJ3TIMsu3sxW
 title: Amazon Price Fixing
 desc: ''
-updated: 1643331699936
+updated: 1643344002704
 created: 1643330244543
 ---
 # Reading 2022-01-28
@@ -26,7 +26,7 @@ As a result, when prices increased, some sellers experienced a marked decline in
 
 participating sellers had limited, if any, ability to lower the price of their products without withdrawing the product’s enrollment in the Sold by Amazon program. Amazon subsequently prevented many sellers from continuing to offer discounts. Sellers then bore the risk of having their products not sell in a timely manner, or at all, while still paying Amazon for things like storage fees of their enrolled products. Many sellers remained stuck with an artificially high price for their products while Amazon was able to maximize its own profits
 
-ref: [moate](https://news.ycombinator.com/item?id=30101549)
+ref: [moate](https://news.ycombinator.com/item?id=30101549)  
 A supermarket sells both Rao's Pasta sauce (7.99) and MarketBrand Pasta Sauce (2.99). The difference is that the store has paid Rao's 2 dollars to purchase their sauce which they then mark up to 7.99, and had their store band produced for them at a purchase price of 1.25. Both manufacturers have been compensated for their products.
 
 Instead, what Amazon does is take a shipment from Rao's with the promise that they will be compensated 2 dollars for each bottle that is sold (which requires Raos to tie up inventory/money) and then undercuts their price with a product that they produce themselves and list on their page much more prominently, after using Rao's product previously to demonstrate market demand for that type of good in their store.

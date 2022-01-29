@@ -2,7 +2,7 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1641601458717
+updated: 1643444305924
 created: 1640230718139
 ---
 # Tips to visualize data in Microsoft 365
@@ -157,7 +157,51 @@ Situation: I need to show forecast of sales data from multiple department, and h
 
 ![multiple-forecast](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-06_141618_BN-7rDV-et.jpg?updatedAt=1641475002328){max-width: 300px, display: block, margin: 0 auto}
 
-Idea: create `DAX measure` to show or hide data series depending on chosen slicer, then apply conditional formatting for color of each series. 
+Idea: create `DAX measure` to show or hide data series depending on chosen slicer, then apply conditional formatting for color of each series.
+
+## Add annotations into a chart - Power BI
+ref: [Curbal](https://www.youtube.com/watch?v=3rr-XbbGT9o)
+
+use case: 
+- Annotations on charts are helpful for showing when key events occurred, especially when they have a noticeable impact on the data  or to give insights on the numbers in text form to help the reader understand the chart
+- we can filter or highlight from types of events so positive and negative events can be highlighted
+
+![annotated-chart](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_012559_rODs3rdRc.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643416082316){max-width: 300px, display: block, margin: 0 auto}
+
+Idea: 
+- in current active data model, create a event data table, and connect it into the calendar table
+![event-data-table](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_013402_R1fRVcfLU.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643416456693){max-width: 300px, display: block, margin: 0 auto}
+- then create custom visual for chart using [charticulator](https://charticulator.com/)
+
+## Create dumbbell chart - Power BI
+ref: [Curbal Data Labs](https://www.youtube.com/watch?v=gz6v8EDbjsw), [pluralsight](https://www.pluralsight.com/guides/tableau-playbook-dumbbell-chart), [PlayfairData](https://playfairdata.com/tableau-201-how-to-make-dumbbell-charts/)
+
+dumbbell charts, aka DNA charts (or other aliases like gap chart, barbell chart, and connected dot plot). This slang name came from their appearance, which look similar to weights, and sometimes strands of DNA, when they are in a horizontal orientation. 
+
+use case:
+- illustrating the change between two data points
+- the example below compares the market sales of two pizza companies from 2007 to 2016. We can observe each sales trend separately by points. In the meantime, we can also use line to see the gap between Pizza Hut and Domino's
+![dumbbell-chart](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_080426_8WnTvoOJa.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643439904893){max-width: 300px, display: block, margin: 0 auto}
+
+Idea:
+- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/)
+
+## Evaluate performance with bullet chart
+ref: [Curbal Data Labs](https://www.youtube.com/watch?v=1wBD7vD8do8), [The Data Visualisation Catalogue](https://datavizcatalogue.com/methods/bullet_graph.html)
+
+Bullet chart is an alternative to dashboard gauges and meters.
+
+![bullet-chart-example](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_090037_Kw_lCcrEM.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643443264437){max-width: 300px, display: block, margin: 0 auto}
+
+Explain the chart: 
+- the main bar in the middle of the chart, known as the *Feature Measure*. 
+- If the main bar has passed the position of *Comparative Measure*, you know you’ve hit your goal. 
+- The segmented coloured bars behind the *Feature Measure* are used to display qualitative range scores. Each colour  are used to assign a performance range rating. So for example, poor, average and great
+
+![bullet-chart-explain](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_091024_GBC2fMDBi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643443839005){max-width: 300px, display: block, margin: 0 auto}
+
+How to create:
+- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/)
 
 ## Helpful resources:
 

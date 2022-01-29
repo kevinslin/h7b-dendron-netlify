@@ -2,7 +2,7 @@
 id: r1SEkbHOUE3EWKkd3cRWE
 title: UBS Buy Wealthfront
 desc: ''
-updated: 1643252485718
+updated: 1643434477792
 created: 1643249308181
 ---
 # Reading 2022-01-27
@@ -22,7 +22,7 @@ created: 1643249308181
 
 ## Notes from reading
 
-> Note to self: this HN discussion is a joy to read. Since I always think that robo-advisor is the simplest way to invest for uninformed investors and idiots like me. The business model of robo wealth management is attractive for entrepreneur?
+> Note to self: this HN discussion is a joy to read. Since I always think that robo-advisor is the simplest way to invest for uninformed or average investors like me. The business model of robo wealth management is attractive for entrepreneur?
 
 ref: [pyrrhotech](https://news.ycombinator.com/item?id=30089002)  
 [Grizzly Bulls](https://grizzlybulls.com/), algotrading models to help tackle the challenge of when to hedge  
