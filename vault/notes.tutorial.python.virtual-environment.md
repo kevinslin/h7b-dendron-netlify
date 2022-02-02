@@ -2,16 +2,13 @@
 id: 5AA8KKYfUpbCkcdm7CaMX
 title: Virtual Environment
 desc: ''
-updated: 1642734088040
+updated: 1643760371158
 created: 1639626240928
 ---
 # Python Virtual Environments
 ref: 
 - [Real Python](https://realpython.com/python-virtual-environments-a-primer/)
-- [Liquid Web | setup Python Virtual Environment on Windows 10](https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/)
-- [Ruslanmv | setup Python Virtual Environment in WSL](https://ruslanmv.com/blog/Python3-in-Windows-with-Ubuntu)
 - [opensource | guide with virtualenvwrapper](https://opensource.com/article/21/2/python-virtualenvwrapper)
-- [Analyzing Alpha | Python Virtual Environments: Setup & Usage](https://analyzingalpha.com/python-virtual-environment)
 
 by default, every project on your system will use the same directories to store and retrieve site packages (third party libraries)
 
@@ -63,3 +60,38 @@ Prerequisite: [[Enable the Windows Subsystem for Linux (WSL)|notes.tutorial.wind
     [Environment]::SetEnvironmentVariable("WORKON_HOME", "D:\Workspace\.virtualenvs", "User")
     [Environment]::SetEnvironmentVariable("PROJECT_HOME", "D:\Workspace\project", "User")
     ```
+
+### Use `virtualenvwrapper`
+
+Display the location of `$WORKON_HOME` that contains all of the virtualenvwrapper data/files
+```shell
+$ echo $WORKON_HOME
+```
+
+[mkvirtualenv](http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html#mkvirtualenv)  
+create and activate a new environment in the directory located at `$WORKON_HOME`
+```shell
+$ mkvirtualenv my-new-project
+```
+
+[deactivate](http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html#deactivate)  
+stop using that environment
+```shell
+(my-new-project) $ deactivate
+```
+
+[workon](http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html#workon)  
+List all working virtual environments
+```shell
+$ workon
+```
+Activate the desired environment
+```shell
+$ workon project-name
+```
+
+## Related resources
+
+- [Liquid Web | setup Python Virtual Environment on Windows 10](https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/)
+- [Ruslanmv | setup Python Virtual Environment in WSL](https://ruslanmv.com/blog/Python3-in-Windows-with-Ubuntu)
+- [Analyzing Alpha | Python Virtual Environments: Setup & Usage](https://analyzingalpha.com/python-virtual-environment)

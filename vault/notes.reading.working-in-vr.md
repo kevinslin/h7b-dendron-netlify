@@ -15,7 +15,7 @@ created: 1642633192671
 - Year of publication: 2022
 - Category: Blog
 - Topic: 
-- Related: [Immersed Blog](https://blog.immersed.team/working-from-orbit-39bf95a6d385), [Hacker News](https://news.ycombinator.com/item?id=28678041), [reddit](https://www.reddit.com/r/Vive/comments/r1kfd7/does_anyone_else_work_in_vr_like_me/), [Nicole Valentine](https://medium.com/@nicoleva/writing-on-the-holodeck-1477677c4191)
+- Related: [Immersed Blog](https://blog.immersed.team/working-from-orbit-39bf95a6d385), [Hacker News](https://news.ycombinator.com/item?id=28678041), [reddit](https://www.reddit.com/r/Vive/comments/r1kfd7/does_anyone_else_work_in_vr_like_me/), [Nicole Valentine](https://medium.com/@nicoleva/writing-on-the-holodeck-1477677c4191), [Unscripted Coding](https://youtu.be/K2lUYm3TT-A)
 
 ## Notes from reading
 

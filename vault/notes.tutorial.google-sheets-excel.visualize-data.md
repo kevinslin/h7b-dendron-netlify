@@ -47,7 +47,7 @@ Then insert a `combo chart` with the recently created pivot table as `data range
 
 ## Combo chart with a dynamic reference line - Power BI
 
-ref: [How to Power BI](https://www.youtube.com/watch?v=9TyKMEoUMy0)
+ref: [How to Power BI](https://www.youtube.com/watch?v=9TyKMEoUMy0), [Havens Consulting](https://youtu.be/iYC3rPLn8GQ)
 
 ![dynamic-ref-line](https://i.imgur.com/WSw6P3L.jpg){max-width: 300px, display: block, margin: 0 auto}
 
