@@ -2,7 +2,7 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1643444305924
+updated: 1643866351256
 created: 1640230718139
 ---
 # Tips to visualize data in Microsoft 365
@@ -174,7 +174,7 @@ Idea:
 - then create custom visual for chart using [charticulator](https://charticulator.com/)
 
 ## Create dumbbell chart - Power BI
-ref: [Curbal Data Labs](https://www.youtube.com/watch?v=gz6v8EDbjsw), [pluralsight](https://www.pluralsight.com/guides/tableau-playbook-dumbbell-chart), [PlayfairData](https://playfairdata.com/tableau-201-how-to-make-dumbbell-charts/)
+ref: [pluralsight](https://www.pluralsight.com/guides/tableau-playbook-dumbbell-chart), [PlayfairData](https://playfairdata.com/tableau-201-how-to-make-dumbbell-charts/)
 
 dumbbell charts, aka DNA charts (or other aliases like gap chart, barbell chart, and connected dot plot). This slang name came from their appearance, which look similar to weights, and sometimes strands of DNA, when they are in a horizontal orientation. 
 
@@ -183,11 +183,13 @@ use case:
 - the example below compares the market sales of two pizza companies from 2007 to 2016. We can observe each sales trend separately by points. In the meantime, we can also use line to see the gap between Pizza Hut and Domino's
 ![dumbbell-chart](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_080426_8WnTvoOJa.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643439904893){max-width: 300px, display: block, margin: 0 auto}
 
-Idea:
-- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/)
+How to create:
+- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/). Details in [tutorial from Curbal Data Labs](https://www.youtube.com/watch?v=gz6v8EDbjsw)
+- another modified dumbbell charts to compare two variables. Details in [tutorial from Curbal Data Labs](https://www.youtube.com/watch?v=L0plebKtKXo)
+  ![modified-dumbbell-chart](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-02-03_062820_MFj5xK2p-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643866134659){max-width: 300px, display: block, margin: 0 auto}
 
 ## Evaluate performance with bullet chart
-ref: [Curbal Data Labs](https://www.youtube.com/watch?v=1wBD7vD8do8), [The Data Visualisation Catalogue](https://datavizcatalogue.com/methods/bullet_graph.html)
+ref: [The Data Visualisation Catalogue](https://datavizcatalogue.com/methods/bullet_graph.html)
 
 Bullet chart is an alternative to dashboard gauges and meters.
 
@@ -201,7 +203,25 @@ Explain the chart:
 ![bullet-chart-explain](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-29_091024_GBC2fMDBi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643443839005){max-width: 300px, display: block, margin: 0 auto}
 
 How to create:
-- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/)
+- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/). Details in [tutorial from Curbal Data Labs](https://www.youtube.com/watch?v=1wBD7vD8do8)
+
+## Show seasonality with cycle plots
+ref: [Naomi Robbins](https://www.perceptualedge.com/articles/guests/intro_to_cycle_plots.pdf), [Daydreaming Numbers](http://daydreamingnumbers.com/blog/cycle-plots/)
+
+A cycle plot (Cleveland, Dunn, and Terpenning, 1978) shows both the cycle or trend and the
+day-of-the-week or the month-of-the-year effect
+
+![cycle-plot-example-0](https://exceluser.com/wp-content/uploads/2020/02/chart-3-one-line-per-month.jpg){max-width: 300px, display: block, margin: 0 auto}
+![cycle-plot-example-1](https://mkt.tableau.com/files/cycleplot.png){max-width: 300px, display: block, margin: 0 auto}
+
+As an explanation, take a look at next chart. An analyst might want to know, for example, if sales differ by the day-of-the-week or by the month-of-the-year. The cycle plot below is created as an example of the sales of a hypothetical company over an eight week period. The horizontal line showing the mean for each day (Monday to Sunday).
+
+![cycle-plot-example-2](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-02-03_060911_DqcsljFQa.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643864968469){max-width: 300px, display: block, margin: 0 auto}
+
+We see that sales for Mondays and Wednesdays have increased during the eight week period while sales for Tuesdays have decreased. Sales for the other four days were less variable and fluctuated around their means. 
+
+How to create:
+- in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/). Details in [tutorial from Curbal Data Labs](https://www.youtube.com/watch?v=oe9M1o_e0WA)
 
 ## Helpful resources:
 

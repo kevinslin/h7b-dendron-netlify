@@ -2,7 +2,7 @@
 id: WXoYpLmbGZWi9gVX
 title: How to Collect Market Data (stocks/crypto)
 desc: ''
-updated: 1643181483883
+updated: 1643865864172
 created: 1626513463054
 ---
 # How do I get stocks/crypto trading data
@@ -31,6 +31,9 @@ Free unofficial community package:
 
 [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 - curated list of libraries, packages and resources for Quants
+
+[QuantStats](https://github.com/ranaroussi/quantstats)
+- Portfolio analytics, allowing quants and portfolio managers to understand their performance better by providing them with in-depth analytics and risk metrics
 
 [TradeKit](https://github.com/hackingthemarkets/tradekit)
 - list of various Python libraries and frameworks used for financial applications
@@ -71,6 +74,12 @@ Free unofficial community package:
 [Erol Aspromatis | Get Stock Pricing Data From The Polygon.io API For Algo-Trading Using Python](https://www.youtube.com/watch?v=sTlBQ3nVuJE)
 
 [[PythonForFinance - Build Financial Data Database with Python|notes.reading.build-financial-database-with-python]]
+
+[Part Time Larry | QuantStats: Portfolio Analytics with Python Tutorial](https://www.youtube.com/watch?v=Dm8GaSYZPF8)
+
+[Part Time Larry | IEX Cloud API - Stock Fundamentals Dashboard](https://www.youtube.com/watch?v=bPPJTc3JoMI)
+
+[Part Time Larry | TradeWell Backtesting App](https://www.youtube.com/watch?v=zxI97CmYGh0)
 
 ## Getting started
 
