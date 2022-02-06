@@ -5,7 +5,9 @@ desc: ''
 updated: 1642616199784
 created: 1642614079563
 ---
-# How I use tags in Dendron
+# How do I use tag in note taking
+
+## How tag is implemented in Dendron
 ref: [Dendron wiki](https://wiki.dendron.so/notes/8bc9b3f1-8508-4d3a-a2de-be9f12ef1821/)
 
 Tags can be added either 
@@ -32,3 +34,7 @@ In Dendron, tags are just a shorthand for writing notes with aliases `[[#example
 - can link tags together by adding links in their note's content
 
 Tags support press `Tab` to autocomplete `(intellisense)`, but tag notes must be created for autocomplete to work. To create a tag note, select the tag and use command `Dendron: Goto Note` (or `Ctrl+Enter`).
+
+## What kind of tag do I use?
+
+Some typical tags mentioned in a [discussion in Obsidian community](https://forum.obsidian.md/t/a-process-for-figuring-out-what-organizational-tags-i-need-in-my-vault/31221)
