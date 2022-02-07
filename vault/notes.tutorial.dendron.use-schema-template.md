@@ -2,7 +2,7 @@
 id: 0CUUNDwNeRutJrqHZATuk
 title: Use Schema Template
 desc: ''
-updated: 1642614054839
+updated: 1644197921355
 created: 1642443093888
 ---
 # How do I use schema and templates in Dendron
@@ -22,7 +22,7 @@ I have to create a schema and template for my notes in `reading` section.
 - template: to reproduce the outline of content
 
 I follow this [guide](https://wiki.dendron.so/notes/5U4eAiqshI67VxIL40KWH/)
-1. Create a `notes-reading` template  
+1. Create a `notes-reading` template with the [variables](https://wiki.dendron.so/notes/GelEQPZrSgr3CK9y10Nrg/) for current date
     ![[templates.notes-reading]]
     Next, in the frontmatter of `templates.md`, set `nav_exclude: true` to hide this `template` note from the navigation bar
 2. Create a `notes` schema via `notes.schema.yml`

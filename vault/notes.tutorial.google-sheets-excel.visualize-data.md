@@ -2,10 +2,10 @@
 id: 4hL9V93O6LLwFbuHQvC8H
 title: Visualize Data
 desc: ''
-updated: 1643866351256
+updated: 1644215904268
 created: 1640230718139
 ---
-# Tips to visualize data in Microsoft 365
+# Tips to visualize data in Microsoft 365 and Google Sheets
 
 ref: [ExcelIsFun](https://www.youtube.com/watch?v=UVZcamKLJgU)
 
@@ -222,6 +222,14 @@ We see that sales for Mondays and Wednesdays have increased during the eight wee
 
 How to create:
 - in Power BI, create custom visual for chart using [charticulator](https://charticulator.com/). Details in [tutorial from Curbal Data Labs](https://www.youtube.com/watch?v=oe9M1o_e0WA)
+
+## Conditional formatting a chart in Google Sheets
+ref: [stackoverflow](https://stackoverflow.com/questions/68736950/how-to-set-the-color-of-bars-in-bar-chart-based-on-certain-condition-in-google-s), [Google Docs Editor Help](https://support.google.com/docs/thread/24168999/can-you-use-conditional-formatting-in-a-chart?hl=en)
+
+![conditional-formatting-chart](https://ik.imagekit.io/casa/h7b-dendron/20220207_googleusercontents_eDGYo6TGX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644215749032){max-width: 300px, display: block, margin: 0 auto}
+
+How to create:
+- in Google Sheets, duplicate the data source to a helper table with multiple data series based on your conditions
 
 ## Helpful resources:
 
