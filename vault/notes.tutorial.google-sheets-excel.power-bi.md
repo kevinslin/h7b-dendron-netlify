@@ -2,7 +2,7 @@
 id: hrGH2IsGXmxlDMVydip5h
 title: Power Bi
 desc: ''
-updated: 1643416913884
+updated: 1644345580967
 created: 1640234050326
 ---
 # Introduction of Power BI
@@ -54,9 +54,9 @@ With respect to report usage, typical usage can be seen below.
 | Power BI Report Builder | Paginated report designers | Building paginated reports |
 | Excel | Analysts | Building Excel reports<br>Analyzing Power BI datasets |
 
-## Helpful resources:
+## Related resources:
 
-### Free learning course:
+### Tutorials:
 - [Power BI instructor-led training](https://powerbi.microsoft.com/en-us/instructor-led-training/)
 - [Microsoft Learn for Power BI](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
 

@@ -1,8 +1,8 @@
 ---
 id: HGAS1CK0zAaHORLkRwQ5k
-title: Filter Tools
+title: Filter in Google Sheets
 desc: ''
-updated: 1639282097714
+updated: 1644324109710
 created: 1639108579551
 ---
 # How to filter to get a subset data in Google Sheets
@@ -43,5 +43,25 @@ Further I can use [SUBTOTAL](https://support.google.com/docs/answer/3093649?hl=e
 ref: [Learn Google Spreadsheets | Google Sheets - Filter Function Tutorial, Introduction to Logical Arrays](https://www.youtube.com/watch?v=JQSlbQeEz1k)
 
 I can also use FILTER function in Google Sheets to extract data satisfying multiple criteria, through using logical arrays within FILTER function.
+
+**Example 1:** I want to output the subset of orders (stored in column A) that belong to *customer-X* (stored in column B)
+```javascript
+=FILTER(A2:A100, ARRAYFORMULA(B2:B100="customer-X"))
+```
+
+Though, you need to notice the caveat of this method. The length of the logical condition array (in our example `ARRAYFORMULA(B2:B100="customer-X")`) has to match the length of the data source (`A2:A100` in our example)
+
+**Example 2:** next to previous, now I want to extract the subset of orders that belong to 2 customers *person-X* and *person-Y*
+```javascript
+=FILTER(A2:A100, ARRAYFORMULA(ISNUMBER(MATCH(B2:B100,{"person-X";"person-Y"},0)))
+```
+You can watch the explanation of formula from [here](https://youtu.be/JQSlbQeEz1k?t=927). Just a remind that `{"person-X";"person-Y"}` is an array of 2 column, read [[here|notes.tutorial.google-sheets-excel.arrays-in-sheets]] again if you forgot the logic.
+
+Or you can go further, by using [REGEXMATCH fucntion](https://infoinspired.com/google-docs/spreadsheet/how-to-use-regexmatch-function-in-google-sheets/) to extract data with wildcard keywords.
+
+**Example 3:** I want to extract the subset of orders that belong to all customers that has the word *donald* in their name
+```javascript
+=FILTER(A2:A100, ARRAYFORMULA(REGEXMATCH(LOWER(B2:B100),"\bdonald\b"))
+```
 
 Duplicate [this spreadsheet file](https://docs.google.com/spreadsheets/d/1w3nrBtRaGtHfyh6blAt0X0OIAMC8n4MOwFrOdIgdyZE/) to practice

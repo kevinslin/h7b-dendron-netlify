@@ -2,7 +2,7 @@
 id: fD1VlgtfwGzb36Dv3VajC
 title: Look up Multi Criteria
 desc: ''
-updated: 1644288845262
+updated: 1644322145605
 created: 1638926606960
 ---
 # Lookup with multiple criteria from multiple columns in Google Sheets
@@ -24,6 +24,7 @@ Example use case:
 Alternative solutions: 
 - `DGET` with a helper table. This could be a better solution for lookup with multiple criteria, vs `VLOOKUP` or `INDEX MATCH combo`. Watch [tutorial](https://www.youtube.com/watch?v=lipWG59UJts) for more details
 - [[QUERY function in Google Sheets|notes.tutorial.google-sheets-excel.query-function]]
+- [[FILTER function with logical arrays|notes.tutorial.google-sheets-excel.filter-in-google-sheets#filter-function-with-multiple-criteria,1]]
 
 ## Related resources
 

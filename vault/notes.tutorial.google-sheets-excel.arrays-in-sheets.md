@@ -1,6 +1,6 @@
 ---
 id: l2ewKDjWcIkcMlAUXD0Un
-title: Using Arrays
+title: Arrays in Sheets
 desc: ''
 updated: 1639115638724
 created: 1639115420647

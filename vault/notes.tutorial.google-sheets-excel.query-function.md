@@ -2,7 +2,7 @@
 id: Xof5pPIvTRGZ0CwL6avJe
 title: Query Function
 desc: ''
-updated: 1644290774668
+updated: 1644359179927
 created: 1638306065982
 ---
 # QUERY function in Google Sheets
@@ -95,7 +95,7 @@ Alternate the `select` statement by `LOWER` function, to interpret the strings a
 =QUERY(data!A1:G100, "SELECT * WHERE LOWER(B) = '"&LOWER(B1)&"'", 1)
 ```
 
-An insteresting fact, in the query above, 
+An interesting fact, in the query above, 
 - the 1st `LOWER(B)` is a clause from `SELECT` statement of the query languange
 - the 2nd `LOWER(B1)` is a function of Google Sheets
 
@@ -141,7 +141,7 @@ use an array formula
 ### Query from multiple ranges
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=_N5zhAipVn0)
 
-- Put the combined ranges inside an `array` by enclosing them within brackets `{}`, and separating these ranges by semicolons (`;`) (read [[here|notes.tutorial.google-sheets-excel.using-arrays]] to understand the reason)
+- Put the combined ranges inside an `array` by enclosing them within brackets `{}`, and separating these ranges by semicolons (`;`) (read [[here|notes.tutorial.google-sheets-excel.arrays-in-sheets]] to understand the reason)
 - Instead of referencing columns by their letter `A, B`, refer to them as `Col1, Col2` depending on their order
 
 Example
@@ -186,7 +186,7 @@ This inspire us to find a better, but longer syntax by choosing separately 3 col
 =QUERY({data!A1:A100,data!D1:D100,data!G1:G100}, "SELECT Col1, Col2, Col3 WHERE Col3 > 8000", 1)
 ```
 - be aware that the 3 elements in the array are seperated by commas (`,`)
-- read [[here|notes.tutorial.google-sheets-excel.using-arrays]] to understand the reason
+- read [[here|notes.tutorial.google-sheets-excel.arrays-in-sheets]] to understand the reason
 
 ### Use `QUERY` to filter data based on dropdown list
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=nLW8SerwnJo)
@@ -221,6 +221,12 @@ example:
 )
 ```
 
+### Use TEXTJOIN to create dynamic Query statement
+ref: [Learn Google Spreadsheets](https://youtu.be/cH__zeKlo7Q?t=798)
+
+By integrating [TEXTJOIN](https://www.sheetaki.com/how-to-use-textjoin-function-in-google-sheets/) function, you can create a dynamic Query statement based on user inputs.
+![dynamic-query-example](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-02-08_214228_KAe5rRHro.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644353011231){max-width: 300px, display: block, margin: 0 auto}
+
 ## Related resources
 
 [Learn Google Spreadsheets | Google Sheets Query function | Youtube playlist](https://www.youtube.com/playlist?list=PLv9Pf9aNgemvAMlqvHP9RhXPW98g_eo7d)
@@ -234,3 +240,5 @@ example:
 [Learn Google Spreadsheets | QUERY Function - Select Columns with Checkboxes - Google Sheets](https://www.youtube.com/watch?v=VFSrvcqXgi8)
 
 [Learn Google Spreadsheets | QUERY Pivot Table -Google Sheets - Query Pivot, Group By, Month, Year Functions Tutorial - Part 6](https://www.youtube.com/watch?v=q0B58muHybM)
+
+[Learn Google Spreadsheets | Google Sheets - Query IN List Like SQL or Many ORs Using a Range Tutorial - Part 7](https://www.youtube.com/watch?v=AH1mRGBsjrk)
