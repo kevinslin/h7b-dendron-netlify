@@ -2,7 +2,7 @@
 id: 0dKo7zOErpWH24U0En0LD
 title: Check Error Type
 desc: ''
-updated: 1638930543847
+updated: 1644283688414
 created: 1638929794651
 ---
 # Different Error Types in Google Sheets and How to Correct Them
@@ -16,5 +16,5 @@ In Google Sheetes, function [ERROR.TYPE](https://support.google.com/docs/answer/
 - 4 for `#REF!`
 - 5 for `#NAME?`
 - 6 for `#NUM!`
-- 7 for `#N/A`
+- 7 for `#N/A`: means that the search key is not found or there is no matching key in the range
 - 8 for all other errors

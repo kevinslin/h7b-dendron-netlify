@@ -16,3 +16,7 @@ In Obsidian apps, When I modify
 all of these elements will also be updated:
 - the references link between notes
 - tags in note
+
+## Related resources 
+
+ A recent [article bt tfthacker](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36) that aim to explain to others what Obsidian is and its use cases

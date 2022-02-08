@@ -2,7 +2,7 @@
 id: KfU16jPDGG7F3nzdlT7hl
 title: Vlookup Function
 desc: ''
-updated: 1639888046983
+updated: 1644285136229
 created: 1639110616408
 ---
 # VLOOKUP and its alternative
@@ -11,11 +11,9 @@ ref:
 - [Learn Google Spreadsheets | VLOOKUP - Part 1](https://www.youtube.com/watch?v=0rWeMHdWvOc)
 - [Learn Google Spreadsheets | INDEX MATCH - Part 5](https://www.youtube.com/watch?v=-nqLkqXnAvg)
 - [Learn Google Spreadsheets | VLOOKUP - Is Sorted, Approximate Match - Part 3](https://www.youtube.com/watch?v=AwOM3yzN3so)
-- [Merge Spreadsheets](https://www.mergespreadsheets.com/guides/mergespreadsheets-vlookup-indexmatch.html)
-- [Access Analytic | Youtube](https://www.youtube.com/watch?v=qR3HVrhsoh4)
 
 With `INDEX` `MATCH` combination, the lookup column don't need to be at leftmost position.
-![](https://project-static-assets.s3.amazonaws.com/MergeSpreadsheets/IndexMatch1.png){max-width: 300px, display: block, margin: 0 auto}
+![index-match-formula](https://project-static-assets.s3.amazonaws.com/MergeSpreadsheets/IndexMatch1.png){max-width: 300px, display: block, margin: 0 auto}
 
 I can use `VLOOKUP` with sorted column and `approximate match` to get the nearest match with given data.  
 In the example, I need to find commission rate based on sales figures, which are defined in lookup table
@@ -38,3 +36,9 @@ Lastly, for large data set (more than 10k rows), do not use `VLOOKUP`, `INDEX MA
 - [[POWER PIVOT relationships|notes.tutorial.google-sheets-excel.relationship-in-data-model]]
 - [Franchise | an open-source notebook for sql
 ](https://franchise.cloud/)
+
+## Related resources
+
+[Access Analytic | Youtube](https://www.youtube.com/watch?v=qR3HVrhsoh4)
+
+[Merge Spreadsheets](https://www.mergespreadsheets.com/guides/mergespreadsheets-vlookup-indexmatch.html)

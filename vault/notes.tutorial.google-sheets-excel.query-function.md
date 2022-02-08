@@ -2,18 +2,18 @@
 id: Xof5pPIvTRGZ0CwL6avJe
 title: Query Function
 desc: ''
-updated: 1639116150041
+updated: 1644290774668
 created: 1638306065982
 ---
-# Google Sheets Query Function
+# QUERY function in Google Sheets
 
 ref: [cifl](https://codingisforlosers.com/google-sheets-query-function/), [BenCollins](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/), [coupler.io](https://blog.coupler.io/query-importrange/), [sheetaki](https://www.sheetaki.com/query-with-importrange-in-google-sheets/), [sheetgo](https://blog.sheetgo.com/google-sheets-formulas/combine-query-with-importrange-in-google-sheets/)
 
-## General use
+## Overview
 
-This is an easier-to-write alternative function of VLOOKUP, the combination of INDEX(MATCH) or FILTER.
+This is an easier-to-write alternative function of `VLOOKUP`, the combination of `INDEX(MATCH)` or `FILTER`.
 
-This function allows me to use database-type commands (a pseudo-SQL), to manipulate my data in Google Sheets
+This function allows me to use database-type commands (a pseudo-SQL), to manipulate data tables in Google Sheets
 
 Query Syntax:
 > =QUERY([data_range], [query_string], [header] (optional))
@@ -40,7 +40,7 @@ parameters of query:
 - Arithmetic functions
     - We can perform standard math operations on numeric columns.
 - Aggregation functions
-    - We can use other functions in our calculations, for example min, max and average.
+    - We can use other functions in our calculations, for example `MIN`, `MAX` and `AVERAGE`.
 
 ## Tips
 
@@ -102,7 +102,7 @@ An insteresting fact, in the query above,
 These two `LOWER` are different entities with similar syntax. 
 
 ### Filtering With Dates In The QUERY Function
-ref: [BenCollins](https://www.benlcollins.com/spreadsheets/query-dates/)
+ref: [BenCollins](https://www.benlcollins.com/spreadsheets/query-dates/), [Learn Google Spreadsheets](https://www.youtube.com/watch?v=Fbdu5jvjBYg)
 
 The problem occurs because dates in Google Sheets are actually stored as serial numbers, but the Query function requires a date as a string literal in the format `yyyy-mm-dd`, otherwise it can’t perform the comparison filter.
 
@@ -141,7 +141,7 @@ use an array formula
 ### Query from multiple ranges
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=_N5zhAipVn0)
 
-- Put the combined ranges inside an `array` by enclosing them within brackets `{}`, and seperating these ranges by semicolons (`;`) (read [[here|notes.tutorial.google-sheets-excel.using-arrays]] to understand the reason)
+- Put the combined ranges inside an `array` by enclosing them within brackets `{}`, and separating these ranges by semicolons (`;`) (read [[here|notes.tutorial.google-sheets-excel.using-arrays]] to understand the reason)
 - Instead of referencing columns by their letter `A, B`, refer to them as `Col1, Col2` depending on their order
 
 Example
@@ -181,7 +181,7 @@ So the query will be more robust if we modify
 ```
 But in this version, the query will give wrong output if we insert a new column in the middle of `data` table.
 
-Which lead a better, but longer syntax
+This inspire us to find a better, but longer syntax by choosing separately 3 columns that we need, and putting them in an array.
 ```javascript
 =QUERY({data!A1:A100,data!D1:D100,data!G1:G100}, "SELECT Col1, Col2, Col3 WHERE Col3 > 8000", 1)
 ```
@@ -205,3 +205,32 @@ When `All Regions` and `All Reps` are chosen, the output strings will be blank. 
 ```sql
 SELECT * WHERE 1=1
 ```
+
+### Rename columns and format results
+ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=eQKmAcdVccs)
+
+how to rename columns using `label`, `format` clause in Google Sheets QUERY & format results as number, currency, different date types, rename and format multiple columns.
+
+example:  
+```javascript
+=QUERY(
+    data!A1:F, 
+    "SELECT A, B, E-F
+        LABEL E-F 'Net'
+        FORMAT E-F '$#,###.00', A 'DDDD'"
+)
+```
+
+## Related resources
+
+[Learn Google Spreadsheets | Google Sheets Query function | Youtube playlist](https://www.youtube.com/playlist?list=PLv9Pf9aNgemvAMlqvHP9RhXPW98g_eo7d)
+
+[Learn Google Spreadsheets | Google Sheets QUERY Function Tutorial - SELECT, WHERE, LIKE, AND, OR, LIMIT statements - Part 1](https://www.youtube.com/watch?v=bW6P2YvLyZg)
+
+[Learn Google Spreadsheets | Google Sheets - Search, QUERY function](https://www.youtube.com/watch?v=VSGKO5gx974)
+
+[Learn Google Spreadsheets | Google Sheets QUERY - Filter by Date Range using WHERE Statement Tutorial - Part 3](https://www.youtube.com/watch?v=LFZnSY0YdwU)
+
+[Learn Google Spreadsheets | QUERY Function - Select Columns with Checkboxes - Google Sheets](https://www.youtube.com/watch?v=VFSrvcqXgi8)
+
+[Learn Google Spreadsheets | QUERY Pivot Table -Google Sheets - Query Pivot, Group By, Month, Year Functions Tutorial - Part 6](https://www.youtube.com/watch?v=q0B58muHybM)
