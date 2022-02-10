@@ -17,6 +17,7 @@ npm install @dendronhq/dendron-cli@latest
 
 # Generate static site with nextjs
 npx dendron publish init
+cd .next && git clean -f && git reset --hard && git checkout origin/dev --track && cd ..
 npx dendron publish export
 
 # Move generated website to docs directory in workspace root
